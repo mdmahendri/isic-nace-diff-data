@@ -1,0 +1,324 @@
+Looking at the provided data, I can analyze the correspondence between ISIC and NACE. The structures are very similar, with NACE being a more detailed European adaptation of ISIC. Here is the mapping based on semantic and hierarchical analysis:
+
+```json
+{
+  "mappings": [
+    {
+      "isic_codes": ["O"],
+      "nace_codes": ["O"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["77"],
+      "nace_codes": ["77"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["771", "7710"],
+      "nace_codes": ["77.1", "77.11", "77.12"],
+      "confidence": "High",
+      "match_type": "one-to-many"
+    },
+    {
+      "isic_codes": ["772"],
+      "nace_codes": ["77.2"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["7721"],
+      "nace_codes": ["77.21"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["7729"],
+      "nace_codes": ["77.22"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["773", "7730"],
+      "nace_codes": ["77.3", "77.31", "77.32", "77.33", "77.34", "77.35", "77.39"],
+      "confidence": "High",
+      "match_type": "one-to-many"
+    },
+    {
+      "isic_codes": ["774", "7740"],
+      "nace_codes": ["77.4", "77.40"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["775"],
+      "nace_codes": ["77.5"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["7751"],
+      "nace_codes": ["77.51"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["7752"],
+      "nace_codes": ["77.52"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["78"],
+      "nace_codes": ["78"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["781", "7810"],
+      "nace_codes": ["78.1", "78.10"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["782", "7820"],
+      "nace_codes": ["78.2", "78.20"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["79"],
+      "nace_codes": ["79"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["791"],
+      "nace_codes": ["79.1"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["7911"],
+      "nace_codes": ["79.11"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["7912"],
+      "nace_codes": ["79.12"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["799", "7990"],
+      "nace_codes": ["79.9", "79.90"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["80"],
+      "nace_codes": ["80"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["801"],
+      "nace_codes": ["80.0"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["8011"],
+      "nace_codes": ["80.01"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["8019"],
+      "nace_codes": ["80.09"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["81"],
+      "nace_codes": ["81"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["811", "8110"],
+      "nace_codes": ["81.1", "81.10"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["812"],
+      "nace_codes": ["81.2"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["8121"],
+      "nace_codes": ["81.21"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["8129"],
+      "nace_codes": ["81.22", "81.23"],
+      "confidence": "Medium",
+      "match_type": "one-to-many"
+    },
+    {
+      "isic_codes": ["813", "8130"],
+      "nace_codes": ["81.3", "81.30"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["82"],
+      "nace_codes": ["82"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["821", "8210"],
+      "nace_codes": ["82.1", "82.10"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["822", "8220"],
+      "nace_codes": ["82.2", "82.20"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["823", "8230"],
+      "nace_codes": ["82.3", "82.30"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["824", "8240"],
+      "nace_codes": ["82.4", "82.40"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["829"],
+      "nace_codes": ["82.9"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["8291"],
+      "nace_codes": ["82.91"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["8292"],
+      "nace_codes": ["82.92"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["8299"],
+      "nace_codes": ["82.99"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["P"],
+      "nace_codes": ["P"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["84"],
+      "nace_codes": ["84"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["841"],
+      "nace_codes": ["84.1"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["8411"],
+      "nace_codes": ["84.11"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["8412", "8413"],
+      "nace_codes": ["84.12"],
+      "confidence": "Medium",
+      "match_type": "many-to-one"
+    },
+    {
+      "isic_codes": ["8414"],
+      "nace_codes": ["84.13"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["842"],
+      "nace_codes": ["84.2"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["8421"],
+      "nace_codes": ["84.21"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["8422"],
+      "nace_codes": ["84.22"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["8423"],
+      "nace_codes": ["84.23", "84.24", "84.25"],
+      "confidence": "Medium",
+      "match_type": "one-to-many"
+    },
+    {
+      "isic_codes": ["843", "8430"],
+      "nace_codes": ["84.3", "84.30"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    }
+  ],
+  "unmatched_codes": {
+    "isic": [],
+    "nace": []
+  }
+}
+```
+
+**Analysis Notes:**
+
+1. **High Confidence Matches:** Most codes have direct semantic and hierarchical correspondence with identical or very similar titles.
+
+2. **Medium Confidence Matches:**
+   - **ISIC 8129 → NACE 81.22, 81.23:** ISIC's "Other cleaning activities" appears to cover both NACE's "Other building and industrial cleaning activities" and "Other cleaning activities."
+   - **ISIC 8412, 8413 → NACE 84.12:** ISIC has two separate codes for regulating different service types, while NACE combines them into one broader category.
+   - **ISIC 8423 → NACE 84.23, 84.24, 84.25:** ISIC's "Public order and safety activities" is more general, while NACE splits this into "Justice and judicial activities," "Public order and safety activities," and "Fire service activities."
+
+3. **Granularity:** NACE is consistently more detailed than ISIC, particularly in:
+   - Rental of motor vehicles (77.11, 77.12 vs 7710)
+   - Rental of other machinery (multiple 77.3x codes vs 7730)
+   - Public administration (more detailed breakdown in 84.2)
+
+4. **No Unmatched Codes:** All provided ISIC and NACE codes from sections O and P have been mapped. The `unmatched_codes` arrays are empty because the provided data subsets are complete for these sections.
+
+This mapping should serve as a reliable foundation for converting between the two classification systems for the provided sections.

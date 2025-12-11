@@ -1,0 +1,334 @@
+Looking at the provided data, I can see that the ISIC and NACE classifications for sections T, U, and V are extremely similar, with NACE being a more detailed European adaptation. The structure and titles are nearly identical, with the main differences being in the granularity of certain sub-classes.
+
+Here is the correspondence mapping based on a detailed analysis:
+
+```json
+{
+  "mappings": [
+    {
+      "isic_codes": ["T"],
+      "nace_codes": ["T"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["94"],
+      "nace_codes": ["94"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["941"],
+      "nace_codes": ["94.1"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["9411"],
+      "nace_codes": ["94.11"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["9412"],
+      "nace_codes": ["94.12"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["942"],
+      "nace_codes": ["94.2"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["9420"],
+      "nace_codes": ["94.20"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["949"],
+      "nace_codes": ["94.9"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["9491"],
+      "nace_codes": ["94.91"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["9492"],
+      "nace_codes": ["94.92"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["9499"],
+      "nace_codes": ["94.99"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["95"],
+      "nace_codes": ["95"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["951"],
+      "nace_codes": ["95.1"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["9510"],
+      "nace_codes": ["95.10"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["952"],
+      "nace_codes": ["95.2"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["9521"],
+      "nace_codes": ["95.21"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["9522"],
+      "nace_codes": ["95.22"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["9523"],
+      "nace_codes": ["95.23"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["9524"],
+      "nace_codes": ["95.24"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["9529"],
+      "nace_codes": ["95.29"],
+      "confidence": "Medium",
+      "match_type": "one-to-many"
+    },
+    {
+      "isic_codes": ["953"],
+      "nace_codes": ["95.3"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["9531"],
+      "nace_codes": ["95.31"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["9532"],
+      "nace_codes": ["95.32"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["954"],
+      "nace_codes": ["95.4"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["9540"],
+      "nace_codes": ["95.40"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["96"],
+      "nace_codes": ["96"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["961"],
+      "nace_codes": ["96.1"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["9610"],
+      "nace_codes": ["96.10"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["962"],
+      "nace_codes": ["96.2"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["9621"],
+      "nace_codes": ["96.21"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["9622"],
+      "nace_codes": ["96.22"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["9623"],
+      "nace_codes": ["96.23"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["963"],
+      "nace_codes": ["96.3"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["9630"],
+      "nace_codes": ["96.30"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["964"],
+      "nace_codes": ["96.4"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["9640"],
+      "nace_codes": ["96.40"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["969"],
+      "nace_codes": ["96.9"],
+      "confidence": "Medium",
+      "match_type": "one-to-many"
+    },
+    {
+      "isic_codes": ["9690"],
+      "nace_codes": ["96.99"],
+      "confidence": "Medium",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["U"],
+      "nace_codes": ["U"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["97"],
+      "nace_codes": ["97"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["970"],
+      "nace_codes": ["97.0"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["9700"],
+      "nace_codes": ["97.00"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["98"],
+      "nace_codes": ["98"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["981"],
+      "nace_codes": ["98.1"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["9810"],
+      "nace_codes": ["98.10"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["982"],
+      "nace_codes": ["98.2"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["9820"],
+      "nace_codes": ["98.20"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["V"],
+      "nace_codes": ["V"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["99"],
+      "nace_codes": ["99"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["990"],
+      "nace_codes": ["99.0"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["9900"],
+      "nace_codes": ["99.00"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    }
+  ],
+  "unmatched_codes": {
+    "isic": [],
+    "nace": ["95.25", "96.91"]
+  }
+}
+```
+
+**Analysis Notes:**
+
+1. **High Confidence Matches (One-to-One):** The vast majority of codes match perfectly with identical hierarchical structures and nearly identical titles. This includes all sections (T, U, V) and most divisions and classes.
+
+2. **Medium Confidence Matches (One-to-Many):**
+   - **ISIC 9529** → **NACE 95.29**: The titles are semantically similar ("other personal and household goods" vs "personal and household goods n.e.c."), but NACE has an additional specific class **95.25** (Repair of watches/clocks/jewellery) that ISIC does not distinguish. Therefore, ISIC 9529 likely encompasses the activities in both NACE 95.25 and 95.29.
+   - **ISIC 969** → **NACE 96.9**: Similar situation. NACE 96.9 is split into **96.91** (Provision of domestic personal service activities) and **96.99** (Other... n.e.c.). ISIC 969 ("Other personal service activities n.e.c.") appears to correspond to the entire NACE 96.9 group.
+
+3. **Unmatched NACE Codes:** These represent European-specific granularity not present in the global ISIC standard.
+   - **NACE 95.25**: Repair and maintenance of watches, clocks and jewellery. This is a subset of the broader ISIC 9529.
+   - **NACE 96.91**: Provision of domestic personal service activities. This is a subset of the broader ISIC 969.
+
+**Conclusion:** The mapping is very straightforward for the provided sections. The primary difference is that NACE provides more detailed breakdowns in the repair (95.25) and personal services (96.91) categories, reflecting specific economic activities more common or significant in the European context. For a complete correspondence, activities under NACE 95.25 and 96.91 should be aggregated into their parent ISIC categories (9529 and 969 respectively).

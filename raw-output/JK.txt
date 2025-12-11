@@ -1,0 +1,310 @@
+Looking at the ISIC and NACE classifications you provided, I can see they are extremely similar, with NACE being a European adaptation of ISIC. The structure, section letters (J, K), division numbers (58, 59, 60, 61, 62, 63), and titles are nearly identical. The main differences are in the granularity of the lowest levels and minor wording variations.
+
+Here is the correspondence mapping based on a detailed analysis:
+
+```json
+{
+  "mappings": [
+    {
+      "isic_codes": ["J"],
+      "nace_codes": ["J"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["58"],
+      "nace_codes": ["58"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["581"],
+      "nace_codes": ["58.1"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["5811"],
+      "nace_codes": ["58.11"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["5812"],
+      "nace_codes": ["58.12"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["5813"],
+      "nace_codes": ["58.13"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["5819"],
+      "nace_codes": ["58.19"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["582"],
+      "nace_codes": ["58.2"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["5821"],
+      "nace_codes": ["58.21"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["5829"],
+      "nace_codes": ["58.29"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["59"],
+      "nace_codes": ["59"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["591"],
+      "nace_codes": ["59.1"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["5911"],
+      "nace_codes": ["59.11"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["5912"],
+      "nace_codes": ["59.12"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["5913"],
+      "nace_codes": ["59.13"],
+      "confidence": "Medium",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["5914"],
+      "nace_codes": ["59.14"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["592"],
+      "nace_codes": ["59.2"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["5920"],
+      "nace_codes": ["59.20"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["60"],
+      "nace_codes": ["60"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["601"],
+      "nace_codes": ["60.1"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["6010"],
+      "nace_codes": ["60.10"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["602"],
+      "nace_codes": ["60.2"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["6020"],
+      "nace_codes": ["60.20"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["603"],
+      "nace_codes": ["60.3"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["6031"],
+      "nace_codes": ["60.31"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["6039"],
+      "nace_codes": ["60.39"],
+      "confidence": "Medium",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["K"],
+      "nace_codes": ["K"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["61"],
+      "nace_codes": ["61"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["611"],
+      "nace_codes": ["61.1"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["6110"],
+      "nace_codes": ["61.10"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["612"],
+      "nace_codes": ["61.2"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["6120"],
+      "nace_codes": ["61.20"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["619"],
+      "nace_codes": ["61.9"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["6190"],
+      "nace_codes": ["61.90"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["62"],
+      "nace_codes": ["62"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["621"],
+      "nace_codes": ["62.1"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["6211"],
+      "nace_codes": ["62.10"],
+      "confidence": "Medium",
+      "match_type": "one-to-many"
+    },
+    {
+      "isic_codes": ["6219"],
+      "nace_codes": ["62.10"],
+      "confidence": "Medium",
+      "match_type": "one-to-many"
+    },
+    {
+      "isic_codes": ["622"],
+      "nace_codes": ["62.2"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["6220"],
+      "nace_codes": ["62.20"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["629"],
+      "nace_codes": ["62.9"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["6290"],
+      "nace_codes": ["62.90"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["63"],
+      "nace_codes": ["63"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["631"],
+      "nace_codes": ["63.1"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["6310"],
+      "nace_codes": ["63.10"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["639"],
+      "nace_codes": ["63.9"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["6390"],
+      "nace_codes": ["63.91", "63.92"],
+      "confidence": "Medium",
+      "match_type": "one-to-many"
+    }
+  ],
+  "unmatched_codes": {
+    "isic": [],
+    "nace": []
+  }
+}
+```
+
+**Analysis Notes:**
+
+1.  **High Confidence Matches (One-to-One):** The vast majority of codes map directly. The hierarchical structure (Sections J/K, Divisions 58-63) and titles are nearly identical. NACE simply uses a dot (.) instead of no separator for subgroup levels (e.g., ISIC `581` = NACE `58.1`).
+
+2.  **Medium Confidence Matches:**
+    *   **ISIC 5913 to NACE 59.13:** ISIC specifies "television programme distribution," while NACE specifies "motion picture and video." The scope might be slightly different.
+    *   **ISIC 6039 to NACE 60.39:** ISIC explicitly mentions "Social network sites," while NACE uses the broader "Other content distribution activities." This is likely a match, but the NACE definition may be narrower.
+    *   **ISIC 6211 & 6219 to NACE 62.10:** This is a structural difference. ISIC breaks down "Computer programming" (`621`) into game development (`6211`) and other (`6219`). NACE keeps it as a single code (`62.10`). Therefore, both ISIC codes map to the single NACE code.
+    *   **ISIC 6390 to NACE 63.91 & 63.92:** ISIC combines "Web search portals" and "other information services" into one code (`6390`). NACE splits them into two (`63.91` and `63.92`). Therefore, the single ISIC code maps to two NACE codes.
+
+3.  **Unmatched Codes:** All provided ISIC and NACE codes have been matched. The `unmatched_codes` arrays are empty because the two lists cover exactly the same scope for sections J and K in the data you provided.
+
+**Conclusion:** The mapping is very straightforward due to the high degree of alignment between ISIC and NACE for these sections. The primary task was adjusting for the different numbering conventions and noting the few cases where granularity differs.
