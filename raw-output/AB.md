@@ -1,6 +1,6 @@
-Looking at the provided data for Sections A and B, I can create a detailed mapping. The structures are extremely similar, with NACE being a more granular European adaptation of ISIC. The main differences are in the formatting of codes (ISIC uses 4-digit codes without decimals, NACE uses a decimal system) and some minor title variations and splits.
+Looking at the ISIC and NACE codes you provided, I can see they are very closely aligned, with NACE being a more detailed European adaptation of ISIC. The structure is nearly identical at the section and division levels, with NACE often providing more granular sub-classes (using decimal points).
 
-Here is the structured JSON mapping:
+Here is the analysis and mapping:
 
 ```json
 {
@@ -129,7 +129,7 @@ Here is the structured JSON mapping:
       "isic_codes": ["013", "0130"],
       "nace_codes": ["01.3", "01.30"],
       "confidence": "High",
-      "match_type": "one-to-one"
+      "match_type": "many-to-many"
     },
     {
       "isic_codes": ["014"],
@@ -140,7 +140,7 @@ Here is the structured JSON mapping:
     {
       "isic_codes": ["0141"],
       "nace_codes": ["01.41", "01.42"],
-      "confidence": "Medium",
+      "confidence": "High",
       "match_type": "one-to-many"
     },
     {
@@ -183,7 +183,7 @@ Here is the structured JSON mapping:
       "isic_codes": ["015", "0150"],
       "nace_codes": ["01.5", "01.50"],
       "confidence": "High",
-      "match_type": "one-to-one"
+      "match_type": "many-to-many"
     },
     {
       "isic_codes": ["016"],
@@ -213,7 +213,7 @@ Here is the structured JSON mapping:
       "isic_codes": ["017", "0170"],
       "nace_codes": ["01.7", "01.70"],
       "confidence": "High",
-      "match_type": "one-to-one"
+      "match_type": "many-to-many"
     },
     {
       "isic_codes": ["02"],
@@ -225,25 +225,25 @@ Here is the structured JSON mapping:
       "isic_codes": ["021", "0210"],
       "nace_codes": ["02.1", "02.10"],
       "confidence": "High",
-      "match_type": "one-to-one"
+      "match_type": "many-to-many"
     },
     {
       "isic_codes": ["022", "0220"],
       "nace_codes": ["02.2", "02.20"],
       "confidence": "High",
-      "match_type": "one-to-one"
+      "match_type": "many-to-many"
     },
     {
       "isic_codes": ["023", "0230"],
       "nace_codes": ["02.3", "02.30"],
       "confidence": "High",
-      "match_type": "one-to-one"
+      "match_type": "many-to-many"
     },
     {
       "isic_codes": ["024", "0240"],
       "nace_codes": ["02.4", "02.40"],
       "confidence": "High",
-      "match_type": "one-to-one"
+      "match_type": "many-to-many"
     },
     {
       "isic_codes": ["03"],
@@ -291,7 +291,7 @@ Here is the structured JSON mapping:
       "isic_codes": ["033", "0330"],
       "nace_codes": ["03.3", "03.30"],
       "confidence": "High",
-      "match_type": "one-to-one"
+      "match_type": "many-to-many"
     },
     {
       "isic_codes": ["B"],
@@ -309,13 +309,13 @@ Here is the structured JSON mapping:
       "isic_codes": ["051", "0510"],
       "nace_codes": ["05.1", "05.10"],
       "confidence": "High",
-      "match_type": "one-to-one"
+      "match_type": "many-to-many"
     },
     {
       "isic_codes": ["052", "0520"],
       "nace_codes": ["05.2", "05.20"],
       "confidence": "High",
-      "match_type": "one-to-one"
+      "match_type": "many-to-many"
     },
     {
       "isic_codes": ["06"],
@@ -327,13 +327,13 @@ Here is the structured JSON mapping:
       "isic_codes": ["061", "0610"],
       "nace_codes": ["06.1", "06.10"],
       "confidence": "High",
-      "match_type": "one-to-one"
+      "match_type": "many-to-many"
     },
     {
       "isic_codes": ["062", "0620"],
       "nace_codes": ["06.2", "06.20"],
       "confidence": "High",
-      "match_type": "one-to-one"
+      "match_type": "many-to-many"
     },
     {
       "isic_codes": ["07"],
@@ -345,7 +345,7 @@ Here is the structured JSON mapping:
       "isic_codes": ["071", "0710"],
       "nace_codes": ["07.1", "07.10"],
       "confidence": "High",
-      "match_type": "one-to-one"
+      "match_type": "many-to-many"
     },
     {
       "isic_codes": ["072"],
@@ -373,9 +373,9 @@ Here is the structured JSON mapping:
     },
     {
       "isic_codes": ["081", "0810"],
-      "nace_codes": ["08.1"],
-      "confidence": "Medium",
-      "match_type": "one-to-many"
+      "nace_codes": ["08.11", "08.12"],
+      "confidence": "High",
+      "match_type": "many-to-many"
     },
     {
       "isic_codes": ["089"],
@@ -417,31 +417,37 @@ Here is the structured JSON mapping:
       "isic_codes": ["091", "0910"],
       "nace_codes": ["09.1", "09.10"],
       "confidence": "High",
-      "match_type": "one-to-one"
+      "match_type": "many-to-many"
     },
     {
       "isic_codes": ["099", "0990"],
       "nace_codes": ["09.9", "09.90"],
       "confidence": "High",
-      "match_type": "one-to-one"
+      "match_type": "many-to-many"
     }
   ],
   "unmatched_codes": {
     "isic": [],
-    "nace": ["08.11", "08.12"]
+    "nace": []
   }
 }
 ```
 
-### Key Observations and Rationale:
+**Key Observations:**
 
-1.  **High Confidence Matches:** The vast majority of codes are direct, one-to-one matches with identical or nearly identical titles. The hierarchical structure (Sections, Divisions, Groups, Classes) aligns perfectly.
-2.  **Notable Exceptions (Medium Confidence):**
-    *   **ISIC 0141 (Raising of cattle and buffaloes)** maps to **NACE 01.41 (Raising of dairy cattle)** and **01.42 (Raising of other cattle and buffaloes)**. NACE splits this category, so it's a one-to-many match. The semantic coverage is complete, but the granularity differs.
-    *   **ISIC 081/0810 (Quarrying of stone, sand and clay)** maps to the broader **NACE 08.1**. NACE provides more detail with **08.11** and **08.12**. This is a one-to-many match where the ISIC code is less granular.
-3.  **Consolidation (High Confidence):**
-    *   **ISIC 0163 (Post-harvest crop activities)** and **0164 (Seed processing for propagation)** are consolidated into a single **NACE 01.63 (Post-harvest crop activities and seed processing for propagation)**. This is a clear many-to-one match.
-4.  **Unmatched NACE Codes:** **NACE 08.11** and **08.12** are more detailed sub-categories of the ISIC 081 group. They are listed as unmatched because there is no single, equally granular ISIC code to map them to individually. They are correctly covered by the mapping to the parent code `08.1`.
-5.  **Code Format:** ISIC codes in the 4th digit (e.g., `0130`) often represent the same activity as the 3-digit group (e.g., `013`). In these cases, both are mapped to the corresponding NACE group and class for completeness. NACE uses a consistent decimal system (e.g., `01.30`).
+1. **High Structural Alignment**: The ISIC and NACE systems are nearly identical in structure for the codes provided. NACE uses decimal notation (e.g., 01.11) while ISIC uses whole numbers (e.g., 0111), but they represent the same concepts.
 
-This mapping for Sections A and B is highly reliable due to the structural and semantic alignment between the two systems.
+2. **Main Differences Found**:
+   - **0141 (Raising of cattle and buffaloes)**: Maps to **01.41 (Raising of dairy cattle)** and **01.42 (Raising of other cattle and buffaloes)**. NACE splits this into dairy vs. meat/other cattle.
+   - **0163 (Post-harvest crop activities)** and **0164 (Seed processing for propagation)**: Combined into **01.63 (Post-harvest crop activities and seed processing for propagation)** in NACE.
+   - **0810 (Quarrying of stone, sand and clay)**: Maps to **08.11 (Quarrying of ornamental stone...)** and **08.12 (Operation of gravel and sand pits...)**. NACE splits quarrying into two more specific classes.
+
+3. **Confidence Levels**: All matches are rated "High" because:
+   - Titles and descriptions are nearly identical
+   - Hierarchical structures match perfectly
+   - Cross-references in descriptions align
+   - NACE is explicitly based on ISIC with European adaptations
+
+4. **Complete Coverage**: All ISIC codes provided have corresponding NACE codes, and vice versa. The `unmatched_codes` arrays are empty because this is a complete subset mapping.
+
+**Note**: This mapping covers only the codes you provided in your query. A complete mapping would require all ISIC and NACE codes, but based on this subset, the pattern is clear and consistent.

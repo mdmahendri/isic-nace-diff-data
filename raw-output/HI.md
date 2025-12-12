@@ -1,5 +1,3 @@
-Looking at the provided data, I can analyze the correspondence between ISIC and NACE classifications for the Transportation & Storage (H) and Accommodation & Food Service (I) sections. The structures are very similar, with NACE often being more granular. Here is the mapping based on semantic and hierarchical analysis.
-
 ```json
 {
   "mappings": [
@@ -17,15 +15,15 @@ Looking at the provided data, I can analyze the correspondence between ISIC and 
     },
     {
       "isic_codes": ["491"],
-      "nace_codes": ["49.1", "49.2"],
+      "nace_codes": ["49.1"],
       "confidence": "High",
-      "match_type": "one-to-many"
+      "match_type": "one-to-one"
     },
     {
       "isic_codes": ["4911"],
-      "nace_codes": ["49.11", "49.12"],
+      "nace_codes": ["49.11"],
       "confidence": "High",
-      "match_type": "one-to-many"
+      "match_type": "one-to-one"
     },
     {
       "isic_codes": ["4912"],
@@ -40,22 +38,28 @@ Looking at the provided data, I can analyze the correspondence between ISIC and 
       "match_type": "one-to-many"
     },
     {
-      "isic_codes": ["4921", "4922"],
-      "nace_codes": ["49.31", "49.32", "49.33", "49.34", "49.39"],
-      "confidence": "High",
-      "match_type": "many-to-many"
-    },
-    {
-      "isic_codes": ["4923"],
-      "nace_codes": ["49.41"],
+      "isic_codes": ["4921"],
+      "nace_codes": ["49.12"],
       "confidence": "High",
       "match_type": "one-to-one"
     },
     {
-      "isic_codes": ["493", "4930"],
-      "nace_codes": ["49.5", "49.50"],
+      "isic_codes": ["4922"],
+      "nace_codes": ["49.31", "49.32", "49.33", "49.34", "49.39"],
       "confidence": "High",
-      "match_type": "many-to-many"
+      "match_type": "one-to-many"
+    },
+    {
+      "isic_codes": ["4923"],
+      "nace_codes": ["49.41", "49.42"],
+      "confidence": "High",
+      "match_type": "one-to-many"
+    },
+    {
+      "isic_codes": ["493", "4930"],
+      "nace_codes": ["49.50"],
+      "confidence": "High",
+      "match_type": "many-to-one"
     },
     {
       "isic_codes": ["50"],
@@ -107,15 +111,15 @@ Looking at the provided data, I can analyze the correspondence between ISIC and 
     },
     {
       "isic_codes": ["511", "5110"],
-      "nace_codes": ["51.1", "51.10"],
+      "nace_codes": ["51.10"],
       "confidence": "High",
-      "match_type": "many-to-many"
+      "match_type": "many-to-one"
     },
     {
       "isic_codes": ["512", "5120"],
-      "nace_codes": ["51.21"],
+      "nace_codes": ["51.21", "51.22"],
       "confidence": "High",
-      "match_type": "many-to-one"
+      "match_type": "many-to-many"
     },
     {
       "isic_codes": ["52"],
@@ -125,9 +129,9 @@ Looking at the provided data, I can analyze the correspondence between ISIC and 
     },
     {
       "isic_codes": ["521", "5210"],
-      "nace_codes": ["52.1", "52.10"],
+      "nace_codes": ["52.10"],
       "confidence": "High",
-      "match_type": "many-to-many"
+      "match_type": "many-to-one"
     },
     {
       "isic_codes": ["522"],
@@ -161,9 +165,9 @@ Looking at the provided data, I can analyze the correspondence between ISIC and 
     },
     {
       "isic_codes": ["5229"],
-      "nace_codes": ["52.26"],
+      "nace_codes": ["52.25", "52.26"],
       "confidence": "High",
-      "match_type": "one-to-one"
+      "match_type": "one-to-many"
     },
     {
       "isic_codes": ["523"],
@@ -192,20 +196,20 @@ Looking at the provided data, I can analyze the correspondence between ISIC and 
     {
       "isic_codes": ["531", "5310"],
       "nace_codes": ["53.10"],
-      "confidence": "Medium",
+      "confidence": "High",
       "match_type": "many-to-one"
     },
     {
       "isic_codes": ["532", "5320"],
       "nace_codes": ["53.20"],
-      "confidence": "Medium",
+      "confidence": "High",
       "match_type": "many-to-one"
     },
     {
       "isic_codes": ["533", "5330"],
       "nace_codes": ["53.30"],
       "confidence": "High",
-      "match_type": "many-to-many"
+      "match_type": "many-to-one"
     },
     {
       "isic_codes": ["I"],
@@ -221,33 +225,33 @@ Looking at the provided data, I can analyze the correspondence between ISIC and 
     },
     {
       "isic_codes": ["551", "5510"],
-      "nace_codes": ["55.1", "55.10"],
+      "nace_codes": ["55.10"],
       "confidence": "High",
-      "match_type": "many-to-many"
+      "match_type": "many-to-one"
     },
     {
       "isic_codes": ["552", "5520"],
-      "nace_codes": ["55.2", "55.20"],
+      "nace_codes": ["55.20"],
       "confidence": "High",
-      "match_type": "many-to-many"
+      "match_type": "many-to-one"
     },
     {
       "isic_codes": ["553", "5530"],
-      "nace_codes": ["55.3", "55.30"],
+      "nace_codes": ["55.30"],
       "confidence": "High",
-      "match_type": "many-to-many"
+      "match_type": "many-to-one"
     },
     {
       "isic_codes": ["554", "5540"],
-      "nace_codes": ["55.4", "55.40"],
+      "nace_codes": ["55.40"],
       "confidence": "High",
-      "match_type": "many-to-many"
+      "match_type": "many-to-one"
     },
     {
       "isic_codes": ["559", "5590"],
-      "nace_codes": ["55.9", "55.90"],
+      "nace_codes": ["55.90"],
       "confidence": "High",
-      "match_type": "many-to-many"
+      "match_type": "many-to-one"
     },
     {
       "isic_codes": ["56"],
@@ -276,40 +280,25 @@ Looking at the provided data, I can analyze the correspondence between ISIC and 
     {
       "isic_codes": ["5629"],
       "nace_codes": ["56.22"],
-      "confidence": "Medium",
+      "confidence": "High",
       "match_type": "one-to-one"
     },
     {
       "isic_codes": ["563", "5630"],
-      "nace_codes": ["56.3", "56.30"],
+      "nace_codes": ["56.30"],
       "confidence": "High",
-      "match_type": "many-to-many"
+      "match_type": "many-to-one"
     },
     {
       "isic_codes": ["564", "5640"],
-      "nace_codes": ["56.4", "56.40"],
+      "nace_codes": ["56.40"],
       "confidence": "High",
-      "match_type": "many-to-many"
+      "match_type": "many-to-one"
     }
   ],
   "unmatched_codes": {
     "isic": [],
-    "nace": ["49.42", "51.22", "52.25"]
+    "nace": []
   }
 }
 ```
-
-**Analysis Notes:**
-
-1.  **High Confidence Matches:** Most mappings are straightforward due to the shared hierarchical structure and nearly identical titles between ISIC and NACE. The core activities (rail, road, water, air transport, warehousing, accommodation, food services) align very closely.
-
-2.  **Medium Confidence Matches:**
-    *   **Postal/Courier Activities (53):** The match is medium confidence because NACE distinguishes between activities under a "universal service obligation" (`53.10`) and "other" activities (`53.20`), while ISIC (`5310`, `5320`) does not make this legal distinction. The mapping is based on the core activity being the same.
-    *   **ISIC 5629 to NACE 56.22:** The match is medium confidence because NACE `56.22` combines "contract catering" with "other food service," while ISIC `5629` is specifically "other food service activities." There is a high semantic overlap, but it's not a perfect one-to-one match.
-
-3.  **Unmatched NACE Codes:** These are European-specific adaptations with no direct equivalent in the provided ISIC structure:
-    *   **`49.42 Removal services`:** A specific type of road freight service.
-    *   **`51.22 Space transport`:** A distinct activity under air transport in NACE.
-    *   **`52.25 Logistics service activities`:** A more specific support activity not separately identified in the ISIC `522` group.
-
-4.  **Match Types:** The analysis shows a mix, with many **one-to-one** matches at the most detailed level, but also **one-to-many** where NACE is more granular (e.g., passenger rail, land passenger transport) and **many-to-many** where both systems have parent/child codes with identical titles mapping to each other.

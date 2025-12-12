@@ -1,7 +1,3 @@
-Looking at the provided ISIC and NACE codes, I can see they are from very similar versions (likely ISIC Rev. 4 and NACE Rev. 2). The structures are almost identical, with NACE often providing more detail at the 4-digit level. The main differences are in the granularity of "Other human health activities" and "Other social work activities".
-
-Here is the correspondence mapping:
-
 ```json
 {
   "mappings": [
@@ -18,14 +14,26 @@ Here is the correspondence mapping:
       "match_type": "one-to-one"
     },
     {
-      "isic_codes": ["851", "8510"],
-      "nace_codes": ["85.1", "85.10"],
+      "isic_codes": ["851"],
+      "nace_codes": ["85.1"],
       "confidence": "High",
       "match_type": "one-to-one"
     },
     {
-      "isic_codes": ["852", "8520"],
-      "nace_codes": ["85.2", "85.20"],
+      "isic_codes": ["8510"],
+      "nace_codes": ["85.10"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["852"],
+      "nace_codes": ["85.2"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["8520"],
+      "nace_codes": ["85.20"],
       "confidence": "High",
       "match_type": "one-to-one"
     },
@@ -54,8 +62,14 @@ Here is the correspondence mapping:
       "match_type": "one-to-one"
     },
     {
-      "isic_codes": ["854", "8540"],
-      "nace_codes": ["85.4", "85.40"],
+      "isic_codes": ["854"],
+      "nace_codes": ["85.4"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["8540"],
+      "nace_codes": ["85.40"],
       "confidence": "High",
       "match_type": "one-to-one"
     },
@@ -120,14 +134,26 @@ Here is the correspondence mapping:
       "match_type": "one-to-one"
     },
     {
-      "isic_codes": ["861", "8610"],
-      "nace_codes": ["86.1", "86.10"],
+      "isic_codes": ["861"],
+      "nace_codes": ["86.1"],
       "confidence": "High",
       "match_type": "one-to-one"
     },
     {
-      "isic_codes": ["862", "8620"],
+      "isic_codes": ["8610"],
+      "nace_codes": ["86.10"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["862"],
       "nace_codes": ["86.2"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["8620"],
+      "nace_codes": ["86.21", "86.22", "86.23"],
       "confidence": "High",
       "match_type": "one-to-many"
     },
@@ -156,20 +182,38 @@ Here is the correspondence mapping:
       "match_type": "one-to-one"
     },
     {
-      "isic_codes": ["871", "8710"],
-      "nace_codes": ["87.1", "87.10"],
+      "isic_codes": ["871"],
+      "nace_codes": ["87.1"],
       "confidence": "High",
       "match_type": "one-to-one"
     },
     {
-      "isic_codes": ["872", "8720"],
-      "nace_codes": ["87.2", "87.20"],
+      "isic_codes": ["8710"],
+      "nace_codes": ["87.10"],
       "confidence": "High",
       "match_type": "one-to-one"
     },
     {
-      "isic_codes": ["873", "8730"],
-      "nace_codes": ["87.3", "87.30"],
+      "isic_codes": ["872"],
+      "nace_codes": ["87.2"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["8720"],
+      "nace_codes": ["87.20"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["873"],
+      "nace_codes": ["87.3"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["8730"],
+      "nace_codes": ["87.30"],
       "confidence": "High",
       "match_type": "one-to-one"
     },
@@ -198,16 +242,28 @@ Here is the correspondence mapping:
       "match_type": "one-to-one"
     },
     {
-      "isic_codes": ["881", "8810"],
-      "nace_codes": ["88.1", "88.10"],
+      "isic_codes": ["881"],
+      "nace_codes": ["88.1"],
       "confidence": "High",
       "match_type": "one-to-one"
     },
     {
-      "isic_codes": ["889", "8890"],
+      "isic_codes": ["8810"],
+      "nace_codes": ["88.10"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["889"],
       "nace_codes": ["88.9"],
       "confidence": "High",
       "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["8890"],
+      "nace_codes": ["88.91", "88.99"],
+      "confidence": "Medium",
+      "match_type": "one-to-many"
     },
     {
       "isic_codes": ["S"],
@@ -246,8 +302,14 @@ Here is the correspondence mapping:
       "match_type": "one-to-one"
     },
     {
-      "isic_codes": ["902", "9020"],
-      "nace_codes": ["90.2", "90.20"],
+      "isic_codes": ["902"],
+      "nace_codes": ["90.2"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["9020"],
+      "nace_codes": ["90.20"],
       "confidence": "High",
       "match_type": "one-to-one"
     },
@@ -312,8 +374,14 @@ Here is the correspondence mapping:
       "match_type": "one-to-one"
     },
     {
-      "isic_codes": ["913", "9130"],
-      "nace_codes": ["91.3", "91.30"],
+      "isic_codes": ["913"],
+      "nace_codes": ["91.3"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["9130"],
+      "nace_codes": ["91.30"],
       "confidence": "High",
       "match_type": "one-to-one"
     },
@@ -336,8 +404,20 @@ Here is the correspondence mapping:
       "match_type": "one-to-one"
     },
     {
-      "isic_codes": ["92", "920", "9200"],
-      "nace_codes": ["92", "92.0", "92.00"],
+      "isic_codes": ["92"],
+      "nace_codes": ["92"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["920"],
+      "nace_codes": ["92.0"],
+      "confidence": "High",
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["9200"],
+      "nace_codes": ["92.00"],
       "confidence": "High",
       "match_type": "one-to-one"
     },
@@ -392,25 +472,7 @@ Here is the correspondence mapping:
   ],
   "unmatched_codes": {
     "isic": [],
-    "nace": ["86.21", "86.22", "86.23", "88.91"]
+    "nace": []
   }
 }
 ```
-
-**Key Observations:**
-
-1. **High Confidence Matches:** Most codes (95%+) have direct, one-to-one correspondence with identical titles and hierarchical structure.
-
-2. **Areas of Divergence (NACE more granular):**
-   * **Medical/Dental Practice (ISIC 8620):** Maps to the NACE group **86.2**, which contains three subclasses (86.21, 86.22, 86.23). This is a clear case of NACE providing European-specific detail.
-   * **Other Human Health (ISIC 8699):** This broad ISIC category corresponds to multiple specific NACE codes (86.91-86.96, 86.99). The mapping is logical but less precise.
-   * **Other Social Work (ISIC 8890):** Maps to the NACE group **88.9**, which contains a specific code for child day-care (88.91) and a residual "other" code (88.99).
-   * **Other Sports (ISIC 9319):** Likely encompasses both NACE 93.13 (Fitness centres) and 93.19 (Other sports).
-
-3. **Unmatched NACE Codes:** The codes listed under `unmatched_codes.nace` are not directly found in the ISIC structure at the same level of detail. They are European elaborations of broader ISIC categories.
-
-**Confidence Levels Explained:**
-* **High:** Direct semantic and structural match (identical titles, same hierarchy level).
-* **Medium:** Logical correspondence where NACE provides a more detailed breakdown of a broader ISIC category. The mapping is correct but implies a loss of detail when aggregating from NACE to ISIC.
-
-This mapping provides a robust foundation. For the "Medium" confidence mappings, consulting official correspondence tables or explanatory notes from Eurostat/UN would be recommended for validation.

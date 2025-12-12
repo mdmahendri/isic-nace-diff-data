@@ -1,7 +1,3 @@
-Looking at the provided data, I can see that NACE is a European adaptation of ISIC. The structures are very similar, with NACE often being more granular (especially in real estate and some professional services). The hierarchical sections (L, M, N) and division codes (64, 65, 66, 68, 69, 70, 71, 72, 73, 74, 75) are identical, which provides a strong foundation for mapping.
-
-Here is the analysis and mapping in the requested JSON format.
-
 ```json
 {
   "mappings": [
@@ -86,7 +82,7 @@ Here is the analysis and mapping in the requested JSON format.
     {
       "isic_codes": ["6492", "6493", "6494", "6495"],
       "nace_codes": ["64.92"],
-      "confidence": "Medium",
+      "confidence": "High",
       "match_type": "many-to-one"
     },
     {
@@ -123,13 +119,13 @@ Here is the analysis and mapping in the requested JSON format.
       "isic_codes": ["652", "6520"],
       "nace_codes": ["65.2", "65.20"],
       "confidence": "High",
-      "match_type": "one-to-one"
+      "match_type": "many-to-one"
     },
     {
       "isic_codes": ["653", "6530"],
       "nace_codes": ["65.3", "65.30"],
       "confidence": "High",
-      "match_type": "one-to-one"
+      "match_type": "many-to-one"
     },
     {
       "isic_codes": ["66"],
@@ -189,7 +185,7 @@ Here is the analysis and mapping in the requested JSON format.
       "isic_codes": ["663", "6630"],
       "nace_codes": ["66.3", "66.30"],
       "confidence": "High",
-      "match_type": "one-to-one"
+      "match_type": "many-to-one"
     },
     {
       "isic_codes": ["M"],
@@ -205,21 +201,15 @@ Here is the analysis and mapping in the requested JSON format.
     },
     {
       "isic_codes": ["681", "6810"],
-      "nace_codes": ["68.1", "68.11", "68.12", "68.20"],
+      "nace_codes": ["68.1", "68.11", "68.12", "68.2", "68.20"],
       "confidence": "Medium",
-      "match_type": "one-to-many"
+      "match_type": "many-to-many"
     },
     {
-      "isic_codes": ["682"],
-      "nace_codes": ["68.3"],
-      "confidence": "High",
-      "match_type": "one-to-one"
-    },
-    {
-      "isic_codes": ["6821"],
+      "isic_codes": ["682", "6821"],
       "nace_codes": ["68.31"],
       "confidence": "High",
-      "match_type": "one-to-one"
+      "match_type": "many-to-one"
     },
     {
       "isic_codes": ["6829"],
@@ -243,13 +233,13 @@ Here is the analysis and mapping in the requested JSON format.
       "isic_codes": ["691", "6910"],
       "nace_codes": ["69.1", "69.10"],
       "confidence": "High",
-      "match_type": "one-to-one"
+      "match_type": "many-to-one"
     },
     {
       "isic_codes": ["692", "6920"],
       "nace_codes": ["69.2", "69.20"],
       "confidence": "High",
-      "match_type": "one-to-one"
+      "match_type": "many-to-one"
     },
     {
       "isic_codes": ["70"],
@@ -261,13 +251,13 @@ Here is the analysis and mapping in the requested JSON format.
       "isic_codes": ["701", "7010"],
       "nace_codes": ["70.1", "70.10"],
       "confidence": "High",
-      "match_type": "one-to-one"
+      "match_type": "many-to-one"
     },
     {
       "isic_codes": ["702", "7020"],
       "nace_codes": ["70.2", "70.20"],
       "confidence": "High",
-      "match_type": "one-to-one"
+      "match_type": "many-to-one"
     },
     {
       "isic_codes": ["71"],
@@ -279,13 +269,13 @@ Here is the analysis and mapping in the requested JSON format.
       "isic_codes": ["711", "7110"],
       "nace_codes": ["71.1", "71.11", "71.12"],
       "confidence": "Medium",
-      "match_type": "one-to-many"
+      "match_type": "many-to-many"
     },
     {
       "isic_codes": ["712", "7120"],
       "nace_codes": ["71.2", "71.20"],
       "confidence": "High",
-      "match_type": "one-to-one"
+      "match_type": "many-to-one"
     },
     {
       "isic_codes": ["72"],
@@ -297,13 +287,13 @@ Here is the analysis and mapping in the requested JSON format.
       "isic_codes": ["721", "7210"],
       "nace_codes": ["72.1", "72.10"],
       "confidence": "High",
-      "match_type": "one-to-one"
+      "match_type": "many-to-one"
     },
     {
       "isic_codes": ["722", "7220"],
       "nace_codes": ["72.2", "72.20"],
       "confidence": "High",
-      "match_type": "one-to-one"
+      "match_type": "many-to-one"
     },
     {
       "isic_codes": ["73"],
@@ -315,19 +305,19 @@ Here is the analysis and mapping in the requested JSON format.
       "isic_codes": ["731", "7310"],
       "nace_codes": ["73.1", "73.11", "73.12"],
       "confidence": "Medium",
-      "match_type": "one-to-many"
+      "match_type": "many-to-many"
     },
     {
       "isic_codes": ["732", "7320"],
       "nace_codes": ["73.2", "73.20"],
       "confidence": "High",
-      "match_type": "one-to-one"
+      "match_type": "many-to-one"
     },
     {
       "isic_codes": ["733", "7330"],
       "nace_codes": ["73.3", "73.30"],
       "confidence": "High",
-      "match_type": "one-to-one"
+      "match_type": "many-to-one"
     },
     {
       "isic_codes": ["74"],
@@ -339,31 +329,25 @@ Here is the analysis and mapping in the requested JSON format.
       "isic_codes": ["741", "7410"],
       "nace_codes": ["74.1", "74.11", "74.12", "74.13", "74.14"],
       "confidence": "Medium",
-      "match_type": "one-to-many"
+      "match_type": "many-to-many"
     },
     {
       "isic_codes": ["742", "7420"],
       "nace_codes": ["74.2", "74.20"],
       "confidence": "High",
-      "match_type": "one-to-one"
+      "match_type": "many-to-one"
     },
     {
       "isic_codes": ["743", "7430"],
       "nace_codes": ["74.3", "74.30"],
       "confidence": "High",
-      "match_type": "one-to-one"
+      "match_type": "many-to-one"
     },
     {
-      "isic_codes": ["749"],
-      "nace_codes": ["74.9"],
-      "confidence": "High",
-      "match_type": "one-to-one"
-    },
-    {
-      "isic_codes": ["7491"],
+      "isic_codes": ["749", "7491"],
       "nace_codes": ["74.91"],
       "confidence": "High",
-      "match_type": "one-to-one"
+      "match_type": "many-to-one"
     },
     {
       "isic_codes": ["7499"],
@@ -372,33 +356,21 @@ Here is the analysis and mapping in the requested JSON format.
       "match_type": "one-to-one"
     },
     {
-      "isic_codes": ["75", "750", "7500"],
-      "nace_codes": ["75", "75.0", "75.00"],
+      "isic_codes": ["75"],
+      "nace_codes": ["75"],
       "confidence": "High",
       "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["750", "7500"],
+      "nace_codes": ["75.0", "75.00"],
+      "confidence": "High",
+      "match_type": "many-to-one"
     }
   ],
   "unmatched_codes": {
     "isic": [],
-    "nace": ["68.11", "68.12", "68.20", "71.11", "71.12", "73.11", "73.12", "74.11", "74.12", "74.13", "74.14"]
+    "nace": []
   }
 }
 ```
-
-### Key Mapping Notes and Rationale:
-
-1.  **High Confidence Matches:** Most codes map directly (one-to-one) with identical or near-identical titles, especially in financial services (ISIC 64-66) and professional services (ISIC 69, 70, 72, 75). The hierarchical structure is preserved.
-
-2.  **Medium Confidence & Granularity Differences (NACE more detailed):**
-    *   **ISIC 6492-6495 to NACE 64.92:** ISIC splits "Other credit granting" into specific types (trade financing, factoring, securitization, other). NACE groups them under one code. This is a logical many-to-one mapping, but some detail is lost.
-    *   **ISIC 681/6810 to NACE 68.1 & 68.20:** This is the most significant structural difference. ISIC's "Real estate activities with own or leased property" is split in NACE into "Buying/selling/development of own property" (68.1) and "Rental/operating of own or leased property" (68.20). The mapping is correct but imprecise.
-    *   **ISIC 711/7110 to NACE 71.1x:** NACE splits "Architectural and engineering activities" into separate codes for architecture (71.11) and engineering (71.12). ISIC keeps them combined.
-    *   **ISIC 731/7310 to NACE 73.1x:** NACE splits "Advertising" into agency activities and media representation.
-    *   **ISIC 741/7410 to NACE 74.1x:** NACE provides a highly detailed breakdown of specialized design activities (industrial, graphic, interior, other), while ISIC has a single code.
-
-3.  **Consolidation (ISIC more detailed):**
-    *   **ISIC 6431 & 6432 to NACE 64.31:** ISIC separates money market and non-money market investment funds. NACE combines them into one code. This is a clear many-to-one match.
-
-4.  **Unmatched NACE Codes:** The `unmatched_codes` list contains NACE codes that are sub-divisions of broader ISIC categories. They are not truly "unmatched" in a functional sense, as their parent categories are mapped. They are listed here because there is no ISIC code at that exact level of granularity. For a complete concordance, these NACE codes would map to the broader ISIC code indicated in the mapping list (e.g., NACE 68.11 maps to ISIC 681).
-
-**Disclaimer:** This mapping is based on a semantic and structural analysis of the provided code lists. For official statistical purposes, one should consult the official correspondence tables published by the UN (for ISIC) and Eurostat (for NACE).

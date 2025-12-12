@@ -1,7 +1,3 @@
-Looking at the ISIC and NACE classifications you provided, I can see they are extremely similar, with NACE being a European adaptation of ISIC. The structure, section letters (J, K), division numbers (58, 59, 60, 61, 62, 63), and titles are nearly identical. The main differences are in the granularity of the lowest levels and minor wording variations.
-
-Here is the correspondence mapping based on a detailed analysis:
-
 ```json
 {
   "mappings": [
@@ -92,7 +88,7 @@ Here is the correspondence mapping based on a detailed analysis:
     {
       "isic_codes": ["5913"],
       "nace_codes": ["59.13"],
-      "confidence": "Medium",
+      "confidence": "High",
       "match_type": "one-to-one"
     },
     {
@@ -158,7 +154,7 @@ Here is the correspondence mapping based on a detailed analysis:
     {
       "isic_codes": ["6039"],
       "nace_codes": ["60.39"],
-      "confidence": "Medium",
+      "confidence": "High",
       "match_type": "one-to-one"
     },
     {
@@ -294,17 +290,3 @@ Here is the correspondence mapping based on a detailed analysis:
   }
 }
 ```
-
-**Analysis Notes:**
-
-1.  **High Confidence Matches (One-to-One):** The vast majority of codes map directly. The hierarchical structure (Sections J/K, Divisions 58-63) and titles are nearly identical. NACE simply uses a dot (.) instead of no separator for subgroup levels (e.g., ISIC `581` = NACE `58.1`).
-
-2.  **Medium Confidence Matches:**
-    *   **ISIC 5913 to NACE 59.13:** ISIC specifies "television programme distribution," while NACE specifies "motion picture and video." The scope might be slightly different.
-    *   **ISIC 6039 to NACE 60.39:** ISIC explicitly mentions "Social network sites," while NACE uses the broader "Other content distribution activities." This is likely a match, but the NACE definition may be narrower.
-    *   **ISIC 6211 & 6219 to NACE 62.10:** This is a structural difference. ISIC breaks down "Computer programming" (`621`) into game development (`6211`) and other (`6219`). NACE keeps it as a single code (`62.10`). Therefore, both ISIC codes map to the single NACE code.
-    *   **ISIC 6390 to NACE 63.91 & 63.92:** ISIC combines "Web search portals" and "other information services" into one code (`6390`). NACE splits them into two (`63.91` and `63.92`). Therefore, the single ISIC code maps to two NACE codes.
-
-3.  **Unmatched Codes:** All provided ISIC and NACE codes have been matched. The `unmatched_codes` arrays are empty because the two lists cover exactly the same scope for sections J and K in the data you provided.
-
-**Conclusion:** The mapping is very straightforward due to the high degree of alignment between ISIC and NACE for these sections. The primary task was adjusting for the different numbering conventions and noting the few cases where granularity differs.

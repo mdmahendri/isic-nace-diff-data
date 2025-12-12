@@ -1,6 +1,4 @@
-Looking at the provided data for the **Wholesale and Retail Trade** section (ISIC G / NACE G), I can create a detailed mapping. The analysis shows that NACE is a more detailed, European adaptation of ISIC. The hierarchical structure is very similar, but NACE often splits ISIC categories into more specific sub-activities.
-
-Here is the structured JSON mapping based on the provided codes and titles:
+Based on my analysis of the provided ISIC and NACE codes for Section G (Wholesale and Retail Trade), here is the correspondence mapping. The structure is highly similar, with NACE providing more granular detail, especially in the wholesale agent activities (46.1) and retail intermediation (47.9).
 
 ```json
 {
@@ -66,10 +64,16 @@ Here is the structured JSON mapping based on the provided codes and titles:
       "match_type": "one-to-many"
     },
     {
-      "isic_codes": ["4651", "4652"],
+      "isic_codes": ["4651"],
       "nace_codes": ["46.50"],
       "confidence": "High",
-      "match_type": "many-to-one"
+      "match_type": "one-to-one"
+    },
+    {
+      "isic_codes": ["4652"],
+      "nace_codes": ["46.50"],
+      "confidence": "High",
+      "match_type": "one-to-one"
     },
     {
       "isic_codes": ["4653"],
@@ -284,7 +288,7 @@ Here is the structured JSON mapping based on the provided codes and titles:
     {
       "isic_codes": ["4773"],
       "nace_codes": ["47.76", "47.77", "47.78"],
-      "confidence": "Medium",
+      "confidence": "High",
       "match_type": "one-to-many"
     },
     {
@@ -326,21 +330,17 @@ Here is the structured JSON mapping based on the provided codes and titles:
   ],
   "unmatched_codes": {
     "isic": [],
-    "nace": [
-      "46.11", "46.12", "46.13", "46.14", "46.15", "46.16", "46.17", "46.18", "46.19",
-      "46.21", "46.22", "46.23", "46.24",
-      "46.31", "46.32", "46.33", "46.34", "46.35", "46.36", "46.37", "46.38", "46.39",
-      "47.91", "47.92"
-    ]
+    "nace": ["46.11", "46.12", "46.13", "46.14", "46.15", "46.16", "46.17", "46.18", "46.19", "46.21", "46.22", "46.23", "46.24", "46.31", "46.32", "46.33", "46.34", "46.35", "46.36", "46.37", "46.38", "46.39", "47.91", "47.92"]
   }
 }
 ```
 
-### **Analysis Summary:**
+**Analysis Notes:**
 
-*   **Confidence:** Most mappings are **High** confidence due to clear semantic and hierarchical alignment. The one **Medium** confidence mapping (`ISIC 4773` to `NACE 47.76, 47.77, 47.78`) is because ISIC's "other new goods n.e.c." is a broad residual category, making the match less precise.
-*   **Match Types:** Predominantly **one-to-many** from ISIC to NACE, reflecting NACE's greater granularity. There are also many **one-to-one** matches for well-defined categories and **many-to-one** matches where ISIC has both a 3-digit and 4-digit code for the same concept.
-*   **Unmatched NACE Codes:** All unmatched codes are highly detailed NACE subcategories. They are not "unmappable" but rather map **upwards** to their parent ISIC categories already listed in the mappings (e.g., `NACE 46.11` maps to `ISIC 4610`). They are listed in `unmatched_codes` to show they lack a direct, granular counterpart in the provided ISIC structure.
-*   **Unmatched ISIC Codes:** All provided ISIC codes have been successfully mapped.
-
-**Note:** This mapping is based solely on the code titles and hierarchy provided. For official statistical use, consulting the detailed explanatory notes in the full ISIC and NACE classification manuals is essential to confirm these correspondences, especially for residual "n.e.c." (not elsewhere classified) categories.
+1.  **High-Level Structure:** The mapping is straightforward at the Section (G) and Division (46, 47) levels, with a **one-to-one** correspondence and **High** confidence.
+2.  **Granularity Difference:** NACE is significantly more detailed, especially in:
+    *   **Wholesale Agents (46.1):** ISIC has a single class `4610`. NACE breaks this down into many specific agent classes (`46.11` to `46.19`) based on the product type. This results in a **many-to-one** mapping from ISIC to NACE.
+    *   **Retail Intermediation (47.9):** Similarly, ISIC's `4790` is split in NACE into `47.91` (non-specialised) and `47.92` (specialised).
+    *   **Product Categories:** Throughout the classifications, NACE often splits a broader ISIC class into multiple, more specific ones (e.g., `ISIC 4649` maps to **six** NACE classes). This is the most common pattern, resulting in **one-to-many** mappings.
+3.  **Unmatched NACE Codes:** The `"unmatched_codes"` list contains all the NACE classes that are subdivisions of the broader ISIC categories. They are not "unmatched" in the sense of having no corresponding activity in ISIC; rather, they represent the finer European detail within the ISIC framework. For a complete correspondence, each of these NACE codes would map **up** to its parent ISIC code as shown in the mappings list.
+4.  **Confidence:** Confidence is rated **High** for all mappings because the systems are directly aligned, with NACE being a regional elaboration of ISIC. The titles, descriptions, and hierarchical logic are semantically identical, with differences only in the level of detail.
