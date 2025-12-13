@@ -571,9 +571,9 @@
   },
   {
     "isic_codes": ["1050"],
-    "nace_codes": ["10.51"],
+    "nace_codes": ["10.51", "10.52"],
     "confidence": "High",
-    "match_type": "one-to-one"
+    "match_type": "one-to-many"
   },
   {
     "isic_codes": ["106"],
@@ -1171,9 +1171,9 @@
   },
   {
     "isic_codes": ["2410"],
-    "nace_codes": ["24.10"],
+    "nace_codes": ["24.10", "24.20", "24.31", "24.32", "24.33", "24.34"],
     "confidence": "High",
-    "match_type": "one-to-one"
+    "match_type": "one-to-many"
   },
   {
     "isic_codes": ["242"],
@@ -1213,9 +1213,9 @@
   },
   {
     "isic_codes": ["2512"],
-    "nace_codes": ["25.22"],
+    "nace_codes": ["25.12","25.22"],
     "confidence": "High",
-    "match_type": "one-to-one"
+    "match_type": "one-to-many"
   },
   {
     "isic_codes": ["2513"],
@@ -1411,9 +1411,9 @@
   },
   {
     "isic_codes": ["2813"],
-    "nace_codes": ["28.13"],
+    "nace_codes": ["28.13", "28.14"],
     "confidence": "High",
-    "match_type": "one-to-one"
+    "match_type": "one-to-many"
   },
   {
     "isic_codes": ["2814"],
@@ -1658,6 +1658,30 @@
   {
     "isic_codes": ["3313"],
     "nace_codes": ["33.13"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["3314"],
+    "nace_codes": ["33.14"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["3315"],
+    "nace_codes": ["33.15", "33.16", "33.17", "33.18"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["3319"],
+    "nace_codes": ["33.19"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["3320"],
+    "nace_codes": ["33.20"],
     "confidence": "High",
     "match_type": "one-to-one"
   },
@@ -1950,16 +1974,34 @@
     "match_type": "one-to-one"
   },
   {
+    "isic_codes": ["4610"],
+    "nace_codes": ["46.11", "46.12", "46.13", "46.14", "46.15", "46.16", "46.17", "46.18", "46.19"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
     "isic_codes": ["462"],
     "nace_codes": ["46.2"],
     "confidence": "High",
     "match_type": "one-to-one"
   },
   {
+    "isic_codes": ["4620"],
+    "nace_codes": ["46.21", "46.22", "46.23", "46.24"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
     "isic_codes": ["463"],
     "nace_codes": ["46.3"],
     "confidence": "High",
     "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["4630"],
+    "nace_codes": ["46.31", "46.32", "46.33", "46.34", "46.35", "46.36", "46.37", "46.38", "46.39"],
+    "confidence": "High",
+    "match_type": "one-to-many"
   },
   {
     "isic_codes": ["464"],
@@ -2254,6 +2296,12 @@
     "nace_codes": ["47.9"],
     "confidence": "High",
     "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["4790"],
+    "nace_codes": ["47.91", "47.92"],
+    "confidence": "High",
+    "match_type": "one-to-many"
   },
   {
     "isic_codes": ["H"],
