@@ -1,0 +1,5136 @@
+[
+  {
+    "isic_codes": ["A"],
+    "nace_codes": ["A"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["0111"],
+    "nace_codes": ["01.11"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["0112"],
+    "nace_codes": ["01.12"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["0113"],
+    "nace_codes": ["01.13"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["0114"],
+    "nace_codes": ["01.14"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["0115"],
+    "nace_codes": ["01.15"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["0116"],
+    "nace_codes": ["01.16"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["0119"],
+    "nace_codes": ["01.19"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["0121"],
+    "nace_codes": ["01.21"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["0122"],
+    "nace_codes": ["01.22"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["0123"],
+    "nace_codes": ["01.23"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["0124"],
+    "nace_codes": ["01.24"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["0125"],
+    "nace_codes": ["01.25"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["0126"],
+    "nace_codes": ["01.26"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["0127"],
+    "nace_codes": ["01.27"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["0128"],
+    "nace_codes": ["01.28"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["0129"],
+    "nace_codes": ["01.29"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["0130"],
+    "nace_codes": ["01.30"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["0141"],
+    "nace_codes": ["01.41", "01.42"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["0142"],
+    "nace_codes": ["01.43"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["0143"],
+    "nace_codes": ["01.44"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["0144"],
+    "nace_codes": ["01.45"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["0145"],
+    "nace_codes": ["01.46"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["0146"],
+    "nace_codes": ["01.47"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["0149"],
+    "nace_codes": ["01.48"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["0150"],
+    "nace_codes": ["01.50"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["0161"],
+    "nace_codes": ["01.61"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["0162"],
+    "nace_codes": ["01.62"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["0163", "0164"],
+    "nace_codes": ["01.63"],
+    "confidence": "High",
+    "match_type": "many-to-one"
+  },
+  {
+    "isic_codes": ["0170"],
+    "nace_codes": ["01.70"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["0210"],
+    "nace_codes": ["02.10"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["0220"],
+    "nace_codes": ["02.20"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["0230"],
+    "nace_codes": ["02.30"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["0240"],
+    "nace_codes": ["02.40"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["0311"],
+    "nace_codes": ["03.11"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["0312"],
+    "nace_codes": ["03.12"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["0321"],
+    "nace_codes": ["03.21"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["0322"],
+    "nace_codes": ["03.22"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["0330"],
+    "nace_codes": ["03.30"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["B"],
+    "nace_codes": ["B"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["0510"],
+    "nace_codes": ["05.10"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["0520"],
+    "nace_codes": ["05.20"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["0610"],
+    "nace_codes": ["06.10"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["0620"],
+    "nace_codes": ["06.20"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["0710"],
+    "nace_codes": ["07.10"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["0721"],
+    "nace_codes": ["07.21"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["0729"],
+    "nace_codes": ["07.29"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["0810"],
+    "nace_codes": ["08.11", "08.12"],
+    "confidence": "High",
+    "match_type": "many-to-many"
+  },
+  {
+    "isic_codes": ["0891"],
+    "nace_codes": ["08.91"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["0892"],
+    "nace_codes": ["08.92"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["0893"],
+    "nace_codes": ["08.93"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["0899"],
+    "nace_codes": ["08.99"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["0910"],
+    "nace_codes": ["09.10"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["0990"],
+    "nace_codes": ["09.90"],
+    "confidence": "High",
+    "match_type": "many-to-many"
+  },
+  {
+    "isic_codes": ["C"],
+    "nace_codes": ["C"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["1010"],
+    "nace_codes": ["10.11", "10.12", "10.13"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["1020"],
+    "nace_codes": ["10.20"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["1030"],
+    "nace_codes": ["10.31", "10.32", "10.39"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["1040"],
+    "nace_codes": ["10.41", "10.42"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["1050"],
+    "nace_codes": ["10.51", "10.52"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["1061"],
+    "nace_codes": ["10.61"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["1062"],
+    "nace_codes": ["10.62"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["1071"],
+    "nace_codes": ["10.71", "10.72"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["1072"],
+    "nace_codes": ["10.81"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["1073"],
+    "nace_codes": ["10.82"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["1074"],
+    "nace_codes": ["10.73"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["1075"],
+    "nace_codes": ["10.85"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["1076"],
+    "nace_codes": ["10.83"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["1079"],
+    "nace_codes": ["10.84", "10.86", "10.89"],
+    "confidence": "Medium",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["1080"],
+    "nace_codes": ["10.91", "10.92"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["1101"],
+    "nace_codes": ["11.01"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["1102"],
+    "nace_codes": ["11.02", "11.03", "11.04"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["1103"],
+    "nace_codes": ["11.05"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["1104"],
+    "nace_codes": ["11.06"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["1105"],
+    "nace_codes": ["11.07"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["1200"],
+    "nace_codes": ["12.00"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["1311"],
+    "nace_codes": ["13.10"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["1312"],
+    "nace_codes": ["13.20"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["1313"],
+    "nace_codes": ["13.30"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["1391"],
+    "nace_codes": ["13.91"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["1392"],
+    "nace_codes": ["13.92"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["1393"],
+    "nace_codes": ["13.93"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["1394"],
+    "nace_codes": ["13.94"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["1399"],
+    "nace_codes": ["13.95", "13.96", "13.99"],
+    "confidence": "Medium",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["1410"],
+    "nace_codes": ["14.21", "14.22", "14.23", "14.29"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["1420"],
+    "nace_codes": ["14.24"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["1430"],
+    "nace_codes": ["14.10"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["1511"],
+    "nace_codes": ["15.11"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["1512"],
+    "nace_codes": ["15.12"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["1520"],
+    "nace_codes": ["15.20"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["1610"],
+    "nace_codes": ["16.11"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["1621"],
+    "nace_codes": ["16.21"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["1622"],
+    "nace_codes": ["16.22", "16.23", "16.25"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["1623"],
+    "nace_codes": ["16.24"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["1629"],
+    "nace_codes": ["16.12", "16.26", "16.27", "16.28"],
+    "confidence": "Medium",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["1701"],
+    "nace_codes": ["17.11", "17.12"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["1702"],
+    "nace_codes": ["17.21"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["1709"],
+    "nace_codes": ["17.22", "17.23", "17.24", "17.25"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["1811"],
+    "nace_codes": ["18.11", "18.12"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["1812"],
+    "nace_codes": ["18.13", "18.14"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["1820"],
+    "nace_codes": ["18.20"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["1910"],
+    "nace_codes": ["19.10"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["1920"],
+    "nace_codes": ["19.20"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["2011"],
+    "nace_codes": ["20.11", "20.12", "20.13", "20.14"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["2012"],
+    "nace_codes": ["20.15"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["2013"],
+    "nace_codes": ["20.16", "20.17"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["2021"],
+    "nace_codes": ["20.20"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["2022"],
+    "nace_codes": ["20.30"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["2023"],
+    "nace_codes": ["20.41", "20.42"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["2029"],
+    "nace_codes": ["20.51", "20.59"],
+    "confidence": "Medium",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["2030"],
+    "nace_codes": ["20.60"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["2100"],
+    "nace_codes": ["21.10", "21.20"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["2211"],
+    "nace_codes": ["22.11"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["2219"],
+    "nace_codes": ["22.12"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["2220"],
+    "nace_codes": ["22.21", "22.22", "22.23", "22.24", "22.25", "22.26"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["2310"],
+    "nace_codes": ["23.11", "23.12", "23.13", "23.14", "23.15"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["2391"],
+    "nace_codes": ["23.20"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["2392"],
+    "nace_codes": ["23.31", "23.32"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["2393"],
+    "nace_codes": ["23.41", "23.42", "23.43", "23.44", "23.45"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["2394"],
+    "nace_codes": ["23.51", "23.52"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["2395"],
+    "nace_codes": ["23.61", "23.62", "23.63", "23.64", "23.65", "23.66"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["2396"],
+    "nace_codes": ["23.70"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["2399"],
+    "nace_codes": ["23.91", "23.99"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["2410"],
+    "nace_codes": ["24.10", "24.20", "24.31", "24.32", "24.33", "24.34"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["2420"],
+    "nace_codes": ["24.41", "24.42", "24.43", "24.44", "24.45", "24.46"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["2431"],
+    "nace_codes": ["24.51", "24.52"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["2432"],
+    "nace_codes": ["24.53", "24.54"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["2511"],
+    "nace_codes": ["25.11"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["2512"],
+    "nace_codes": ["25.12", "25.22"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["2513"],
+    "nace_codes": ["25.21"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["2520"],
+    "nace_codes": ["25.30"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["2591"],
+    "nace_codes": ["25.40"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["2592"],
+    "nace_codes": ["25.51", "25.52", "25.53"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["2593"],
+    "nace_codes": ["25.61", "25.62", "25.63"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["2599"],
+    "nace_codes": ["25.91", "25.92", "25.93", "25.94", "25.99"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["2611"],
+    "nace_codes": ["26.11"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["2619"],
+    "nace_codes": ["26.11", "26.12"],
+    "confidence": "Medium",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["2620"],
+    "nace_codes": ["26.20"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["2630"],
+    "nace_codes": ["26.30"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["2640"],
+    "nace_codes": ["26.40"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["2651"],
+    "nace_codes": ["26.51"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["2652"],
+    "nace_codes": ["26.52"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["2660"],
+    "nace_codes": ["26.60"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["2670"],
+    "nace_codes": ["26.70"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["2680"],
+    "nace_codes": ["26.70"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["2710"],
+    "nace_codes": ["27.11", "27.12"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["2720"],
+    "nace_codes": ["27.20"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["2731"],
+    "nace_codes": ["27.31"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["2732"],
+    "nace_codes": ["27.32"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["2733"],
+    "nace_codes": ["27.33"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["2740"],
+    "nace_codes": ["27.40"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["2750"],
+    "nace_codes": ["27.51", "27.52"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["2790"],
+    "nace_codes": ["27.90"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["2811"],
+    "nace_codes": ["28.11"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["2812"],
+    "nace_codes": ["28.12"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["2813"],
+    "nace_codes": ["28.13", "28.14"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["2814"],
+    "nace_codes": ["28.15"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["2815"],
+    "nace_codes": ["28.21"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["2816"],
+    "nace_codes": ["28.22"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["2817"],
+    "nace_codes": ["28.23"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["2818"],
+    "nace_codes": ["28.24"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["2819"],
+    "nace_codes": ["28.25", "28.29"],
+    "confidence": "Medium",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["2821"],
+    "nace_codes": ["28.30"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["2822"],
+    "nace_codes": ["28.41", "28.42"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["2823"],
+    "nace_codes": ["28.91"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["2824"],
+    "nace_codes": ["28.92"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["2825"],
+    "nace_codes": ["28.93"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["2826"],
+    "nace_codes": ["28.94"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["2829"],
+    "nace_codes": ["28.95", "28.96", "28.97", "28.99"],
+    "confidence": "Medium",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["2910"],
+    "nace_codes": ["29.10"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["2920"],
+    "nace_codes": ["29.20"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["2930"],
+    "nace_codes": ["29.31", "29.32"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["3011"],
+    "nace_codes": ["30.11", "30.13"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["3012"],
+    "nace_codes": ["30.12"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["3020"],
+    "nace_codes": ["30.20"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["3030"],
+    "nace_codes": ["30.31", "30.32"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["3040"],
+    "nace_codes": ["30.40"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["3091"],
+    "nace_codes": ["30.91"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["3092"],
+    "nace_codes": ["30.92"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["3099"],
+    "nace_codes": ["30.99"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["3101"],
+    "nace_codes": ["31.00"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["3102"],
+    "nace_codes": ["31.00"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["3211"],
+    "nace_codes": ["32.11", "32.12"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["3212"],
+    "nace_codes": ["32.13"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["3220"],
+    "nace_codes": ["32.20"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["3230"],
+    "nace_codes": ["32.30"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["3240"],
+    "nace_codes": ["32.40"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["3250"],
+    "nace_codes": ["32.50"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["3290"],
+    "nace_codes": ["32.91", "32.99"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["3311"],
+    "nace_codes": ["33.11"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["3312"],
+    "nace_codes": ["33.12"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["3313"],
+    "nace_codes": ["33.13"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["3314"],
+    "nace_codes": ["33.14"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["3315"],
+    "nace_codes": ["33.15", "33.16", "33.17", "33.18"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["3319"],
+    "nace_codes": ["33.19"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["3320"],
+    "nace_codes": ["33.20"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["D"],
+    "nace_codes": ["D"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["3511"],
+    "nace_codes": ["35.11"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["3512"],
+    "nace_codes": ["35.12"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["3513"],
+    "nace_codes": ["35.13", "35.14", "35.15", "35.16"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["3520"],
+    "nace_codes": ["35.21", "35.22", "35.23", "35.24"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["3530"],
+    "nace_codes": ["35.30"],
+    "confidence": "High",
+    "match_type": "many-to-one"
+  },
+  {
+    "isic_codes": ["3540"],
+    "nace_codes": ["35.40"],
+    "confidence": "High",
+    "match_type": "many-to-one"
+  },
+  {
+    "isic_codes": ["E"],
+    "nace_codes": ["E"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["3600"],
+    "nace_codes": ["36.00"],
+    "confidence": "High",
+    "match_type": "many-to-one"
+  },
+  {
+    "isic_codes": ["3700"],
+    "nace_codes": ["37.00"],
+    "confidence": "High",
+    "match_type": "many-to-one"
+  },
+  {
+    "isic_codes": ["3811"],
+    "nace_codes": ["38.11"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["3812"],
+    "nace_codes": ["38.12"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["3821"],
+    "nace_codes": ["38.31", "38.32"],
+    "confidence": "Medium",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["3822"],
+    "nace_codes": ["38.32", "38.33"],
+    "confidence": "Medium",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["3830"],
+    "nace_codes": ["38.21", "38.22", "38.23"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["3900"],
+    "nace_codes": ["39.00"],
+    "confidence": "High",
+    "match_type": "many-to-one"
+  },
+  {
+    "isic_codes": ["F"],
+    "nace_codes": ["F"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["4100"],
+    "nace_codes": ["41.00"],
+    "confidence": "High",
+    "match_type": "many-to-one"
+  },
+  {
+    "isic_codes": ["4210"],
+    "nace_codes": ["42.11", "42.12", "42.13"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["4220"],
+    "nace_codes": ["42.21", "42.22"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["4290"],
+    "nace_codes": ["42.91", "42.99"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["4311"],
+    "nace_codes": ["43.11"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["4312"],
+    "nace_codes": ["43.12", "43.13"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["4321"],
+    "nace_codes": ["43.21"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["4322"],
+    "nace_codes": ["43.22"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["4329"],
+    "nace_codes": ["43.23", "43.24"],
+    "confidence": "Medium",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["4330"],
+    "nace_codes": ["43.31", "43.32", "43.33", "43.34", "43.35"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["4340"],
+    "nace_codes": ["43.60"],
+    "confidence": "High",
+    "match_type": "many-to-one"
+  },
+  {
+    "isic_codes": ["4390"],
+    "nace_codes": [],
+    "confidence": "Medium",
+    "match_type": "many-to-many"
+  },
+  {
+    "isic_codes": ["4390"],
+    "nace_codes": ["43.41", "43.42", "43.50", "43.91", "43.99"],
+    "confidence": "Medium",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["G"],
+    "nace_codes": ["G"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["4610"],
+    "nace_codes": [
+      "46.11",
+      "46.12",
+      "46.13",
+      "46.14",
+      "46.15",
+      "46.16",
+      "46.17",
+      "46.18",
+      "46.19"
+    ],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["4620"],
+    "nace_codes": ["46.21", "46.22", "46.23", "46.24"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["4630"],
+    "nace_codes": [
+      "46.31",
+      "46.32",
+      "46.33",
+      "46.34",
+      "46.35",
+      "46.36",
+      "46.37",
+      "46.38",
+      "46.39"
+    ],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["4641"],
+    "nace_codes": ["46.41", "46.42"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["4642"],
+    "nace_codes": ["46.47"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["4649"],
+    "nace_codes": ["46.43", "46.44", "46.45", "46.46", "46.48", "46.49"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["4651"],
+    "nace_codes": ["46.50"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["4652"],
+    "nace_codes": ["46.50"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["4653"],
+    "nace_codes": ["46.61"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["4659"],
+    "nace_codes": ["46.62", "46.63", "46.64"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["4661"],
+    "nace_codes": ["46.71"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["4662"],
+    "nace_codes": ["46.72"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["4663"],
+    "nace_codes": ["46.73"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["4671"],
+    "nace_codes": ["46.81"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["4672"],
+    "nace_codes": ["46.82"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["4673"],
+    "nace_codes": ["46.83", "46.84"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["4679"],
+    "nace_codes": ["46.85", "46.86", "46.87", "46.89"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["4690"],
+    "nace_codes": ["46.90"],
+    "confidence": "High",
+    "match_type": "many-to-one"
+  },
+  {
+    "isic_codes": ["4711"],
+    "nace_codes": ["47.11"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["4719"],
+    "nace_codes": ["47.12"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["4721"],
+    "nace_codes": ["47.21", "47.22", "47.23", "47.24", "47.27"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["4722"],
+    "nace_codes": ["47.25"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["4723"],
+    "nace_codes": ["47.26"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["4730"],
+    "nace_codes": ["47.30"],
+    "confidence": "High",
+    "match_type": "many-to-one"
+  },
+  {
+    "isic_codes": ["4740"],
+    "nace_codes": ["47.40"],
+    "confidence": "High",
+    "match_type": "many-to-one"
+  },
+  {
+    "isic_codes": ["4751"],
+    "nace_codes": ["47.51"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["4752"],
+    "nace_codes": ["47.52"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["4753"],
+    "nace_codes": ["47.53"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["4759"],
+    "nace_codes": ["47.54", "47.55"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["4761"],
+    "nace_codes": ["47.61", "47.62"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["4762"],
+    "nace_codes": ["47.63"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["4763"],
+    "nace_codes": ["47.64"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["4769"],
+    "nace_codes": ["47.69"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["4771"],
+    "nace_codes": ["47.71", "47.72"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["4772"],
+    "nace_codes": ["47.73", "47.74", "47.75"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["4773"],
+    "nace_codes": ["47.76", "47.77", "47.78"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["4774"],
+    "nace_codes": ["47.79"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["4781"],
+    "nace_codes": ["47.81"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["4782"],
+    "nace_codes": ["47.82"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["4783"],
+    "nace_codes": ["47.83"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["4790"],
+    "nace_codes": ["47.91", "47.92"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["H"],
+    "nace_codes": ["H"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["4911"],
+    "nace_codes": ["49.11"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["4912"],
+    "nace_codes": ["49.20"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["4921"],
+    "nace_codes": ["49.12"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["4922"],
+    "nace_codes": ["49.31", "49.32", "49.33", "49.34", "49.39"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["4923"],
+    "nace_codes": ["49.41", "49.42"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["4930"],
+    "nace_codes": ["49.50"],
+    "confidence": "High",
+    "match_type": "many-to-one"
+  },
+  {
+    "isic_codes": ["5011"],
+    "nace_codes": ["50.10"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["5012"],
+    "nace_codes": ["50.20"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["5021"],
+    "nace_codes": ["50.30"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["5022"],
+    "nace_codes": ["50.40"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["5110"],
+    "nace_codes": ["51.10"],
+    "confidence": "High",
+    "match_type": "many-to-one"
+  },
+  {
+    "isic_codes": ["5120"],
+    "nace_codes": ["51.21", "51.22"],
+    "confidence": "High",
+    "match_type": "many-to-many"
+  },
+  {
+    "isic_codes": ["5210"],
+    "nace_codes": ["52.10"],
+    "confidence": "High",
+    "match_type": "many-to-one"
+  },
+  {
+    "isic_codes": ["5221"],
+    "nace_codes": ["52.21"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["5222"],
+    "nace_codes": ["52.22"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["5223"],
+    "nace_codes": ["52.23"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["5224"],
+    "nace_codes": ["52.24"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["5229"],
+    "nace_codes": ["52.25", "52.26"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["5231"],
+    "nace_codes": ["52.31"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["5232"],
+    "nace_codes": ["52.32"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["5310"],
+    "nace_codes": ["53.10"],
+    "confidence": "High",
+    "match_type": "many-to-one"
+  },
+  {
+    "isic_codes": ["5320"],
+    "nace_codes": ["53.20"],
+    "confidence": "High",
+    "match_type": "many-to-one"
+  },
+  {
+    "isic_codes": ["5330"],
+    "nace_codes": ["53.30"],
+    "confidence": "High",
+    "match_type": "many-to-one"
+  },
+  {
+    "isic_codes": ["I"],
+    "nace_codes": ["I"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["5510"],
+    "nace_codes": ["55.10"],
+    "confidence": "High",
+    "match_type": "many-to-one"
+  },
+  {
+    "isic_codes": ["5520"],
+    "nace_codes": ["55.20"],
+    "confidence": "High",
+    "match_type": "many-to-one"
+  },
+  {
+    "isic_codes": ["5530"],
+    "nace_codes": ["55.30"],
+    "confidence": "High",
+    "match_type": "many-to-one"
+  },
+  {
+    "isic_codes": ["5540"],
+    "nace_codes": ["55.40"],
+    "confidence": "High",
+    "match_type": "many-to-one"
+  },
+  {
+    "isic_codes": ["5590"],
+    "nace_codes": ["55.90"],
+    "confidence": "High",
+    "match_type": "many-to-one"
+  },
+  {
+    "isic_codes": ["5610"],
+    "nace_codes": ["56.11", "56.12"],
+    "confidence": "High",
+    "match_type": "many-to-many"
+  },
+  {
+    "isic_codes": ["5621"],
+    "nace_codes": ["56.21"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["5629"],
+    "nace_codes": ["56.22"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["5630"],
+    "nace_codes": ["56.30"],
+    "confidence": "High",
+    "match_type": "many-to-one"
+  },
+  {
+    "isic_codes": ["5640"],
+    "nace_codes": ["56.40"],
+    "confidence": "High",
+    "match_type": "many-to-one"
+  },
+  {
+    "isic_codes": ["J"],
+    "nace_codes": ["J"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["5811"],
+    "nace_codes": ["58.11"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["5812"],
+    "nace_codes": ["58.12"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["5813"],
+    "nace_codes": ["58.13"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["5819"],
+    "nace_codes": ["58.19"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["5821"],
+    "nace_codes": ["58.21"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["5829"],
+    "nace_codes": ["58.29"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["5911"],
+    "nace_codes": ["59.11"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["5912"],
+    "nace_codes": ["59.12"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["5913"],
+    "nace_codes": ["59.13"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["5914"],
+    "nace_codes": ["59.14"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["5920"],
+    "nace_codes": ["59.20"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["6010"],
+    "nace_codes": ["60.10"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["6020"],
+    "nace_codes": ["60.20"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["6031"],
+    "nace_codes": ["60.31"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["6039"],
+    "nace_codes": ["60.39"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["K"],
+    "nace_codes": ["K"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["6110"],
+    "nace_codes": ["61.10"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["6120"],
+    "nace_codes": ["61.20"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["6190"],
+    "nace_codes": ["61.90"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["6211"],
+    "nace_codes": ["62.10"],
+    "confidence": "Medium",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["6219"],
+    "nace_codes": ["62.10"],
+    "confidence": "Medium",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["6220"],
+    "nace_codes": ["62.20"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["6290"],
+    "nace_codes": ["62.90"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["6310"],
+    "nace_codes": ["63.10"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["6390"],
+    "nace_codes": ["63.91", "63.92"],
+    "confidence": "Medium",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["L"],
+    "nace_codes": ["L"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["6411"],
+    "nace_codes": ["64.11"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["6419"],
+    "nace_codes": ["64.19"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["6421"],
+    "nace_codes": ["64.21"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["6422"],
+    "nace_codes": ["64.22"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["6431", "6432"],
+    "nace_codes": ["64.31"],
+    "confidence": "High",
+    "match_type": "many-to-one"
+  },
+  {
+    "isic_codes": ["6433"],
+    "nace_codes": ["64.32"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["6491"],
+    "nace_codes": ["64.91"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["6492", "6493", "6494", "6495"],
+    "nace_codes": ["64.92"],
+    "confidence": "High",
+    "match_type": "many-to-one"
+  },
+  {
+    "isic_codes": ["6499"],
+    "nace_codes": ["64.99"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["6511"],
+    "nace_codes": ["65.11"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["6512"],
+    "nace_codes": ["65.12"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["6520"],
+    "nace_codes": ["65.20"],
+    "confidence": "High",
+    "match_type": "many-to-one"
+  },
+  {
+    "isic_codes": ["6530"],
+    "nace_codes": ["65.30"],
+    "confidence": "High",
+    "match_type": "many-to-one"
+  },
+  {
+    "isic_codes": ["6611"],
+    "nace_codes": ["66.11"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["6612"],
+    "nace_codes": ["66.12"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["6619"],
+    "nace_codes": ["66.19"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["6621"],
+    "nace_codes": ["66.21"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["6622"],
+    "nace_codes": ["66.22"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["6629"],
+    "nace_codes": ["66.29"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["6630"],
+    "nace_codes": ["66.30"],
+    "confidence": "High",
+    "match_type": "many-to-one"
+  },
+  {
+    "isic_codes": ["M"],
+    "nace_codes": ["M"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["6810"],
+    "nace_codes": ["68.11", "68.12", "68.20"],
+    "confidence": "Medium",
+    "match_type": "many-to-many"
+  },
+  {
+    "isic_codes": ["6821"],
+    "nace_codes": ["68.31"],
+    "confidence": "High",
+    "match_type": "many-to-one"
+  },
+  {
+    "isic_codes": ["6829"],
+    "nace_codes": ["68.32"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["N"],
+    "nace_codes": ["N"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["6910"],
+    "nace_codes": ["69.10"],
+    "confidence": "High",
+    "match_type": "many-to-one"
+  },
+  {
+    "isic_codes": ["6920"],
+    "nace_codes": ["69.20"],
+    "confidence": "High",
+    "match_type": "many-to-one"
+  },
+  {
+    "isic_codes": ["7010"],
+    "nace_codes": ["70.10"],
+    "confidence": "High",
+    "match_type": "many-to-one"
+  },
+  {
+    "isic_codes": ["7020"],
+    "nace_codes": ["70.20"],
+    "confidence": "High",
+    "match_type": "many-to-one"
+  },
+  {
+    "isic_codes": ["7110"],
+    "nace_codes": ["71.11", "71.12"],
+    "confidence": "Medium",
+    "match_type": "many-to-many"
+  },
+  {
+    "isic_codes": ["7120"],
+    "nace_codes": ["71.20"],
+    "confidence": "High",
+    "match_type": "many-to-one"
+  },
+  {
+    "isic_codes": ["7210"],
+    "nace_codes": ["72.10"],
+    "confidence": "High",
+    "match_type": "many-to-one"
+  },
+  {
+    "isic_codes": ["7220"],
+    "nace_codes": ["72.20"],
+    "confidence": "High",
+    "match_type": "many-to-one"
+  },
+  {
+    "isic_codes": ["7310"],
+    "nace_codes": ["73.11", "73.12"],
+    "confidence": "Medium",
+    "match_type": "many-to-many"
+  },
+  {
+    "isic_codes": ["7320"],
+    "nace_codes": ["73.20"],
+    "confidence": "High",
+    "match_type": "many-to-one"
+  },
+  {
+    "isic_codes": ["7330"],
+    "nace_codes": ["73.30"],
+    "confidence": "High",
+    "match_type": "many-to-one"
+  },
+  {
+    "isic_codes": ["7410"],
+    "nace_codes": ["74.11", "74.12", "74.13", "74.14"],
+    "confidence": "Medium",
+    "match_type": "many-to-many"
+  },
+  {
+    "isic_codes": ["7420"],
+    "nace_codes": ["74.20"],
+    "confidence": "High",
+    "match_type": "many-to-one"
+  },
+  {
+    "isic_codes": ["7430"],
+    "nace_codes": ["74.30"],
+    "confidence": "High",
+    "match_type": "many-to-one"
+  },
+  {
+    "isic_codes": ["7491"],
+    "nace_codes": ["74.91"],
+    "confidence": "High",
+    "match_type": "many-to-one"
+  },
+  {
+    "isic_codes": ["7499"],
+    "nace_codes": ["74.99"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["7500"],
+    "nace_codes": ["75.00"],
+    "confidence": "High",
+    "match_type": "many-to-one"
+  },
+  {
+    "isic_codes": ["O"],
+    "nace_codes": ["O"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["7710"],
+    "nace_codes": ["77.11", "77.12"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["7721", "7729"],
+    "nace_codes": ["77.21", "77.22"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["7730"],
+    "nace_codes": ["77.31", "77.32", "77.33", "77.34", "77.35", "77.39"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["7740"],
+    "nace_codes": ["77.40"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["7751", "7752"],
+    "nace_codes": ["77.51", "77.52"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["7810"],
+    "nace_codes": ["78.10"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["7820"],
+    "nace_codes": ["78.20"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["7911", "7912"],
+    "nace_codes": ["79.11", "79.12"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["7990"],
+    "nace_codes": ["79.90"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["8011"],
+    "nace_codes": ["80.01"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["8019"],
+    "nace_codes": ["80.09"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["8110"],
+    "nace_codes": ["81.10"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["8121", "8129"],
+    "nace_codes": ["81.21", "81.22", "81.23"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["8130"],
+    "nace_codes": ["81.30"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["8210"],
+    "nace_codes": ["82.10"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["8220"],
+    "nace_codes": ["82.20"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["8230"],
+    "nace_codes": ["82.30"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["8240"],
+    "nace_codes": ["82.40"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["8291", "8292", "8299"],
+    "nace_codes": ["82.91", "82.92", "82.99"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["P"],
+    "nace_codes": ["P"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["8411"],
+    "nace_codes": ["84.11"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["8412"],
+    "nace_codes": ["84.12"],
+    "confidence": "Medium",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["8413"],
+    "nace_codes": ["84.12"],
+    "confidence": "Medium",
+    "match_type": "many-to-one"
+  },
+  {
+    "isic_codes": ["8414"],
+    "nace_codes": ["84.13"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["8421", "8422", "8423"],
+    "nace_codes": ["84.21", "84.22", "84.23", "84.24", "84.25"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["8430"],
+    "nace_codes": ["84.30"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["Q"],
+    "nace_codes": ["Q"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["8510"],
+    "nace_codes": ["85.10"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["8520"],
+    "nace_codes": ["85.20"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["8531"],
+    "nace_codes": ["85.31"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["8532"],
+    "nace_codes": ["85.32"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["8533"],
+    "nace_codes": ["85.33"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["8540"],
+    "nace_codes": ["85.40"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["8551"],
+    "nace_codes": ["85.51"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["8552"],
+    "nace_codes": ["85.52"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["8553"],
+    "nace_codes": ["85.53"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["8559"],
+    "nace_codes": ["85.59"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["8561"],
+    "nace_codes": ["85.61"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["8569"],
+    "nace_codes": ["85.69"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["R"],
+    "nace_codes": ["R"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["8610"],
+    "nace_codes": ["86.10"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["8620"],
+    "nace_codes": ["86.21", "86.22", "86.23"],
+    "confidence": "High",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["8691"],
+    "nace_codes": ["86.97"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["8699"],
+    "nace_codes": [
+      "86.91",
+      "86.92",
+      "86.93",
+      "86.94",
+      "86.95",
+      "86.96",
+      "86.99"
+    ],
+    "confidence": "Medium",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["8710"],
+    "nace_codes": ["87.10"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["8720"],
+    "nace_codes": ["87.20"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["8730"],
+    "nace_codes": ["87.30"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["8791"],
+    "nace_codes": ["87.91"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["8799"],
+    "nace_codes": ["87.99"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["8810"],
+    "nace_codes": ["88.10"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["8890"],
+    "nace_codes": ["88.91", "88.99"],
+    "confidence": "Medium",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["S"],
+    "nace_codes": ["S"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["9011"],
+    "nace_codes": ["90.11"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["9012"],
+    "nace_codes": ["90.12"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["9013"],
+    "nace_codes": ["90.13"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["9020"],
+    "nace_codes": ["90.20"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["9031"],
+    "nace_codes": ["90.31"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["9039"],
+    "nace_codes": ["90.39"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["9111"],
+    "nace_codes": ["91.11"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["9112"],
+    "nace_codes": ["91.12"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["9121"],
+    "nace_codes": ["91.21"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["9122"],
+    "nace_codes": ["91.22"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["9130"],
+    "nace_codes": ["91.30"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["9141"],
+    "nace_codes": ["91.41"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["9142"],
+    "nace_codes": ["91.42"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["9200"],
+    "nace_codes": ["92.00"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["9311"],
+    "nace_codes": ["93.11"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["9312"],
+    "nace_codes": ["93.12"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["9319"],
+    "nace_codes": ["93.13", "93.19"],
+    "confidence": "Medium",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["9321"],
+    "nace_codes": ["93.21"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["9329"],
+    "nace_codes": ["93.29"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["T"],
+    "nace_codes": ["T"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["9411"],
+    "nace_codes": ["94.11"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["9412"],
+    "nace_codes": ["94.12"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["9420"],
+    "nace_codes": ["94.20"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["9491"],
+    "nace_codes": ["94.91"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["9492"],
+    "nace_codes": ["94.92"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["9499"],
+    "nace_codes": ["94.99"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["9510"],
+    "nace_codes": ["95.10"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["9521"],
+    "nace_codes": ["95.21"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["9522"],
+    "nace_codes": ["95.22"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["9523"],
+    "nace_codes": ["95.23"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["9524"],
+    "nace_codes": ["95.24"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["9529"],
+    "nace_codes": ["95.25", "95.29"],
+    "confidence": "Medium",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["9531"],
+    "nace_codes": ["95.31"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["9532"],
+    "nace_codes": ["95.32"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["9540"],
+    "nace_codes": ["95.40"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["9610"],
+    "nace_codes": ["96.10"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["9621"],
+    "nace_codes": ["96.21"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["9622"],
+    "nace_codes": ["96.22"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["9623"],
+    "nace_codes": ["96.23"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["9630"],
+    "nace_codes": ["96.30"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["9640"],
+    "nace_codes": ["96.40"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["9690"],
+    "nace_codes": ["96.91", "96.99"],
+    "confidence": "Medium",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["U"],
+    "nace_codes": ["U"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["9700"],
+    "nace_codes": ["97.00"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["9810"],
+    "nace_codes": ["98.10"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["9820"],
+    "nace_codes": ["98.20"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["V"],
+    "nace_codes": ["V"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["9900"],
+    "nace_codes": ["99.00"],
+    "confidence": "High",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["011"],
+    "nace_codes": ["01.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["012"],
+    "nace_codes": ["01.2"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["013"],
+    "nace_codes": ["01.3"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["014"],
+    "nace_codes": ["01.4"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["015"],
+    "nace_codes": ["01.5"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["016"],
+    "nace_codes": ["01.6"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["017"],
+    "nace_codes": ["01.7"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["021"],
+    "nace_codes": ["02.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["022"],
+    "nace_codes": ["02.2"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["023"],
+    "nace_codes": ["02.3"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["024"],
+    "nace_codes": ["02.4"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["031"],
+    "nace_codes": ["03.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["032"],
+    "nace_codes": ["03.2"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["033"],
+    "nace_codes": ["03.3"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["051"],
+    "nace_codes": ["05.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["052"],
+    "nace_codes": ["05.2"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["061"],
+    "nace_codes": ["06.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["062"],
+    "nace_codes": ["06.2"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["071"],
+    "nace_codes": ["07.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["072"],
+    "nace_codes": ["07.2"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["081"],
+    "nace_codes": ["08.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["089"],
+    "nace_codes": ["08.9"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["091"],
+    "nace_codes": ["09.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["099"],
+    "nace_codes": ["09.9"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["101"],
+    "nace_codes": ["10.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["102"],
+    "nace_codes": ["10.2"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["103"],
+    "nace_codes": ["10.3"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["104"],
+    "nace_codes": ["10.4"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["105"],
+    "nace_codes": ["10.5"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["106"],
+    "nace_codes": ["10.6"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["107"],
+    "nace_codes": ["10.7"],
+    "confidence": "Manual",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["107"],
+    "nace_codes": ["10.8"],
+    "confidence": "Manual",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["108"],
+    "nace_codes": ["10.9"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["110"],
+    "nace_codes": ["11.0"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["120"],
+    "nace_codes": ["12.0"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["131"],
+    "nace_codes": ["13.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["131"],
+    "nace_codes": ["13.2"],
+    "confidence": "Manual",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["131"],
+    "nace_codes": ["13.3"],
+    "confidence": "Manual",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["139"],
+    "nace_codes": ["13.9"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["141"],
+    "nace_codes": ["14.2"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["142"],
+    "nace_codes": ["14.2"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["143"],
+    "nace_codes": ["14.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["151"],
+    "nace_codes": ["15.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["152"],
+    "nace_codes": ["15.2"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["161"],
+    "nace_codes": ["16.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["162"],
+    "nace_codes": ["16.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["162"],
+    "nace_codes": ["16.2"],
+    "confidence": "Manual",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["170"],
+    "nace_codes": ["17.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["170"],
+    "nace_codes": ["17.2"],
+    "confidence": "Manual",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["181"],
+    "nace_codes": ["18.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["182"],
+    "nace_codes": ["18.2"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["191"],
+    "nace_codes": ["19.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["192"],
+    "nace_codes": ["19.2"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["201"],
+    "nace_codes": ["20.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["202"],
+    "nace_codes": ["20.2"],
+    "confidence": "Manual",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["202"],
+    "nace_codes": ["20.3"],
+    "confidence": "Manual",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["202"],
+    "nace_codes": ["20.4"],
+    "confidence": "Manual",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["202"],
+    "nace_codes": ["20.5"],
+    "confidence": "Manual",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["203"],
+    "nace_codes": ["20.6"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["210"],
+    "nace_codes": ["21.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["210"],
+    "nace_codes": ["21.2"],
+    "confidence": "Manual",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["221"],
+    "nace_codes": ["22.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["222"],
+    "nace_codes": ["22.2"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["231"],
+    "nace_codes": ["23.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["239"],
+    "nace_codes": ["23.2"],
+    "confidence": "Manual",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["239"],
+    "nace_codes": ["23.3"],
+    "confidence": "Manual",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["239"],
+    "nace_codes": ["23.4"],
+    "confidence": "Manual",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["239"],
+    "nace_codes": ["23.5"],
+    "confidence": "Manual",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["239"],
+    "nace_codes": ["23.6"],
+    "confidence": "Manual",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["239"],
+    "nace_codes": ["23.7"],
+    "confidence": "Manual",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["239"],
+    "nace_codes": ["23.9"],
+    "confidence": "Manual",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["241"],
+    "nace_codes": ["24.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["241"],
+    "nace_codes": ["24.2"],
+    "confidence": "Manual",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["241"],
+    "nace_codes": ["24.3"],
+    "confidence": "Manual",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["242"],
+    "nace_codes": ["24.4"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["243"],
+    "nace_codes": ["24.5"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["251"],
+    "nace_codes": ["25.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["251"],
+    "nace_codes": ["25.2"],
+    "confidence": "Manual",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["252"],
+    "nace_codes": ["25.3"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["259"],
+    "nace_codes": ["25.4"],
+    "confidence": "Manual",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["259"],
+    "nace_codes": ["25.5"],
+    "confidence": "Manual",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["259"],
+    "nace_codes": ["25.6"],
+    "confidence": "Manual",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["259"],
+    "nace_codes": ["25.9"],
+    "confidence": "Manual",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["261"],
+    "nace_codes": ["26.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["262"],
+    "nace_codes": ["26.2"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["263"],
+    "nace_codes": ["26.3"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["264"],
+    "nace_codes": ["26.4"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["265"],
+    "nace_codes": ["26.5"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["266"],
+    "nace_codes": ["26.6"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["267"],
+    "nace_codes": ["26.7"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["268"],
+    "nace_codes": ["26.7"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["271"],
+    "nace_codes": ["27.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["272"],
+    "nace_codes": ["27.2"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["273"],
+    "nace_codes": ["27.3"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["274"],
+    "nace_codes": ["27.4"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["275"],
+    "nace_codes": ["27.5"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["279"],
+    "nace_codes": ["27.9"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["281"],
+    "nace_codes": ["28.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["281"],
+    "nace_codes": ["28.2"],
+    "confidence": "Manual",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["282"],
+    "nace_codes": ["28.3"],
+    "confidence": "Manual",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["282"],
+    "nace_codes": ["28.4"],
+    "confidence": "Manual",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["282"],
+    "nace_codes": ["28.9"],
+    "confidence": "Manual",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["291"],
+    "nace_codes": ["29.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["292"],
+    "nace_codes": ["29.2"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["293"],
+    "nace_codes": ["29.3"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["301"],
+    "nace_codes": ["30.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["302"],
+    "nace_codes": ["30.2"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["303"],
+    "nace_codes": ["30.3"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["304"],
+    "nace_codes": ["30.4"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["309"],
+    "nace_codes": ["30.9"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["310"],
+    "nace_codes": ["31.0"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["321"],
+    "nace_codes": ["32.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["322"],
+    "nace_codes": ["32.2"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["323"],
+    "nace_codes": ["32.3"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["324"],
+    "nace_codes": ["32.4"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["325"],
+    "nace_codes": ["32.5"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["329"],
+    "nace_codes": ["32.9"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["331"],
+    "nace_codes": ["33.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["332"],
+    "nace_codes": ["33.2"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["351"],
+    "nace_codes": ["35.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["352"],
+    "nace_codes": ["35.2"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["353"],
+    "nace_codes": ["35.3"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["354"],
+    "nace_codes": ["35.4"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["360"],
+    "nace_codes": ["36.0"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["370"],
+    "nace_codes": ["37.0"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["381"],
+    "nace_codes": ["38.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["382"],
+    "nace_codes": ["38.3"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["383"],
+    "nace_codes": ["38.2"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["390"],
+    "nace_codes": ["39.0"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["410"],
+    "nace_codes": ["41.0"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["421"],
+    "nace_codes": ["42.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["422"],
+    "nace_codes": ["42.2"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["429"],
+    "nace_codes": ["42.9"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["431"],
+    "nace_codes": ["43.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["432"],
+    "nace_codes": ["43.2"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["433"],
+    "nace_codes": ["43.3"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["434"],
+    "nace_codes": ["43.6"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["439"],
+    "nace_codes": ["43.4"],
+    "confidence": "Manual",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["439"],
+    "nace_codes": ["43.5"],
+    "confidence": "Manual",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["439"],
+    "nace_codes": ["43.9"],
+    "confidence": "Manual",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["461"],
+    "nace_codes": ["46.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["462"],
+    "nace_codes": ["46.2"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["463"],
+    "nace_codes": ["46.3"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["464"],
+    "nace_codes": ["46.4"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["465"],
+    "nace_codes": ["46.5"],
+    "confidence": "Manual",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["465"],
+    "nace_codes": ["46.6"],
+    "confidence": "Manual",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["466"],
+    "nace_codes": ["46.7"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["467"],
+    "nace_codes": ["46.8"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["469"],
+    "nace_codes": ["46.9"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["471"],
+    "nace_codes": ["47.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["472"],
+    "nace_codes": ["47.2"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["473"],
+    "nace_codes": ["47.3"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["474"],
+    "nace_codes": ["47.4"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["475"],
+    "nace_codes": ["47.5"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["476"],
+    "nace_codes": ["47.6"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["477"],
+    "nace_codes": ["47.7"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["478"],
+    "nace_codes": ["47.8"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["479"],
+    "nace_codes": ["47.9"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["491"],
+    "nace_codes": ["49.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["491"],
+    "nace_codes": ["49.2"],
+    "confidence": "Manual",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["492"],
+    "nace_codes": ["49.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["492"],
+    "nace_codes": ["49.3"],
+    "confidence": "Manual",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["492"],
+    "nace_codes": ["49.4"],
+    "confidence": "Manual",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["493"],
+    "nace_codes": ["49.5"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["501"],
+    "nace_codes": ["50.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["501"],
+    "nace_codes": ["50.2"],
+    "confidence": "Manual",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["502"],
+    "nace_codes": ["50.3"],
+    "confidence": "Manual",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["502"],
+    "nace_codes": ["50.4"],
+    "confidence": "Manual",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["511"],
+    "nace_codes": ["51.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["512"],
+    "nace_codes": ["51.2"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["521"],
+    "nace_codes": ["52.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["522"],
+    "nace_codes": ["52.2"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["523"],
+    "nace_codes": ["52.3"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["531"],
+    "nace_codes": ["53.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["532"],
+    "nace_codes": ["53.2"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["533"],
+    "nace_codes": ["53.3"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["551"],
+    "nace_codes": ["55.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["552"],
+    "nace_codes": ["55.2"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["553"],
+    "nace_codes": ["55.3"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["554"],
+    "nace_codes": ["55.4"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["559"],
+    "nace_codes": ["55.9"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["561"],
+    "nace_codes": ["56.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["562"],
+    "nace_codes": ["56.2"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["563"],
+    "nace_codes": ["56.3"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["564"],
+    "nace_codes": ["56.4"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["581"],
+    "nace_codes": ["58.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["582"],
+    "nace_codes": ["58.2"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["591"],
+    "nace_codes": ["59.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["592"],
+    "nace_codes": ["59.2"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["601"],
+    "nace_codes": ["60.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["602"],
+    "nace_codes": ["60.2"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["603"],
+    "nace_codes": ["60.3"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["611"],
+    "nace_codes": ["61.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["612"],
+    "nace_codes": ["61.2"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["619"],
+    "nace_codes": ["61.9"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["621"],
+    "nace_codes": ["62.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["622"],
+    "nace_codes": ["62.2"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["629"],
+    "nace_codes": ["62.9"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["631"],
+    "nace_codes": ["63.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["639"],
+    "nace_codes": ["63.9"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["641"],
+    "nace_codes": ["64.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["642"],
+    "nace_codes": ["64.2"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["643"],
+    "nace_codes": ["64.3"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["649"],
+    "nace_codes": ["64.9"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["651"],
+    "nace_codes": ["65.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["652"],
+    "nace_codes": ["65.2"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["653"],
+    "nace_codes": ["65.3"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["661"],
+    "nace_codes": ["66.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["662"],
+    "nace_codes": ["66.2"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["663"],
+    "nace_codes": ["66.3"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["681"],
+    "nace_codes": ["68.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["681"],
+    "nace_codes": ["68.2"],
+    "confidence": "Manual",
+    "match_type": "one-to-many"
+  },
+  {
+    "isic_codes": ["682"],
+    "nace_codes": ["68.3"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["691"],
+    "nace_codes": ["69.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["692"],
+    "nace_codes": ["69.2"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["701"],
+    "nace_codes": ["70.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["702"],
+    "nace_codes": ["70.2"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["711"],
+    "nace_codes": ["71.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["712"],
+    "nace_codes": ["71.2"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["721"],
+    "nace_codes": ["72.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["722"],
+    "nace_codes": ["72.2"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["731"],
+    "nace_codes": ["73.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["732"],
+    "nace_codes": ["73.2"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["733"],
+    "nace_codes": ["73.3"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["741"],
+    "nace_codes": ["74.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["742"],
+    "nace_codes": ["74.2"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["743"],
+    "nace_codes": ["74.3"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["749"],
+    "nace_codes": ["74.9"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["750"],
+    "nace_codes": ["75.0"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["771"],
+    "nace_codes": ["77.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["772"],
+    "nace_codes": ["77.2"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["773"],
+    "nace_codes": ["77.3"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["774"],
+    "nace_codes": ["77.4"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["775"],
+    "nace_codes": ["77.5"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["781"],
+    "nace_codes": ["78.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["782"],
+    "nace_codes": ["78.2"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["791"],
+    "nace_codes": ["79.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["799"],
+    "nace_codes": ["79.9"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["801"],
+    "nace_codes": ["80.0"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["811"],
+    "nace_codes": ["81.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["812"],
+    "nace_codes": ["81.2"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["813"],
+    "nace_codes": ["81.3"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["821"],
+    "nace_codes": ["82.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["822"],
+    "nace_codes": ["82.2"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["823"],
+    "nace_codes": ["82.3"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["824"],
+    "nace_codes": ["82.4"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["829"],
+    "nace_codes": ["82.9"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["841"],
+    "nace_codes": ["84.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["842"],
+    "nace_codes": ["84.2"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["843"],
+    "nace_codes": ["84.3"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["851"],
+    "nace_codes": ["85.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["852"],
+    "nace_codes": ["85.2"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["853"],
+    "nace_codes": ["85.3"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["854"],
+    "nace_codes": ["85.4"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["855"],
+    "nace_codes": ["85.5"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["856"],
+    "nace_codes": ["85.6"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["861"],
+    "nace_codes": ["86.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["862"],
+    "nace_codes": ["86.2"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["869"],
+    "nace_codes": ["86.9"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["871"],
+    "nace_codes": ["87.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["872"],
+    "nace_codes": ["87.2"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["873"],
+    "nace_codes": ["87.3"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["879"],
+    "nace_codes": ["87.9"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["881"],
+    "nace_codes": ["88.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["889"],
+    "nace_codes": ["88.9"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["901"],
+    "nace_codes": ["90.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["902"],
+    "nace_codes": ["90.2"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["903"],
+    "nace_codes": ["90.3"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["911"],
+    "nace_codes": ["91.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["912"],
+    "nace_codes": ["91.2"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["913"],
+    "nace_codes": ["91.3"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["914"],
+    "nace_codes": ["91.4"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["920"],
+    "nace_codes": ["92.0"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["931"],
+    "nace_codes": ["93.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["932"],
+    "nace_codes": ["93.2"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["941"],
+    "nace_codes": ["94.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["942"],
+    "nace_codes": ["94.2"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["949"],
+    "nace_codes": ["94.9"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["951"],
+    "nace_codes": ["95.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["952"],
+    "nace_codes": ["95.2"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["953"],
+    "nace_codes": ["95.3"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["954"],
+    "nace_codes": ["95.4"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["961"],
+    "nace_codes": ["96.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["962"],
+    "nace_codes": ["96.2"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["963"],
+    "nace_codes": ["96.3"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["964"],
+    "nace_codes": ["96.4"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["969"],
+    "nace_codes": ["96.9"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["970"],
+    "nace_codes": ["97.0"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["981"],
+    "nace_codes": ["98.1"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["982"],
+    "nace_codes": ["98.2"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["990"],
+    "nace_codes": ["99.0"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["01"],
+    "nace_codes": ["01"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["02"],
+    "nace_codes": ["02"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["03"],
+    "nace_codes": ["03"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["05"],
+    "nace_codes": ["05"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["06"],
+    "nace_codes": ["06"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["07"],
+    "nace_codes": ["07"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["08"],
+    "nace_codes": ["08"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["09"],
+    "nace_codes": ["09"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["10"],
+    "nace_codes": ["10"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["11"],
+    "nace_codes": ["11"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["12"],
+    "nace_codes": ["12"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["13"],
+    "nace_codes": ["13"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["14"],
+    "nace_codes": ["14"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["15"],
+    "nace_codes": ["15"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["16"],
+    "nace_codes": ["16"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["17"],
+    "nace_codes": ["17"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["18"],
+    "nace_codes": ["18"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["19"],
+    "nace_codes": ["19"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["20"],
+    "nace_codes": ["20"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["21"],
+    "nace_codes": ["21"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["22"],
+    "nace_codes": ["22"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["23"],
+    "nace_codes": ["23"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["24"],
+    "nace_codes": ["24"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["25"],
+    "nace_codes": ["25"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["26"],
+    "nace_codes": ["26"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["27"],
+    "nace_codes": ["27"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["28"],
+    "nace_codes": ["28"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["29"],
+    "nace_codes": ["29"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["30"],
+    "nace_codes": ["30"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["31"],
+    "nace_codes": ["31"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["32"],
+    "nace_codes": ["32"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["33"],
+    "nace_codes": ["33"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["35"],
+    "nace_codes": ["35"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["36"],
+    "nace_codes": ["36"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["37"],
+    "nace_codes": ["37"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["38"],
+    "nace_codes": ["38"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["39"],
+    "nace_codes": ["39"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["41"],
+    "nace_codes": ["41"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["42"],
+    "nace_codes": ["42"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["43"],
+    "nace_codes": ["43"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["46"],
+    "nace_codes": ["46"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["47"],
+    "nace_codes": ["47"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["49"],
+    "nace_codes": ["49"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["50"],
+    "nace_codes": ["50"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["51"],
+    "nace_codes": ["51"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["52"],
+    "nace_codes": ["52"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["53"],
+    "nace_codes": ["53"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["55"],
+    "nace_codes": ["55"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["56"],
+    "nace_codes": ["56"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["58"],
+    "nace_codes": ["58"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["59"],
+    "nace_codes": ["59"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["60"],
+    "nace_codes": ["60"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["61"],
+    "nace_codes": ["61"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["62"],
+    "nace_codes": ["62"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["63"],
+    "nace_codes": ["63"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["64"],
+    "nace_codes": ["64"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["65"],
+    "nace_codes": ["65"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["66"],
+    "nace_codes": ["66"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["68"],
+    "nace_codes": ["68"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["69"],
+    "nace_codes": ["69"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["70"],
+    "nace_codes": ["70"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["71"],
+    "nace_codes": ["71"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["72"],
+    "nace_codes": ["72"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["73"],
+    "nace_codes": ["73"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["74"],
+    "nace_codes": ["74"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["75"],
+    "nace_codes": ["75"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["77"],
+    "nace_codes": ["77"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["78"],
+    "nace_codes": ["78"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["79"],
+    "nace_codes": ["79"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["80"],
+    "nace_codes": ["80"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["81"],
+    "nace_codes": ["81"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["82"],
+    "nace_codes": ["82"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["84"],
+    "nace_codes": ["84"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["85"],
+    "nace_codes": ["85"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["86"],
+    "nace_codes": ["86"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["87"],
+    "nace_codes": ["87"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["88"],
+    "nace_codes": ["88"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["90"],
+    "nace_codes": ["90"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["91"],
+    "nace_codes": ["91"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["92"],
+    "nace_codes": ["92"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["93"],
+    "nace_codes": ["93"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["94"],
+    "nace_codes": ["94"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["95"],
+    "nace_codes": ["95"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["96"],
+    "nace_codes": ["96"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["97"],
+    "nace_codes": ["97"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["98"],
+    "nace_codes": ["98"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  },
+  {
+    "isic_codes": ["99"],
+    "nace_codes": ["99"],
+    "confidence": "Manual",
+    "match_type": "one-to-one"
+  }
+]

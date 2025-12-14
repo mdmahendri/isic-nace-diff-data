@@ -3,3 +3,7 @@
 *.env
 .ipynb_checkpoints/
 processed-output/isic-nace-cleaned.json
+
+# ignore compiled python files and caches only under src/
+src/**/__pycache__/
+src/**/*.py[cod]
