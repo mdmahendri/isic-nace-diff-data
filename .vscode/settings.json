@@ -1,5 +1,5 @@
 {
-  "python.defaultInterpreterPath": "C:\\Users\\mahendri\\miniconda3\\envs\\deepseek\\python.exe",
+  "python.defaultInterpreterPath": "C:\\Users\\mahendri\\miniconda3\\envs\\isic-nace-diff-data\\python.exe",
   "python.terminal.activateEnvironment": true,
   "editor.wordWrap": "on"
 }

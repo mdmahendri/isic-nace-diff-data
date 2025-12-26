@@ -1,0 +1,14 @@
+name: isic-nace-diff-data
+channels:
+  - conda-forge
+dependencies:
+  - python=3.13
+  - openai=2.8.1
+  - openpyxl=3.1.5
+  - pandas
+  - ipykernel
+  - python-dotenv=1.2.1
+  - tqdm=4.67.1
+  - pip
+  - pip:
+      - git+https://github.com/mdmahendri/sentence-splitter
