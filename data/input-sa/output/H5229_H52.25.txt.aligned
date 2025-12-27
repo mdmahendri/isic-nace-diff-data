@@ -1,0 +1,12 @@
+H5229 Other support activities for transportation	H52.25 Logistics service activities	0.65056616
+This class includes:	This class includes:	1.0000001
+- logistics consulting activities, i.e. planning, designing and supporting operations of transportation, warehousing and distribution	- activities of distribution centres	0.51076454
+- issue and procurement of transport documents and waybills	- pickup of goods and grouping for shipping	0.66361344
+- goods-handling operations, e.g. temporary crating for the sole purpose of protecting the goods during transit, uncrating, sampling, weighing of goods	- goods handling operations (e.g. temporary crating and packing goods into boxes for the purpose of warehousing or for protecting them during transport, unpacking, sampling, weighing of goods)	0.9107893
+This class excludes:	This class excludes:	1.0000001
+- agents and brokers acting on behalf of a client in freight transportation, see 5231	- freight forwarding, see 52.26	0.52525675
+- agents and brokers acting on behalf of a client in passenger transportation, see 5232	- ship brokerage includes taking care of the entry and clearance of ships, as an intermediary between shipowners and shippers or receivers of goods, see 52.31	0.5935031
+- courier activities, see 5320	- courier activities, see 53.20	0.7699996
+- provision of motor, marine, aviation and transport insurance, see 6512	- provision of motor, marine, aviation and transport insurance, see 65.12	0.92682683
+- activities of tour operators, see 7912	- management consultancy for companies logistics, see 70.20	0.46676797
+- tourist assistance activities, see 7990	- logistics consulting activities, i.e. planning, designing and supporting operations of transport, warehousing and distribution, see 70.20	0.5097396

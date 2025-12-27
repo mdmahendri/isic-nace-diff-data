@@ -1,0 +1,9 @@
+R8620 Medical and dental practice activities	R86.22 Medical specialists activities	0.69847035
+This class includes:	This class includes:	1.0
+- medical consultation and treatment in the field of general and specialized medicine by general practitioners and medical specialists and surgeons	- medical consultation and treatment in the field of specialised medicine by medical specialists and surgeons	0.93617964
+This class also includes:	This class also includes:	1.0
+- dental activities in operating rooms	- cosmetic surgery activities performed by medical specialists	0.72999346
+- private consultants services to inpatients	- activities provided by psychiatrists	0.6545206
+This class excludes:	This class excludes:	1.0
+- inpatient hospital activities, see 8610	- inpatient hospital activities, see 86.10	0.8533001
+- paramedical activities such as those of midwives, nurses and physiotherapists, see 8699	- nursing and midwifery activities, see 86.94 - activities of physiotherapists, see 86.95 - beauty treatment activities not performed by medical specialists (e.g. by cosmetologists), see 96.22	0.7436421

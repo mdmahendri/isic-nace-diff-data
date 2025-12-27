@@ -1,0 +1,6 @@
+R8620 Medical and dental practice activities	R86.21 General medical practice activities	0.6840266
+This class includes:	This class includes:	1.0
+- medical consultation and treatment in the field of general and specialized medicine by general practitioners and medical specialists and surgeons	- medical consultation and treatment in the field of general medicine carried out by general practitioners	0.90086484
+This class excludes:	This class excludes:	1.0
+- inpatient hospital activities, see 8610	- inpatient hospital activities, see 86.10	0.85330003
+- paramedical activities such as those of midwives, nurses and physiotherapists, see 8699	- medical specialists activities, see 86.22 - nursing and midwifery activities, see 86.94	0.74329895

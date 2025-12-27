@@ -1,0 +1,14 @@
+C2819 Manufacture of other general-purpose machinery	C28.25 Manufacture of non-domestic air conditioning equipment	0.6175112
+This class includes:	This class includes:	1.0
+manufacture of industrial refrigerating or freezing equipment, including assemblies of major components	- manufacture of non-domestic refrigerating or freezing equipment	0.6505585
+manufacture of air-conditioning machines, including for motor vehicles	- manufacture of air-conditioning machines, except for motor vehicles	0.83602464
+manufacture of non-domestic fans	- manufacture of non-domestic fans	0.89640856
+manufacture of heat exchangers	- manufacture of heat exchange units	0.82649696
+manufacture of machinery for liquefying air or gas	- manufacture of machinery for liquefying air or other gas	0.86529434
+manufacture of attic ventilation fans (gable fans, roof ventilators, etc.)	- manufacture of attic ventilation fans (e.g. gable fans, roof ventilators)	0.9239317
+manufacture of non-electrical welding and soldering equipment	- manufacture of evaporators and condensers for non-domestic refrigerators	0.5682798
+This class excludes:	This class excludes:	1.0
+manufacture of domestic refrigerating or freezing equipment, see 2750	- manufacture of domestic refrigerating or freezing equipment, see 27.51	0.7942592
+manufacture of domestic fans, see 2750	- manufacture of domestic fans, see 27.51	0.703472
+manufacture of agricultural spraying machinery, see 2821	- manufacture of household cooling equipment, see 28.21	0.6170591
+manufacture of textile printing machinery, see 2826	- manufacture of air-conditioning machines for motor vehicles, see 29.32	0.5605316

@@ -1,0 +1,15 @@
+C1812 Service activities related to printing	C18.13 Pre-press and pre-media services	0.5709238
+It includes:	This class includes:	0.73946375
+- composing, typesetting and phototypesetting, pre-press data input into a form suitable for use in various printing processes and representation in other visual media including scanning and optical character recognition, electronic make-up	- composing, typesetting and phototypesetting, pre-press data input into a form suitable for use in various printing processes and representation in other visual media, including scanning and optical character recognition, electronic make-up	0.9991403
+- preparation of data files for multi-media (printing on paper, CD-ROM, Internet) applications	- preparation of data files for multimedia (printing on paper, CD-ROM, the internet) applications	0.9922235
+- plate-making services including image setting and plate setting (for the printing processes letterpress and offset)	- plate-making services, including image setting and plate setting (for letterpress and offset printing processes)	0.9952327
+- cylinder preparation: engraving or etching of cylinders for gravure printing	- cylinder preparation: engraving or etching of cylinders for gravure printing	1.0
+- plate processing: "computer to plate" CTP (also photopolymer plates)	- plate processing: computer-to-plate (CTP), also photopolymer plates	0.95752317
+- preparation of plates and dies for relief stamping or printing	- preparation of plates and dies for relief stamping or printing	1.0
+- preparation of:	- preparation of:	1.0
+artistic works of technical character, such as preparation of lithographic stones and wood blocks	artistic works of technical character (e.g. preparation of lithographic stones and wood blocks)	0.922087
+presentation media	presentation media	1.0
+sketches, layouts, dummies, etc.	sketches, layouts, dummies, etc.	1.0000001
+production of proofs	production of proofs	1.0
+This class excludes:	This class excludes:	1.0
+- graphic designing of visual content for the communication of information using print and other media, see 7410	- graphic designing of visual content for the communication of information not intended to be printed, see 74.1	0.7867268

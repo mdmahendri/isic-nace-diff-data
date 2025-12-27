@@ -1,0 +1,16 @@
+G4781 Retail sale of motor vehicles	G47.81 Retail sale of motor vehicles	0.9059759
+This class includes:	This class includes:	1.0
+- retail sale of new and used motor vehicles including electrical vehicles:	- retail sale of new and used motor vehicles, including electric vehicles:	0.994333
+passenger motor vehicles	passenger motor vehicles	0.99999994
+camping vehicles such as caravans and motor homes	camping vehicles (e.g. caravans, motorhomes)	0.8482393
+This class also includes:	This class also includes:	0.9999999
+- retail sale of off-road motor vehicles	- retail sale of off-road motor vehicles	1.0
+- retail sale of trailers for motor vehicles	- retail sale of trailers for motor vehicles	1.0
+This class excludes:	This class excludes:	1.0000001
+- retail sale of bicycles and e-bikes etc., see 4762	- retail sale of bicycles and electric bicycles etc., see 47.63	0.85502046
+- retail sale of parts and accessories for motor vehicles, see 4782	- retail sale of parts and accessories for motor vehicles, see 47.82	0.8818207
+- retail sale of motorcycles, motorcycle parts and accessories, see 4783	- retail sale of motorcycles, motorcycle parts and accessories, see 47.83	0.8803947
+- activities of agents in retail sale of motor vehicles, see 479	- activities of agents for the retail sale of motor vehicles, see 47.9	0.8875072
+- on-demand passenger transport service activities by vehicle with driver, see 4922	- on-demand passenger transport service activities by vehicle with a driver, see 49.33	0.8392214
+- rental and leasing of motor vehicles without driver, see 771	- rental and leasing of motor vehicles without a driver, see 77.1	0.87480414
+- maintenance and repair of motor vehicles and motorcycles, see group 953	- maintenance and repair of motor vehicles and motorcycles, see 95.3	0.81049895

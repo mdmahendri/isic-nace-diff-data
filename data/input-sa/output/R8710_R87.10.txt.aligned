@@ -1,0 +1,15 @@
+R8710 Residential nursing care activities	R87.10 Residential nursing care activities	0.91452086
+This class includes the provision of residential care, with medical assistance, nursing and rehabilitation treatments.	This class includes the provision of residential care, with medical assistance, nursing and rehabilitation treatments.	1.0000001
+These establishments have a permanent core staff of registered or licensed practical nurses that, along with other staff, provide nursing care in combination with personal care.	These establishments have a permanent core staff of registered or licensed practical nurses that, along with other staff, provide nursing care in combination with personal care.	1.0
+The medical or nursing care services typically include administering medication, performing medical diagnoses and dressing wounds, and are typically provided without the supervision of a medical doctor located on the premises.	The medical or nursing care services typically include administering medication, performing medical diagnoses and dressing wounds, and are chiefly provided without the supervision of a medical doctor located on the premises.	0.9896584
+This class includes activities of:	This class includes activities of:	1.0
+homes for older persons with nursing care	- homes for older persons with nursing care	0.8839196
+convalescent homes, other than mental health and substance abuse facilities	- convalescent homes, other than mental health and substance abuse facilities	0.9132528
+rest homes with nursing care	- rest homes with nursing care	0.8715662
+nursing care facilities	- nursing care facilities	0.8189208
+nursing homes hospices	- nursing homes/hospices	0.7330179
+inpatient care hospices for palliative care	- inpatient care hospices for palliative care	0.87180597
+This class excludes:	This class excludes:	1.0
+- palliative care for out-patients, see, 8699	- palliative nursing care for outpatients, see 86.94	0.75967693
+- activities of homes for older persons without or with only minimal nursing care, see 8730	- activities of homes for older persons without or with only minimal nursing care, see 87.30	0.912117
+- residential and personal care activities e.g. orphanages, children's boarding homes and hostels, temporary homeless shelters, see 8799	- provision of residential care and assistance services (e.g. orphanages, childrens boarding homes and hostels, temporary homeless shelters), see 87.99	0.8454697

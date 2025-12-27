@@ -1,0 +1,15 @@
+L6512 Non-life insurance	L65.12 Non-life insurance	0.9055487
+This class includes: - provision of insurance services other than life insurance:	This class includes: - provision of insurance services other than life insurance:	1.0000001
+accident insurance	accident insurance	1.0000001
+medical and health insurance	medical and health insurance	1.0000001
+travel insurance	travel insurance	0.99999994
+property insurance	other damage to property insurance	0.6719316
+motor vehicles, railway rolling stock, ships, aircraft and other transport insurance	motor vehicles, railway rolling stock, ships, aircraft and other transport insurance	1.0
+- freight insurance	- freight insurance	0.99999976
+financial loss and liability insurance	financial loss and liability insurance	1.0
+- - credit insurance	- credit insurance	0.962948
+- - legal expenses insurance	- legal expenses insurance	0.9684925
+- - income protection insurance	- income protection insurance	0.96941924
+- - workers' compensation insurance	- workers compensation insurance	0.9670719
+This class excludes	This class excludes:	0.9000494
+- compulsory social security schemes, see 8430	- compulsory social security schemes, see 84.30	0.862198

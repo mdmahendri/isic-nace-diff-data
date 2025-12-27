@@ -1,0 +1,16 @@
+H5221 Service activities incidental to land transportation	H52.21 Service activities incidental to land transportation	0.91161
+This class includes:	This class includes:	0.99999994
+- activities related to road, rail and other land transport of passengers, animals or freight:	- activities related to the transport of passengers, animals or freight by road, rail and other means of land transport:	0.98860544
+operation of terminal facilities such as railway stations, bus stations, stations for the handling of goods	operation of terminal facilities (e.g. railway stations, bus stations, stations for the handling of goods)	0.9104737
+operation of railroad infrastructure and rail related facilities, cargo terminals, technical back-up points, railway stops for fuel	operation of railway infrastructure and rail-related facilities, cargo terminals, technical back-up points, railway stops for fuel	0.9980626
+operation of roads, including bridges, tunnels, and highway toll roads	operation of roads, bridges and tunnels, including activities of winter maintenance	0.8424288
+- switching and shunting	- switching and shunting	0.9999999
+- towing and roadside assistance	- towing and roadside assistance	0.9999999
+- truck transportation cargo surveying activities	- truck transport cargo surveying activities	0.9984629
+This class also includes:	This class also includes:	0.9999999
+- liquefaction and/or regasification of natural gas for the purpose of land transportation	- liquefaction and/or regasification of natural gas for the purpose of land transport	0.99923307
+This class excludes:	This class excludes:	0.99999994
+- liquefaction of natural gas for transport purposes, done at the mine site, see 0910	- liquefaction of natural gas for transport purposes, done at the mine site, see 09.10	0.9079036
+- regasification of natural gas for distribution through mains, see 3520	- regasification of natural gas for distribution through mains, see 35.22	0.82357067
+- regasification of natural gas for the purpose of transport via pipeline, see 4930	- repair of roads, see division 42	0.4913694
+- moving cargos on industrial sites, typically with transport equipment that is not suitable for use on roads open to public traffic, see 5224	- moving cargos on industrial sites, typically with transport equipment that is not suitable for use on roads open to public traffic, see 52.24	0.9297544

@@ -1,0 +1,14 @@
+R8890 Other social work activities without accommodation	R88.99 Other social work activities without accommodation n.e.c.	0.8432569
+This class includes:	This class includes:	1.0
+- social, counselling, welfare, refugee, referral and similar services which are delivered to individuals and families in their homes or elsewhere and carried out by public or by private organizations, disaster relief organizations and national or local self-help organizations and by specialists providing counselling services:	- social, counselling, welfare, refugee, referral and similar services which are delivered to individuals and families in their homes or elsewhere and carried out by government offices or by private organisations, disaster relief organisations, national or local self-help organisations and by specialists providing counselling services:	0.9913271
+welfare and guidance activities for children and adolescents adoption activities, activities for the prevention of cruelty to children and others	child and youth support activities adoption service activities, activities for the prevention of cruelty to children and others	0.94193506
+household budget counselling, marriage and family guidance, credit and debt counselling services	household budget counselling, marriage and family guidance, credit and debt counselling services	1.0
+community and neighbourhood activities	community and neighbourhood activities	1.0
+activities for disaster victims, refugees, immigrants etc., including temporary or extended shelter for them	activities for disaster victims, refugees, immigrants, etc.	0.8523449
+vocational rehabilitation activities for unemployed persons provided that the education component is limited	vocational rehabilitation and habilitation activities for unemployed persons provided that the education component is limited	0.9462924
+eligibility determination in connection with welfare aid, rent supplements or food stamps	eligibility determination in connection with welfare benefits, rent supplements or food stamps	0.9897696
+day facilities for the homeless and other socially weak groups	day facilities for homeless persons and other socially vulnerable groups	0.9805663
+fund-raising or other supporting activities aimed at social work	fundraising or other support activities aimed at social work	0.98863035
+This class excludes:	This class excludes:	1.0
+- funding and administration of compulsory social security programmes, see 8430	- funding and administration of compulsory social security programmes, see 84.30	0.91865444
+- activities similar to those described in this class, but including accommodation, see 8799	- activities similar to those described in this class, but including accommodation, see 87.99	0.89059556

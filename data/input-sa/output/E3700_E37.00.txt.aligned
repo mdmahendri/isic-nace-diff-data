@@ -1,0 +1,15 @@
+E3700 Sewerage	E37.00 Sewerage	0.7786466
+This class includes:	This class includes:	1.0
+- operation of wastewater treatment facilities, for the reuse of e.g. agricultural, industrial, road cleaning or collected rain water, or for artificial recharge or augmentation of groundwater bodies	- operation of wastewater treatment facilities for reuse (e.g. of agricultural, industrial and road cleaning wastewater or collected rainwater), or for artificial recharge or augmentation of groundwater bodies	0.9523555
+- collection and transportation of wastewater from users, e.g. households or industrial units	- collection and transport of wastewater from users (e.g. households or industrial units)	0.9604393
+- collection and transportation of rain water - treatment of wastewater	- collection and transport of rainwater by means of sewerage networks, collectors, tanks and other means of transport (e.g. sewage vehicles, etc.)	0.7120159
+- maintenance and cleaning of sewers and drains, including sewer rodding	- maintenance and cleaning of sewers and drains, including sewer rodding	1.0
+This class also includes:	This class also includes:	1.0
+- freeze drying of sewage sludge by wastewater treatment plants	- freeze-drying of sewage sludge by wastewater treatment plants	0.9976735
+- servicing of chemical toilets	- servicing of chemical toilets	1.0
+This class excludes:	This class excludes:	1.0
+- further treatment of sludge extracted from waste water, such as anaerobic digestion, aerobic treatment like composting, incineration with or without energy recovery, see 3830	- further treatment of sludge extracted from wastewater, see division 38 anaerobic digestion, see 38.2 aerobic treatment, such as composting, see 38.21 incineration with energy recovery, see 38.22	0.7855624
+- decontamination of surface water and groundwater at the place of pollution, see 3900	- decontamination of surface water and groundwater at the place of pollution, see 39.00	0.9110943
+- construction or repair of sewer systems, see 4220	- construction or repair of sewerage systems, see 42.21	0.8644494
+- cleaning and deblocking of drainpipes in buildings, see 4322	- cleaning and unblocking of drainpipes in buildings, see 43.22	0.90894866
+- rental and pumping of portable toilets, see 7730	- rental of portable toilets, see 77.39	0.7328127

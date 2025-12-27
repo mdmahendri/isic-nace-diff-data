@@ -1,0 +1,10 @@
+File: O8230_O82.30.txt
+File Elapsed Time: 0:00:00.860892
+Source file length: 19
+Target file length: 16
+Nodes: 378
+Gale-Church Elapsed Time: 2025-12-26 16:19:46.998862
+Align Elapsed Time: 0:00:31.106847
+Calc Anchors Elapsed Time: 2025-12-26 16:19:46.998863
+Greedy Algorithm Elapsed Time: 2025-12-26 16:19:46.998866
+Anchors: [[19, 16]]

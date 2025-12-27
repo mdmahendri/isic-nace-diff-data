@@ -1,0 +1,11 @@
+C1062 Manufacture of starches and starch products	C10.62 Manufacture of starches and starch products	0.88632715
+This class includes:	This class includes:	1.0
+- manufacture of starches from rice, potatoes, maize etc.	- manufacture of starches from rice, potatoes, maize, etc.	0.99814403
+- wet corn milling	- wet corn milling	1.0
+- manufacture of glucose, glucose syrup, maltose, inulin etc.	- manufacture of glucose, glucose syrup, maltose, inulin, etc.	0.9982105
+- manufacture of gluten	- manufacture of gluten	1.0
+- manufacture of tapioca and tapioca substitutes prepared from starch	- manufacture of tapioca and tapioca substitutes prepared from starch	0.99999994
+- manufacture of corn oil.	- manufacture of corn oil	0.9424016
+This class excludes:	This class excludes:	0.99999994
+- manufacture of lactose (milk sugar), see 1050	- manufacture of lactose (milk sugar), see 10.51	0.86844236
+- production of cane or beet sugar, see 1072	- production of cane or beet sugar, see 10.81	0.832035

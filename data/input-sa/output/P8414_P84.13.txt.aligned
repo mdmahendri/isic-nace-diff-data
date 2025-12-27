@@ -1,0 +1,20 @@
+P8414 Regulation of and contribution to more efficient operation of businesses	P84.13 Regulation of and contribution to more efficient operation of businesses	0.9304708
+This class includes:	This class includes:	0.99999994
+- public administration and regulation, including subsidy allocation, for different economic sectors, e.g.:	- public administration and regulation, including subsidy allocation for different economic sectors, e.g.:	0.99627966
+agriculture	agriculture	0.99999994
+land use energy and mining resources infrastructure	land use energy and mining resources infrastructure	1.0000001
+transport	transport	1.0
+communication	communication	1.0000001
+hotels and tourism	hotels and tourism	1.0
+wholesale and retail trade	wholesale and retail sale	0.9644887
+- administration of research and development policies and associated funds to improve economic performance	- administration of research and development policies and associated funds to improve economic performance	1.0
+- administration of general labour affairs	- administration of general labour affairs	1.0000001
+- implementation of regional development policy measures, e.g. to reduce unemployment	- implementation of regional development policy measures (e.g. to reduce unemployment)	0.95677567
+This class also includes:	This class also includes:	0.9999999
+- activities of the national cybersecurity agencies	- activities of the national cybersecurity agencies	1.0
+- financial regulation relating to the conduct of business and consumer protection and other wider financial regulatory activities	- financial regulation relating to the conduct of business and consumer protection and other wider financial regulatory activities	1.0
+This class excludes:	This class excludes:	0.99999994
+- activities of the financial supervisory authority by the central bank, see 6411	- activities of the monetary supervisory authority by the central bank, see 64.11	0.8984781
+- financial supervisory authority of financial service activities except insurance and pending funding (not by the central bank), see 6611	- financial supervisory authority of financial service activities, except insurance and pension funding (not by the central bank), see 66.11	0.91396385
+- financial supervisory authority of insurance and pension funding (not by the central bank), see 6629	- financial supervisory authority of insurance and pension funding (not by the central bank), see 66.29	0.904868
+- research and experimental development activities, see division 72	- research and experimental development activities, see division 72	1.0000001

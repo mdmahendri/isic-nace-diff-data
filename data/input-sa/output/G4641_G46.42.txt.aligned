@@ -1,0 +1,12 @@
+G4641 Wholesale of textiles, clothing and footwear	G46.42 Wholesale of clothing and footwear	0.861471
+This class includes:	This class includes:	1.0
+- wholesale of clothing, including sports clothes	- wholesale of clothing, including sports clothes	1.0
+- wholesale of clothing accessories such as gloves, ties and braces	- wholesale of clothing accessories (e.g. gloves, ties and braces)	0.94069237
+- wholesale of footwear	- wholesale of footwear, including non-specialised sports footwear	0.72268057
+- wholesale of fur articles	- wholesale of fur articles	1.0
+- wholesale of umbrellas	- wholesale of umbrellas	1.0
+- wholesale of parasols, tarpaulins, sails, parachutes, etc	- wholesale of work clothes, uniforms, costumes	0.54827666
+This class excludes:	This class excludes:	1.0000001
+- wholesale of jewellery and leather goods excluding clothing and footwear, see 4649	- wholesale of leather goods, excluding clothing and footwear, see 46.49	0.88555425
+- wholesale of tents and sleeping bags, see 4649	- wholesale of specialised sports footwear only used in the practice of a sport (e.g. ski boots, football shoes, skates, ballet shoes), see 46.49	0.5117527
+- wholesale of textile fibres, see 4679	- wholesale of protective gear for motorcyclists, see 46.73	0.5889844

@@ -1,0 +1,31 @@
+C2640 Manufacture of consumer electronics	C26.40 Manufacture of consumer electronics	0.89171433
+This class includes the manufacture of electronic audio and video equipment for home entertainment, motor vehicles, public address systems and musical instrument amplification.	This class includes the manufacture of electronic audio and video equipment for home entertainment, motor vehicle, public address systems and musical instrument amplification.	0.9992515
+This class includes:	This class includes:	0.99999994
+- manufacture of video recorders and duplicating equipment	- manufacture of video recorders and duplicating equipment	1.0
+- manufacture of televisions	- manufacture of televisions	0.99999994
+- manufacture of television monitors and displays	- manufacture of television monitors and displays	1.0
+- manufacture of audio recording and duplicating equipment, such as CD players and DVD players	- manufacture of audio recording and duplicating equipment	0.81254387
+- manufacture of computer and TV projectors	- manufacture of multimedia projectors suitable for use only or principally with transmission and reception apparatus for television broadcasting	0.6566541
+- manufacture of stereo equipment	- manufacture of stereo equipment	0.9999999
+- manufacture of radio receivers	- manufacture of radio receivers	1.0
+- manufacture of speaker systems	- manufacture of speaker systems	1.0
+- manufacture of household-type video cameras	- manufacture of household-type video cameras	0.99999994
+- manufacture of jukeboxes	- manufacture of jukeboxes	1.0
+- manufacture of amplifiers for musical instruments and public address systems	- manufacture of amplifiers for musical instruments and public address systems	1.0
+- manufacture of microphones	- manufacture of microphones	1.0
+- manufacture of optical media players with optical reading system	- manufacture of optical media players with optical reading systems	0.99479276
+- manufacture of karaoke machines	- manufacture of karaoke machines	1.0
+- manufacture of headphones, e.g. for radio, stereo, computer	- manufacture of headphones (e.g. for radio, stereo, computer)	0.9630429
+- manufacture of video game consoles	- manufacture of video game consoles	1.0
+- manufacture of personal audio and video headsets, including virtual reality headsets	- manufacture of personal audio and video headsets, including virtual reality headsets	1.0000001
+- manufacture of home theater audio and video equipment	- manufacture of home theatre audio and video equipment	0.9981247
+This class excludes:	This class excludes:	0.9999999
+- reproduction of recorded media (computer media, sound, video, etc.), see 182	- reproduction of recorded media (computer media, sound, video, etc.), see 18.20	0.9009316
+- manufacture of computer peripheral devices and computer monitors, see 262	- manufacture of computer peripheral devices and computer monitors, see 26.20	0.8867979
+- manufacture of telephone answering machines, see 263	- manufacture of telephone answering machines, see 26.30	0.81352496
+- manufacture of pagers, see 263	- manufacture of pagers, see 26.30	0.7597549
+- manufacture of remote control devices (radio and infrared), see 263	- manufacture of remote-controlled devices (radio and infra-red), see 26.30	0.8780488
+- manufacture of broadcast studio equipment such as reproduction equipment, transmitting and receiving antennas, commercial video cameras, see 263	- manufacture of broadcast and studio equipment (e.g. reproduction equipment, transmitting and receiving antennas, commercial video cameras), see 26.30	0.8857645
+- manufacture of antennas, see 263	- manufacture of antennas, see 26.30	0.7778512
+- manufacture of digital cameras, see 267	- manufacture of digital cameras, see 26.70	0.83504164
+- manufacture of electronic games with fixed (non-replaceable) software, see 3240	- manufacture of electronic games with fixed (non-replaceable) software, see 32.40	0.8984715

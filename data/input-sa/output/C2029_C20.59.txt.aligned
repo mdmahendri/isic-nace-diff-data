@@ -1,0 +1,29 @@
+C2029 Manufacture of other chemical products n.e.c.	C20.59 Manufacture of other chemical products n.e.c.	0.9085893
+This class includes:	This class includes:	0.99999994
+- manufacture of propellant powders - manufacture of explosives and pyrotechnic products, including percussion caps, detonators, signalling flares etc.	- manufacture of photographic plates, films, sensitised paper and other sensitised unexposed materials - manufacture of chemical preparations for photographic uses	0.6691122
+- manufacture of gelatine and its derivatives	- manufacture of gelatine and its derivatives	1.0
+- manufacture of glues and prepared adhesives, including rubber-based glues and adhesives	- manufacture of glues and prepared adhesives, including rubber-based glues and adhesives	1.0
+- manufacture of extracts of natural aromatic products	- manufacture of extracts of natural aromatic products	1.0
+- manufacture of resinoids	- manufacture of resinoids	1.0
+- manufacture of mixtures of odoriferous products for the manufacture of perfumes or food	- manufacture of mixtures of odoriferous products for the manufacture of perfumes or food	1.0
+- manufacture of e-liquids used in vaping devices	- manufacture of propellant powders	0.6347045
+- manufacture of photographic plates, films, sensitized paper and other sensitized unexposed materials	- manufacture of explosives and pyrotechnic products, including percussion caps, detonators, signalling flares, etc.	0.6453684
+- manufacture of chemical preparations for photographic uses	- manufacture of e-liquids used in vaping devices	0.66589403
+- manufacture of various chemical products:	- manufacture of various chemical products:	1.0
+* peptones, peptone derivatives, other protein substances and their derivatives n.e.c.	peptones, peptone derivatives, other protein substances and their derivatives n.e.c.	0.9275837
+* chemically modified oils and fats	chemically modified oils and fats	0.8930764
+* materials used in the finishing of textiles and leather	materials used in the finishing of textiles and leather	0.8728163
+* powders and pastes used in soldering, brazing or welding	powders and pastes used in soldering, brazing or welding	0.9106703
+* substances used to pickle metal	substances used to pickle metal	0.8647433
+* prepared additives for cements	prepared additives for cements	0.8707532
+* activated carbon, lubricating oil additives, prepared rubber accelerators, catalysts and other chemical products for industrial use	activated carbon, lubricating oil additives, prepared rubber accelerators, catalysts and other chemical products for industrial use	0.9244491
+* anti-knock preparations, antifreeze preparations	anti-knock preparations, antifreeze preparations	0.87099886
+* composite diagnostic or laboratory reagents	composite diagnostic or laboratory reagents	0.9048999
+This class also includes:	This class also includes:	0.9999999
+- manufacture of writing and drawing ink	- manufacture of writing and drawing ink	0.99999994
+- manufacture of matches	- manufacture of matches	0.9999999
+This class excludes:	This class excludes:	0.9999999
+- manufacture of synthetic aromatic products, see 2011	- manufacture of synthetic aromatic products, see 20.14	0.79718494
+- manufacture of printing ink, see 2022	- manufacture of printing ink, see 20.30	0.75686574
+- manufacture of perfumes and toilet preparations, see 2023	- manufacture of perfume and toilet preparations, see 20.42	0.78943884
+- manufacture of asphalt-based adhesives, see 2399	- manufacture of liquid biofuels, see 20.51	0.58420014

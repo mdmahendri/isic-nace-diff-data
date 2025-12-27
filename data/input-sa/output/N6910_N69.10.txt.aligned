@@ -1,0 +1,17 @@
+N6910 Legal activities	N69.10 Legal activities	0.9159441
+This class includes:	This class includes:	1.0
+- legal representation of one party's interest against another party, whether or not before courts or other judicial bodies by, or under supervision of, persons who are members of the bar:	- legal representation of one partys interest against another party, whether or not before courts or other judicial bodies by, or under the supervision of, persons who are members of the bar:	0.99806386
+advice and representation in civil cases	advice and representation in civil cases	1.0
+advice and representation in criminal cases	advice and representation in criminal cases	1.0
+advice and representation in connection with labour disputes	advice and representation in connection with labour disputes	1.0
+- general counselling and advising, preparation of legal documents:	- general counselling and advising, preparation of legal documents:	1.0
+articles of incorporation, partnership agreements or similar documents in connection with company formation	articles of incorporation, partnership agreements or similar documents in connection with company formation	0.9999999
+patents and copyrights	patents and copyrights	0.99999994
+preparation of deeds, wills, trusts etc.	preparation of deeds, wills, trusts, etc.	0.9971142
+- other activities of notaries public, civil law notaries, bailiffs, arbitrators, examiners and referees	- other activities of public notaries, civil law notaries, bailiffs, arbitrators, examiners and referees	0.9989152
+This class includes also:	This class also includes:	0.9993104
+-legal mediation activities	- legal mediation activities	0.9999999
+- activities of appointed legal guardians, without provision of residential care	- activities of appointed legal guardians, without provision of residential care	1.0
+This class excludes:	This class excludes:	1.0
+- law court activities, see 8423	- activities of law courts, see 84.23	0.8234712
+- social mediation, see 8890	- social mediation, see 88.99	0.7647037

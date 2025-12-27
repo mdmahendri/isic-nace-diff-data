@@ -1,0 +1,8 @@
+This class includes:	This class also includes:	0.94213504
+- activities of commission agents, commodity brokers and other wholesalers trading on the account of others without owning the intermediated goods at any time	- activities of agents involved in the wholesale of agricultural equipment, including tractors	0.6075743
+- activities of bringing sellers and buyers together	- activities of agents involved in the wholesale of yachts and recreational boats	0.73966444
+This class also includes:	This class excludes:	0.8668906
+- activities of central purchasing units, if they are only intermediaries and do not own the goods	- activities of commission agents for motor vehicles and motorcycles, see 46.18	0.48979175
+- activities of wholesale auctioneering houses of third-party goods, including Internet wholesale auctions	- activities of wholesale auctioneering houses for third-party goods of motor vehicles, including internet wholesale auctions of motor vehicles, see 46.18	0.77205575
+- wholesale on own account, see 462 to 469	- wholesale on own account, see 46.2 to 46.9	0.8174658
+- activities of commission agents who assumes ownership of the goods, even if they are acting in the name of a third party, see 462 to 469	- activities of commission agents who assume ownership of the goods, even if they are acting in the name of a third party, see 46.2 to 46.9	0.90444744

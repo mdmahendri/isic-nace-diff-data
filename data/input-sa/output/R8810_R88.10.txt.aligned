@@ -1,0 +1,14 @@
+R8810 Social work activities without accommodation for older persons or persons with disabilities	R88.10 Social work activities without accommodation for older persons or persons with disabilities	0.9141096
+This class includes:	This class includes:	1.0
+- social, counselling, welfare, referral and similar services which are aimed at older persons or persons with disabilities in their homes or elsewhere and carried out by government offices or by private organisations, national or local self-help organisations and by specialists providing counselling services:	- social, counselling, welfare, referral and similar services which are aimed at older persons or persons with disabilities in their homes or elsewhere and carried out by government offices or by private organisations, national or local self-help organisations and by specialists providing counselling services:	0.9999999
+visiting of older persons and persons with disabilities	visiting older persons and persons with disabilities	0.9846119
+day-care activities for older persons or for adults with disabilities	day-care activities for older persons or adults with disabilities	0.9949746
+home assistance services for older persons or persons with disabilities	home assistance services for older persons or persons with disabilities	1.0
+vocational rehabilitation and activities for persons with physical disabilities, where the education component is limited	vocational rehabilitation and habilitation activities for persons with physical disabilities where the education component is limited	0.97252834
+This class also includes:	This class also includes:	0.9999999
+- activities of caregivers	- activities of caregivers (home assistance)	0.8301697
+- nursing care at home if part of home care services	- homecare services - home assistance services, such as to carry out domestic tasks, rendered to persons having a diagnosis of temporary medical impairment	0.767305
+This class excludes:	This class excludes:	1.0000001
+- funding and administration of compulsory social security programmes, see 8430	- funding and administration of compulsory social security programmes, see 84.30	0.91865444
+- activities similar to those described in this class, but including accommodation, see 8730	- activities similar to those described in this class, but including accommodation, see 87.30	0.8910372
+- day-care activities for children with disabilities, see 8890	- day-care activities for children with disabilities, see 88.91	0.77975833

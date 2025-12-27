@@ -1,0 +1,8 @@
+H4921 Urban and suburban passenger land transport	H49.12 Other passenger rail transport	0.60623085
+This class includes:	This class includes:	1.0
+- land transport of passengers by urban or suburban transport systems.	- passenger transport by metro, subway, underground and elevated railway, metropolitan railway and tramway	0.7070409
+This may include different modes of land transport, such as by motorbus, tramway, streetcar, trolley bus, underground and elevated railways etc. The transport is carried out on scheduled routes normally following a fixed time schedule, entailing the picking up and setting down of passengers at normally fixed stops.	- passenger transport by funicular railway	0.46660477
+This class also includes:	This class also includes:	0.9999999
+- operation of funicular railways, aerial cableways etc. if part of urban or suburban transit systems	- passenger light rail transport for sightseeing	0.5100054
+This class excludes:	This class excludes:	1.0
+- passenger transport by inter-urban railways, see 4911	- passenger terminal activities, see 52.21	0.5754612

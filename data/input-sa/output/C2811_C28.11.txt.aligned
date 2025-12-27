@@ -1,0 +1,23 @@
+C2811 Manufacture of engines and turbines, except aircraft, vehicle and cycle engines	C28.11 Manufacture of engines and turbines, except aircraft, vehicle and cycle engines	0.91723406
+This class includes:	This class includes:	0.99999994
+- manufacture of internal combustion piston engines, except motor vehicle, aircraft and cycle propulsion engines:	- manufacture of internal combustion piston engines, except for motor vehicle, aircraft and motorcycle propulsion engines:	0.98516303
+marine engines	marine engines	1.0
+railway engines	railway engines	1.0
+- manufacture of parts suitable for use solely or principally with internal combustion engines, e.g. pistons, piston rings, carburettors and such for internal combustion engines, diesel engines etc, except for motor vehicles	- manufacture of parts suitable for use solely or principally within internal combustion engines (e.g. pistons, piston rings, carburettors and such, except for motor vehicles)	0.95114845
+- manufacture of inlet and exhaust valves of internal combustion engines - manufacture of turbines and parts thereof:	- manufacture of inlet and exhaust valves of internal combustion engines - manufacture of turbines and parts thereof:	1.0000001
+steam turbines and other vapour turbines	steam turbines and other vapour turbines	0.99999994
+hydraulic turbines, waterwheels and regulators thereof wind turbines and mills	hydraulic turbines, waterwheels and regulators thereof wind turbines and mills	1.0000001
+gas turbines, except turbojets or turbo propellers for aircraft propulsion	gas turbines, except turbojets or turbopropellers for aircraft propulsion	0.9944482
+- manufacture of boiler-turbine sets	- manufacture of boiler turbine sets	0.9785385
+- manufacture of turbine-generator sets, consisting of a turbine and a generator mounted together	- manufacture of turbine generator sets, consisting of a turbine and a generator mounted together	0.99145555
+- manufacture of engines for industrial application	- manufacture of engines for industrial application	1.0
+- factory overhaul of ship and boat engines	- factory overhaul of ship and boat engines	1.0
+This class excludes:	This class excludes:	0.99999994
+- manufacture of electric generators (except turbine generator sets), see 271	- manufacture of electric generators (except turbine generator sets), see 27.11	0.911834
+- manufacture of prime mover generator sets (except turbine generator sets), see 2710	- manufacture of prime mover generator sets (except turbine generator sets), see 27.11	0.9035832
+- manufacture of parts of motor vehicles combustion engines, see 2910	- manufacture of parts of motor vehicles combustion engines, see 29.10	0.9081937
+- manufacture of electrical equipment and components of internal combustion piston engines for motor vehicles, see 293	- manufacture of electrical equipment and components of internal combustion piston engines for motor vehicles, see 29.3	0.93105054
+- manufacture of pistons, piston rings, carburetors and such for internal combustion engines, diesel engines for motor vehicles, see 293	- manufacture of pistons, piston rings and carburettors for motor vehicles, see 29.32	0.8239339
+- manufacture of internal combustion piston engines propulsion engines for aircraft, see 3030, 3030	- manufacture of internal combustion piston engines for aircraft, see 30.3	0.8885428
+- manufacture of motorcycle propulsion engines, see 3091	- manufacture of motorcycle propulsion engines, see 30.91	0.8403689
+- manufacture of aircraft engines, turbojets and turbo propellers, see 3030, 3030	- manufacture of pistons, piston rings and carburettors for motorcycles, see 30.91	0.7117349

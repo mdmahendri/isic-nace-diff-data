@@ -1,0 +1,27 @@
+C3030 Manufacture of air and spacecraft and related machinery	C30.31 Manufacture of civilian air and spacecraft and related machinery	0.87124354
+It includes:	This class includes:	0.7394638
+- manufacture of airplanes for the transport of goods or passengers, for sport or other purposes	- manufacture of airplanes for the transport of goods or passengers, including for recreation and sports purposes	0.92373663
+- manufacture of helicopters	- manufacture of helicopters	1.0
+- manufacture of gliders, hang-gliders	- manufacture of gliders and hang-gliders	0.941566
+- manufacture of dirigibles and hot air balloons	- manufacture of dirigibles and hot-air balloons	0.9989268
+- manufacture of parts and accessories of the aircraft of this class:	- manufacture of parts and accessories of the aircraft of this class:	0.99999994
+* major assemblies such as fuselages, wings, doors, control surfaces, landing gear, fuel tanks, nacelles etc.	major assemblies (e.g. fuselages, wings, doors, control surfaces, landing gear, fuel tanks, nacelles)	0.8680184
+* airscrews, helicopter rotors and propelled rotor blades	airscrews, helicopter rotors and propelled rotor blades	0.9049311
+* motors and engines of a kind typically found on aircraft	civilian aircraft engines turbojets and turboprops, of a kind typically found on civilian aircraft	0.65642047
+* parts of turbojets and turboprops for aircraft	parts suitable for use solely or principally with internal combustion piston engines for civilian aircraft	0.558635
+- manufacture of ground flying trainers	- manufacture of ground flying trainers	1.0
+- manufacture of civilian unmanned aircrafts (drones), non-recreational	- manufacture of missiles for space and civilian purposes	0.71159714
+- manufacture of spacecraft and launch vehicles, satellites, planetary probes, orbital stations, shuttles	- manufacture of spacecraft and launch vehicles, satellites, planetary probes, orbital stations, shuttles	1.0
+This class also includes:	This class also includes:	0.99999994
+- overhaul and conversion of aircraft or aircraft engines	- overhaul and conversion of civilian aircraft or aircraft engines	0.9506845
+- manufacture of aircraft seats	- manufacture of civilian aircraft seats	0.8947693
+This class excludes:	This class excludes:	0.9999999
+- manufacture of parachutes, see 1392	- manufacture of parachutes, see 13.96	0.7441959
+- manufacture of military ordinance and ammunition, see 2520	- manufacture of missiles for military purposes, see 25.30	0.75723535
+- manufacture of telecommunication equipment for satellites, see 2630	- manufacture of telecommunication equipment for satellites, see 26.30	0.85062623
+- manufacture of aircraft instrumentation and aeronautical instruments, see 2651	- manufacture of aircraft instrumentation and aeronautical instruments, see 26.51	0.87214154
+- manufacture of air navigation systems, see 2651	- manufacture of air navigation systems, see 26.51	0.82782465
+- manufacture of lighting equipment for aircraft, see 2740	- manufacture of lighting equipment for aircraft, see 27.40	0.88943785
+- manufacture of pistons, piston rings and carburetors, see 2811	- manufacture of pistons, piston rings and carburettors not for motor vehicles or motorcycles, see 28.11	0.7782872
+- manufacture of aircraft launching gear, aircraft carrier catapults and related equipment, see 2829	- manufacture of aircraft launching gear, aircraft carrier catapults and related equipment, see 28.99	0.9287609
+- manufacture of drones for recreational purposes, see 3240	- manufacture of drones for military purposes, see 30.32	0.78221667

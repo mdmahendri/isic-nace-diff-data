@@ -1,0 +1,10 @@
+File: C1312_C13.20.txt
+File Elapsed Time: 0:00:01.317691
+Source file length: 20
+Target file length: 20
+Nodes: 484
+Gale-Church Elapsed Time: 2025-12-26 16:19:46.998862
+Align Elapsed Time: 0:02:28.519491
+Calc Anchors Elapsed Time: 2025-12-26 16:19:46.998863
+Greedy Algorithm Elapsed Time: 2025-12-26 16:19:46.998866
+Anchors: [[20, 20]]

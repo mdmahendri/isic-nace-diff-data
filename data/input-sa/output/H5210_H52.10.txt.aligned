@@ -1,0 +1,20 @@
+H5210 Warehousing and storage	H52.10 Warehousing and storage	0.87863374
+This class includes:	This class includes:	0.99999994
+- operation of storage and warehouse facilities for all kinds of goods:	- operation of storage and warehouse facilities for all kinds of goods:	1.0000001
+operation of grain silos	operation of grain silos	1.0000001
+general merchandise warehouses	general merchandise warehouses	0.9999999
+refrigerated warehouses or cool stores	refrigerated warehouses and cool stores	0.88262665
+storage tanks etc.	storage tanks, etc.	0.9926928
+- warehousing of furniture not part of a removal service	- warehousing of furniture, not part of a removal service	0.9814596
+This class also includes:	This class also includes:	0.9999999
+- storage of goods in foreign trade zones	- storage of goods in foreign trade zones	1.0
+- blast freezing associated with storage and warehousing	- blast freezing associated with storage and warehousing	1.0000001
+- activity of storage of physical archives and paper files	- activities of storage of physical archives and paper files	0.99281913
+This class excludes:	This class excludes:	0.99999994
+- storage of electricity, see 3513	- storage of electricity, see 35.16	0.7607217
+- storage of gaseous fuels for energy supply through a network, see 3520	- storage of gaseous fuels for energy supply through a network, see 35.24	0.80840683
+- storage of furniture as part of a removal service, see 4923	- storage of furniture as part of a removal service, see 49.42	0.8518177
+- operation of parking facilities for motor vehicles and winter storage caravans, see 5221	- operation of parking facilities for motor vehicles, see 52.21	0.8028329
+- storage of ships and boats, see 5222 - storage of aircrafts, see 5223	- winter storage of caravans, ships and boats, and storage of aircraft, see 52.21, 52.22, 52.23	0.7515749
+- operation of self storage facilities, see 6810	- operation of self-storage facilities, see 68.20	0.8369577
+- rental of vacant space, see 6810	- rental of vacant space, see 68.20	0.80952984

@@ -1,0 +1,10 @@
+File: G4771_G47.72.txt
+File Elapsed Time: 0:00:00.414854
+Source file length: 12
+Target file length: 9
+Nodes: 154
+Gale-Church Elapsed Time: 2025-12-26 16:19:46.998862
+Align Elapsed Time: 0:06:38.219923
+Calc Anchors Elapsed Time: 2025-12-26 16:19:46.998863
+Greedy Algorithm Elapsed Time: 2025-12-26 16:19:46.998866
+Anchors: [[12, 9]]

@@ -1,0 +1,10 @@
+File: B0899_B08.99.txt
+File Elapsed Time: 0:00:01.740917
+Source file length: 7
+Target file length: 6
+Nodes: 72
+Gale-Church Elapsed Time: 2025-12-26 16:19:46.998862
+Align Elapsed Time: 0:02:03.291362
+Calc Anchors Elapsed Time: 2025-12-26 16:19:46.998863
+Greedy Algorithm Elapsed Time: 2025-12-26 16:19:46.998866
+Anchors: [[7, 6]]

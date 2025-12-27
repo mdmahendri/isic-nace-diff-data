@@ -1,0 +1,11 @@
+T9411 Activities of business and employers membership organizations	T94.11 Activities of business and employers membership organisations	0.92703253
+This class includes:	This class includes:	1.0000001
+- activities of organisations whose members' interests centre on the development and prosperity of enterprises in a particular line of business or trade, including farming, or on the economic growth and climate of a particular geographical area or political subdivision without regard for the line of business.	- activities of organisations whose members interests centre on the development and prosperity of enterprises in a particular line of business or trade (including farming) or on the economic growth and climate of a particular geographical area or political subdivision without regard for the line of business	0.97534156
+- activities of federations of such associations	- activities of federations of such associations	1.0000001
+- activities of chambers of commerce, guilds and similar organisations	- activities of chambers of commerce, guilds and similar organisations	0.99999994
+- dissemination of information, representation before government agencies, public relations and labour negotiations of business and employer organisations	- dissemination of information, representation before government agencies, public relations and labour negotiations of business and employer organisations	1.0
+This class excludes:	This class excludes:	1.0000001
+- activities of professional membership organisations, see 9412	- activities of professional membership organisations, see 94.12	0.86011565
+- activities of trade unions, see 9420	- activities of trade unions, see 94.20	0.83362734
+- activities of non-governmental organisations, see 9499	- activities of other membership organisations n.e.c., see 94.99	0.7759793
+- activities of international organisations of an administrative nature, see 9900	- activities of international organisations of an administrative nature, see 99.00	0.9200111

@@ -1,0 +1,20 @@
+H4923 Freight transport by road	H49.41 Freight transport by road	0.8281648
+This class includes:	This class includes:	0.99999994
+- all freight transport operations by road:	- all freight transport operations by road:	1.0
+logging haulage	logging haulage	1.0000001
+livestock haulage	livestock haulage	1.0
+refrigerated haulage	refrigerated haulage	1.0
+heavy haulage	heavy haulage	1.0
+bulk haulage, including haulage in tanker trucks including milk collection at farms	bulk haulage, including haulage in tanker trucks, including milk collection at farms	0.9954568
+haulage of automobiles	haulage of automobiles	0.99999994
+transport of waste and waste materials, without collection or disposal	transport of waste and waste materials, without collection or disposal	0.99999994
+This class also includes:	This class also includes:	1.0
+- renting of trucks with driver	- rental of freight vehicles with a driver	0.9644957
+- freight transport by man or animal-drawn vehicles	- freight road transport by vehicles drawn by humans or animals	0.9597075
+This class excludes:	This class excludes:	1.0
+- log hauling within the forest, as part of logging operations, see 0240	- log hauling within the forest, as part of logging operations, see 02.40	0.8595104
+- distribution of water by trucks, see 3600	- distribution of water by trucks, see 36.00	0.8795402
+- operation of terminal facilities for handling freight, see 5221	- operation of terminal facilities for handling freight, see 52.2	0.8663049
+- crating and packing services for transport, see 5229	- crating and packing activities for transport, see 52.2	0.8251715
+- post and courier activities, see 5310, 5320	- post and courier activities, see 53.10, 53.20	0.85295844
+- waste transport as integrated part of waste collection activities, see 3811, 3812	- transport by armoured car service activities, see 80.01	0.54774064

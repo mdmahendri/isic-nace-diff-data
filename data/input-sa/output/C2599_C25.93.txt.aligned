@@ -1,0 +1,14 @@
+C2599 Manufacture of other fabricated metal products n.e.c.	C25.93 Manufacture of wire products, chain and springs	0.45247126
+This class includes:	This class includes:	0.99999994
+- manufacture of metal cable, plaited bands and similar articles	- manufacture of metal cable, plaited bands and similar articles	1.0
+- manufacture of uninsulated metal cable or insulated cable not capable of being used as a conductor of electricity	- manufacture of uninsulated metal cable or insulated cable not capable of being used as a conductor of electricity	0.99999994
+- manufacture of articles made of wire: barbed wire, wire fencing, grill, netting, cloth etc.	- manufacture of articles made of wire (e.g. barbed wire, wire fencing, grill, netting, cloth)	0.927985
+- manufacture of nails and pins	- manufacture of nails and pins	0.99999994
+- manufacture of springs (except watch springs):	- manufacture of springs (except watch springs), e.g.:	0.92434686
+* leaf springs, helical springs, torsion bar springs	leaf springs, helical springs, torsion bar springs	0.8938436
+* leaves for springs	leaves for springs	0.7632202
+- manufacture of chain, except power transmission chain	- manufacture of chain, except power transmission chain	1.0
+This class excludes:	This class excludes:	1.0
+- manufacture of clock or watch springs, see 2652	- manufacture of clock or watch springs, see 26.52	0.8346443
+- manufacture of wire and cable for electricity transmission, see 2732	- manufacture of wire and cable for electricity transmission, see 27.32	0.8768193
+- manufacture of power transmission chain, see 2814	- manufacture of power transmission chain, see 28.15	0.79605365

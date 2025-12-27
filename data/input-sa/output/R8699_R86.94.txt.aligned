@@ -1,0 +1,9 @@
+R8699 Other human health activities n.e.c	R86.94 Nursing and midwifery activities	0.5384157
+This class includes:	This class includes nursing and midwifery activities not performed by medical doctors, for example:	0.59297967
+- activities for human health n.e.c.:	- activities of maternity facilities, without permanent supervision of medical doctors	0.5335601
+This class also includes:	This class also includes:	1.0
+- activities of dental paramedical personnel such as dental therapists, school dental nurses and dental hygienists, who may work remote from, but are periodically supervised by, the dentist	- palliative nursing care activities for outpatients	0.62243634
+This class excludes:	This class excludes:	1.0
+- hospital activities, see 8610	- maternity wards in hospitals, under the direct supervision of medical doctors, see 86.10	0.5816746
+- medical and dental practice activities, see 8620	- residential nursing care facilities, see 87.10	0.5869668
+- nursing care facilities, see 8710	- homecare services, see 88.10	0.7612046

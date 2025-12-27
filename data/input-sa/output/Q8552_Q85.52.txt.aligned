@@ -1,0 +1,12 @@
+Q8552 Cultural education	Q85.52 Cultural education	0.92012686
+This class includes provision of instruction in the arts, drama and music such as by "schools, "studios, "classes etc. Structured educational arrangements specially designed for education and learning, such as student-teacher relationships and/or interactions, are provided.	This class includes the provision of instruction in the arts, drama and music (for example, by schools, studios, classes). Structured educational arrangements specially designed for education and learning (for example, student-teacher relationships and/or interactions) are provided.	0.91831833
+Such instruction is mainly for hobby, recreational or self-development purposes, and does not lead to qualifications at primary-tertiary levels.	Such instruction is mainly for hobby, recreational or self-development purposes, and does not lead to qualifications at primary through to tertiary levels.	0.9838316
+This class includes:	This class includes:	1.0
+- music instruction	- music instruction	1.0
+- art instruction	- art instruction	1.0
+- dance instruction	- dance instruction	0.99999994
+- drama, fine arts, performing arts and photography instruction	- drama, fine arts, performing arts and photography instruction	1.0
+This class excludes:	This class excludes:	1.0000001
+- education activities of drama, fine arts, performing arts and photography schools which lead to qualifications at secondary tertiary levels, see 853, 854	- education activities of drama, fine arts, performing arts and photography schools which lead to qualifications at secondary, post-secondary non-tertiary or tertiary levels, see 85.3, 85.40	0.91687435
+- foreign language instruction, see 8559	- foreign language instruction, see 85.59	0.81914103
+- cultural development and coordination, see 9039	- mediation activities, see 88.99	0.5342684

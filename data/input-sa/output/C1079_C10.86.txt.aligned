@@ -1,0 +1,12 @@
+C1079 Manufacture of other food products n.e.c.	C10.86 Manufacture of homogenised food preparations and dietetic food	0.5718992
+This class includes:	This class includes:	1.0
+- manufacture of special food, such as:	- manufacture of foods for particular nutritional uses:	0.850948
+* infant formula	infant formulae	0.78477603
+* follow up milk and other follow up foods	follow-up formulae milk and other follow-up foods	0.8467533
+* baby food	baby foods	0.8322362
+* low-energy and energy-reduced foods intended for weight control	low-energy and energy-reduced foods intended for weight control	0.8890909
+* foods for medical purposes	foods for medical purposes	0.86612797
+This class excludes:	This class excludes:	1.0
+- manufacture of perishable prepared foods of fruit and vegetables (e.g. salads, peeled vegetables, bean curd), see 1030	- manufacture of lactose-free dairy products, see 10.51	0.5777521
+- manufacture of frozen pizza, see 1075	- manufacture of gluten-free products, see 10.6, 10.7	0.5738985
+-manufacture of coffee, tea and mate products, see 1076	- manufacture of sugar-free confectionery, see 10.82	0.6336903

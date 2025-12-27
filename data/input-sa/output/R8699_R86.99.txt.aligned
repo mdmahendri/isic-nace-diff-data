@@ -1,0 +1,15 @@
+R8699 Other human health activities n.e.c	R86.99 Other human health activities n.e.c.	0.8970356
+This class includes:	This class includes:	0.99999994
+- activities for human health n.e.c.:	- activities for human health n.e.c.:	1.0
+activities of nurses, midwives, physiotherapists or other paramedical practitioners in the field of optometry, hydrotherapy, medical massage, occupational therapy, speech therapy, podiatry/chiropody, homeopathy, chiropractice, acupuncture etc.	activities of paramedical practitioners in the field of optometry, hydrotherapy, speech therapy, podiatry/chiropody, etc.	0.8311416
+This class also includes:	This class also includes:	1.0
+- activities of dental paramedical personnel such as dental therapists, school dental nurses and dental hygienists, who may work remote from, but are periodically supervised by, the dentist	- activities of dental paramedical personnel (e.g. dental therapists, school dental nurses or dental hygienists) who may work remote from but are periodically supervised by dentists	0.9510869
+- activities of blood banks, sperm banks, transplant organ banks etc.	- activities of blood banks, tissue banks, sperm banks, transplant organ banks, biobanks, genome data centres, etc., including collecting, processing, storage and shipping - operation of bone marrow donor registries - activities of orthoptists	0.805791
+- ambulance transport of patients by any mode of transport including airplanes.	- transport of blood and body organs/fluids	0.5457367
+This class excludes:	This class excludes:	0.9999999
+- production of artificial teeth, denture and prosthetic appliances by dental laboratories, see 3250	- production of artificial teeth, denture and prosthetic appliances by dental laboratories, see 32.50	0.86752933
+- non-medical laboratory testing, see 7120	- non-medical laboratory testing, see 71.20	0.83954537
+- testing activities in the field of food hygiene, see 7120	- testing activities in the field of food hygiene, see 71.20	0.8846578
+- hospital activities, see 8610	- hospital activities, see 86.10	0.83649147
+- medical and dental practice activities, see 8620	- medical and dental practice activities, see 86.2	0.8396633
+- nursing care facilities, see 8710	- residential nursing care facilities, see 87.10	0.81679225

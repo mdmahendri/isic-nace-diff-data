@@ -1,0 +1,17 @@
+G4740 Retail sale of information and communication equipment	G47.40 Retail sale of information and communication equipment	0.92739177
+This class includes:	This class includes:	0.99999994
+- retail sale of computers	- retail sale of computers	0.9999999
+- retail sale of computer peripheral equipment (e.g. printers, photocopiers, interactive whiteboards, videoconferencing equipment, etc.)	- retail sale of computer peripheral equipment (e.g. printers, photocopiers, interactive whiteboards, videoconferencing equipment)	0.9850469
+- retail sale of video game consoles	- retail sale of video game consoles	1.0
+- retail sale of non-customised software, including video games, provided on physical media with right to perpetual use	- retail sale of non-customised software, including video games, provided on physical media, with a right to perpetual use	0.99741286
+- retail sale of audio and video equipment	- retail sale of audio and video equipment	1.0
+- retail sale of radio and television equipment - retail sale of recordable media	- retail sale of radio and television equipment - retail sale of recordable media	1.0000001
+- retail sale of recording media players and recorders	- retail sale of recording media players and recorders	1.0
+- retail sale of smartphones, mobile phones and telephones and their accessories (chargers, hands-free kits, protective film and case, .)	- retail sale of smart telephones, mobile telephones, telephones and their accessories (e.g. chargers, hands-free kits, protective film and cases)	0.9729824
+This class excludes:	This class excludes:	0.99999994
+- retail sale of photographic, optical and precision equipment, e.g. digital cameras, see 4773	- retail sale of photographic, optical and precision equipment (e.g. digital cameras), see 47.78	0.8971013
+- second hand retail sale of information and communication equipment, see 4773	- second-hand retail sale of information and communication equipment, see 47.79	0.8495865
+- distribution of e-books and audio books via streaming and downloading by book publishers, see 5811	- distribution of e-books and audiobooks via streaming and downloading by book publishers, see 58.11	0.86477596
+- distribution via streaming and downloading by video game publishers, see 5821	- distribution via streaming and downloading by video game publishers, see 58.21	0.84305775
+- distribution via streaming and downloading by audio publishers, see 5920	- distribution via streaming and downloading by video/film publishers, see 59.13	0.74807274
+- distribution via streaming and downloading by video/films publishers, see 5913 and 6020	- distribution via streaming and downloading by audio publishers, see 59.20	0.771324

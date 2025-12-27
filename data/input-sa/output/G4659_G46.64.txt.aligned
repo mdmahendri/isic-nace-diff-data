@@ -1,0 +1,20 @@
+G4659 Wholesale of other machinery and equipment	G46.64 Wholesale of other machinery and equipment	0.87256
+This class includes:	This class includes:	0.99999994
+- wholesale of office machinery and equipment, except computers and computer peripheral equipment	- wholesale of machinery for the textile industry and of sewing and knitting machines	0.661226
+- wholesale of transport equipment such as locomotives, wagons, etc., except motor vehicles, motorcycles and bicycles	- wholesale of transport equipment (e.g. locomotives, wagons), except motor vehicles, motorcycles and bicycles	0.95249504
+- wholesale of production-line robots	- wholesale of armoured vehicles	0.68630946
+- wholesale of wires and switches and other installation equipment for industrial use	- wholesale of other machinery n.e.c. for use in industry, trade and navigation and other services	0.7560891
+- wholesale of other electrical material such as electrical motors, transformers	- wholesale of other electrical material (e.g. electrical motors, transformers)	0.9454453
+- wholesale of weapons, weapon systems and ammunition, including tanks and armoured fighting vehicles	- wholesale of weapons, weapon systems and ammunition	0.87218976
+- wholesale of machine tools of any type and for any material	- wholesale of box pallets	0.5161006
+- wholesale of other machinery n.e.c. for use in industry, trade and navigation and other services	- wholesale of reservoirs, tanks, vats and similar containers, capacity exceeding 300 litres, of plastics and for industrial use	0.6352626
+This class includes also:	This class also includes:	0.9993104
+- wholesale of measuring instruments and equipment	- wholesale of measuring instruments and equipment	1.0
+- wholesale of industrial machines for additive manufacturing (3D printers, etc.)	- wholesale of machines for additive manufacturing (3D printers, etc.)	0.9742744
+This class excludes:	This class excludes:	0.99999994
+- wholesale of motor vehicles, trailers and caravans, see 4661	- wholesale of motor vehicles (including trailers and caravans), see 46.71	0.80153227
+- wholesale of motor vehicle parts, see 4662	- wholesale of motor vehicle parts, see 46.72	0.84021646
+- wholesale of motorcycles, see 4663	- wholesale of motorcycles, see 46.73	0.8322395
+- wholesale of bicycles, see 4649	- wholesale of scaffolding, see 46.83	0.64737463
+- wholesale of computers and peripheral equipment, see 4651	- maintenance and repair of motor vehicles, see 95.31	0.5646136
+- wholesale of electronic parts and telephone and communications equipment, see 4652	- maintenance and repair of motorcycles, see 95.32	0.52208936

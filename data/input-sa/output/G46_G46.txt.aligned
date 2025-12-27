@@ -1,0 +1,13 @@
+G46 Wholesale trade	G46 Wholesale trade	1.0
+This division includes wholesale trade of physical goods on own account or on a fee or contract basis (commission trade) related to domestic wholesale trade as well as international wholesale trade (import/export), including on the Internet.	This division includes wholesale of physical goods on own account or on a fee or contract basis (commission trade) related to domestic (national) wholesale as well as international wholesale (import/export), including on the internet.	0.9833472
+Wholesale trade on own account means owning the goods traded until the ownership is transferred to the buyer.	Wholesale on own account means owning the goods traded until the ownership is transferred to the buyer.	0.9858588
+In the case of transit trade, the goods are commissioned by a buyer, but the agent owns the goods while they are in transit, however both cases are classified the same way (groups 462-469).	In the case of transit trade, the goods are commissioned by a buyer, but the agent owns the goods while they are in transit. However, both cases are classified the same way (groups 46.2 to 46.9).	0.87741935
+This division includes wholesale on a fee or contract basis (group 461), specialised wholesale (groups 462-467) and non- specialised wholesale (group 469); class 4630 is an exception as it includes non-specialised wholesale of food, beverages and tobacco.	This division includes wholesale on a fee or contract basis (group 46.1), specialised wholesale (groups 46.2 to 46.8) and non-specialised wholesale (group 46.9); class 46.39 is an exception as it includes non-specialised wholesale of food, beverages and tobacco.	0.85406786
+This division includes also:	This division also includes:	0.9992738
+- wholesale of motor vehicles and motorcycles, and related parts, equipment and accessories	- wholesale of motor vehicles and motorcycles, and related parts, equipment and accessories	0.99999994
+- transit trade activities	- transit trade activities	1.0
+This division excludes:	This division excludes:	0.9999999
+- trade of electricity, see 3513	- trade of electricity, see 35.15	0.77234596
+- trade of gaseous fuels for energy supply through mains, see 3520;	- trade of gaseous fuels for energy supply through mains, see 35.23	0.80389535
+- rental and leasing of goods, see division 77	- rental and leasing of goods, see division 77	0.99999994
+- packaging of solid goods and bottling of liquid or gaseous goods, including blending and filtering for third parties, see 8292	- packaging of solid goods and bottling of liquid or gaseous goods, including blending and filtering for third parties, see 82.92	0.932475

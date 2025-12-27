@@ -1,0 +1,10 @@
+File: C1920_C19.20.txt
+File Elapsed Time: 0:00:00.863258
+Source file length: 19
+Target file length: 18
+Nodes: 420
+Gale-Church Elapsed Time: 2025-12-26 16:19:46.998862
+Align Elapsed Time: 0:13:23.539049
+Calc Anchors Elapsed Time: 2025-12-26 16:19:46.998863
+Greedy Algorithm Elapsed Time: 2025-12-26 16:19:46.998866
+Anchors: [[19, 18]]

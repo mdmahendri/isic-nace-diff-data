@@ -1,0 +1,10 @@
+File: C2432_C24.53.txt
+File Elapsed Time: 0:00:00.343840
+Source file length: 7
+Target file length: 10
+Nodes: 108
+Gale-Church Elapsed Time: 2025-12-26 16:19:46.998862
+Align Elapsed Time: 0:09:23.982430
+Calc Anchors Elapsed Time: 2025-12-26 16:19:46.998863
+Greedy Algorithm Elapsed Time: 2025-12-26 16:19:46.998866
+Anchors: [[7, 10]]

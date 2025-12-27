@@ -1,0 +1,10 @@
+H5011 Sea and coastal passenger water transport	H50.10 Sea and coastal passenger water transport	0.83676994
+This class includes:	This class includes:	1.0
+- transport of passengers over seas and coastal waters, whether scheduled or not:	- transport of passengers over seas and coastal waters, whether scheduled or not:	1.0
+operation of excursion, cruise or sightseeing boats	operation of excursion, cruise or sightseeing boats	1.0
+operation of ferries, water taxis etc.	operation of ferries, water taxis, etc.	0.99787456
+This class also includes:	This class also includes:	1.0
+- renting of pleasure boats with crew for sea and coastal water transport (e.g. for fishing cruises)	- rental of pleasure boats with crew for sea and coastal water transport (e.g. for fishing trips)	0.99537873
+This class excludes:	This class excludes:	1.0000001
+- restaurant and bar activities on board ships, when provided by separate units, see 5610, 5630	- restaurant and bar activities aboard ships, when provided by separate units, see 56.11, 56.30	0.91570646
+- operation of floating casinos not transporting passengers, see 9200	- operation of floating casinos, not transporting passengers, see 92.00	0.88093233

@@ -1,0 +1,10 @@
+File: G4679_G46.89.txt
+File Elapsed Time: 0:00:00.860595
+Source file length: 23
+Target file length: 2
+Nodes: 100
+Gale-Church Elapsed Time: 2025-12-26 16:19:46.998862
+Align Elapsed Time: 0:03:12.329503
+Calc Anchors Elapsed Time: 2025-12-26 16:19:46.998863
+Greedy Algorithm Elapsed Time: 2025-12-26 16:19:46.998866
+Anchors: [[23, 2]]

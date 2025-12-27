@@ -1,0 +1,10 @@
+File: S9111_S91.11.txt
+File Elapsed Time: 0:00:00.273597
+Source file length: 7
+Target file length: 9
+Nodes: 99
+Gale-Church Elapsed Time: 2025-12-26 16:19:46.998862
+Align Elapsed Time: 0:03:47.447039
+Calc Anchors Elapsed Time: 2025-12-26 16:19:46.998863
+Greedy Algorithm Elapsed Time: 2025-12-26 16:19:46.998866
+Anchors: [[7, 9]]

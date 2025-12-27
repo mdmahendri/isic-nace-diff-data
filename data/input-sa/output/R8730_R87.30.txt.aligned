@@ -1,0 +1,11 @@
+R8730 Residential care activities for older persons or persons with physical disabilities	R87.30 Residential care activities for older persons or persons with physical disabilities	0.90338814
+This class includes the provision of residential and personal care services for older persons or persons with physical disabilities who are unable to fully care for themselves and/or who do not desire to live independently.	This class includes the provision of residential and personal care services for older persons or persons with physical disabilities who are unable to fully care for themselves and/or who choose not to live independently.	0.9876343
+The care typically includes room, board, supervision, and assistance in daily living, such as housekeeping activities.	The care typically includes room, board, supervision and assistance in daily living (for example, housekeeping activities).	0.9346143
+Nursing careis sometimes provided for residents in separate on-site facilities.	Nursing care is sometimes provided for residents in separate on-site facilities.	0.98852444
+This class includes: - activities of: assisted-living facilities continuing care retirement communities	This class includes activities of: - assisted living facilities - continuing care retirement communities	0.9836445
+homes for older persons with minimal nursing care	- homes for older persons with minimal nursing care	0.903396
+rest homes without nursing care	- rest homes without nursing care	0.89302945
+This class excludes:	This class excludes:	1.0
+- residential nursing care activities for older persons, see 8710	- residential nursing care activities for older persons, see 87.10	0.89717495
+- provision of residential nursing and rehabilitative services for older persons or persons living with or having a diagnosis of a mental illness, see 8720	- provision of residential nursing and rehabilitative services for older persons or persons living with or having a diagnosis of a mental illness, see 87.20	0.9151785
+- social work activities with accommodation, see 8799	- social work activities with accommodation, see 87.99	0.8503367

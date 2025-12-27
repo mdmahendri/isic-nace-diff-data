@@ -1,0 +1,13 @@
+G4679 Wholesale of chemicals, waste and scrap and other products n.e.c.	G46.87 Wholesale of waste and scrap	0.6789266
+This class includes:	This class includes:	0.9999999
+- wholesale of metal and non-metal waste and scrap and materials for recycling, including collecting, sorting, separating, stripping of used goods such as cars in order to obtain reusable parts, packing and repacking, storage and delivery, but without a real transformation process.	- wholesale of metal and non-metal waste and scrap and materials for recycling, including collecting, sorting, separating, stripping of used goods (e.g. cars in order to obtain reusable parts), packing and repacking, storage and delivery, but without a transformation process.	0.9523779
+Additionally, the purchased and sold waste has a remaining value.	Additionally, the purchased and sold waste has a remaining value	0.92605984
+- dismantling of automobiles, computers, televisions and other equipment to obtain and re-sell usable parts	- wholesale of usable goods (metal, plastics), following the dismantling of cars, computers, televisions and other equipment on own account by the unit without further transformation of the goods	0.7578562
+- wholesale of e-liquids for electronic cigarettes	- wholesale of car wrecks	0.5669887
+This class excludes:	This class excludes:	0.99999994
+- collection of household and industrial waste, see group 381	- collection of household and industrial waste, see 38.1	0.83906746
+- processing of waste and scrap and other articles into secondary raw material when a real transformation process is required (the resulting secondary raw material is fit for direct use in an industrial manufacturing process, but is not a final product), see 3830	- processing of waste and scrap and other articles into secondary raw materials when a transformation process is required (the resulting secondary raw material is fit for direct use in an industrial manufacturing process, but is not a final product), see 38.21	0.9234425
+- dismantling of automobiles, computers, televisions and other equipment for materials recovery, see 3830	- dismantling of unusable automobiles, computers, televisions, and other equipment and parts for materials recovery, see 38.21	0.8434645
+- shredding of cars by means of a mechanical process, see 3830	- shredding of cars by means of a mechanical process, see 38.21	0.8182851
+- ship-breaking, see 3830	- treatment of waste for disposal without recovery, see 38.3	0.45062432
+- retail sale of second-hand goods, see 4774	- retail sale of second-hand goods, see 47.79	0.83098

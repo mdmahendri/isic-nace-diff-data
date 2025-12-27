@@ -1,0 +1,12 @@
+H5229 Other support activities for transportation	H52.26 Other support activities for transportation	0.8831115
+This class includes:	This class includes:	1.0
+- issue and procurement of transport documents and waybills	- issue and procurement of transport documents and waybills	0.99999994
+- goods-handling operations, e.g. temporary crating for the sole purpose of protecting the goods during transit, uncrating, sampling, weighing of goods	- activities of customs agents - organisation of multimodal and combined transport activities by rail, road, water or air (intermodal transport) on behalf of the shipper or consignee - organisation and freight forwarding of group and individual consignments on behalf of the client	0.5578328
+This class excludes:	This class excludes:	1.0000001
+- agents and brokers acting on behalf of a client in freight transportation, see 5231	- rail, ship and aircraft freight brokerage, see 52.31	0.7004926
+- agents and brokers acting on behalf of a client in passenger transportation, see 5232	- brokerage for passenger seats for ship and aircraft space, see 52.32	0.67905915
+- courier activities, see 5320	- courier activities, see 53.20	0.76999974
+- provision of motor, marine, aviation and transport insurance, see 6512	- provision of motor, marine, aviation and transport insurance, see 65.12	0.9268268
+- activities of travel agencies, see 7911	- activities of travel agencies, see 79.11	0.82612664
+- activities of tour operators, see 7912	- activities of tour operators, see 79.12	0.8120508
+- tourist assistance activities, see 7990	- tourist assistance activities, see 79.90	0.8526822

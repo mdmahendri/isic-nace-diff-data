@@ -1,0 +1,11 @@
+C1102 Manufacture of wines	C11.02 Manufacture of wine from grape	0.8090474
+This class includes:	This class includes:	1.0
+- manufacture of wine	- manufacture of wine of fresh grapes	0.809117
+- manufacture of sparkling wine	- manufacture of sparkling wine	0.9999999
+- manufacture of wine from concentrated grape must	- manufacture of wine from concentrated grape must	1.0
+This class also includes:	This class also includes:	1.0
+blending of wine	- blending, purification and bottling of wine	0.5450411
+manufacture of low or non-alcoholic wine	- manufacture of low or non-alcoholic wine	0.92204607
+This class excludes:	This class excludes:	0.99999994
+manufacture of vinegar, see 1079	- manufacture of wine from raisins, see 11.03	0.52842087
+merely bottling and labeling, see 4630 (if performed as part of wholesale) and 8292 (if performed on a fee or contract basis)	- merely bottling and labelling, see 46.34 (if performed as part of wholesale) and 82.92 (if performed on a fee or contract basis)	0.79047006

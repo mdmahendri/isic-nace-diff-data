@@ -1,0 +1,19 @@
+N7500 Veterinary activities	N75.00 Veterinary activities	0.8867444
+This class includes:	This class includes:	0.99999994
+- animal health care and control activities for farm animals	- animal health care and control activities for farm animals	1.0
+- animal health care and control activities for pet animals	- animal health care and control activities for pets	0.99532205
+- These activities are carried out in veterinary hospitals as well as when visiting farms, kennels or homes, in own consulting and surgery rooms or elsewhere.	These activities are carried out in veterinary hospitals as well as in farms, kennels or homes, in consulting and surgery rooms or elsewhere.	0.87998873
+This class includes also:	This class also includes:	0.9993104
+- activities of veterinary assistants or other auxiliary veterinary personnel	- activities of veterinary assistants or other auxiliary veterinary personnel	1.0
+- clinico-pathological and other diagnostic activities pertaining to animals	- clinico-pathological and other diagnostic activities pertaining to animals	1.0
+- animal ambulance activities	- animal ambulance activities	1.0
+- animal ambulance activities - animal chiropractor	- animal ambulance activities - activities of animal chiropractors	0.96822536
+- animal dietician	- activities of animal dieticians	0.7838224
+This class excludes:	This class excludes:	1.0
+- farm animal boarding activities without health care, see 0162	- farm animal boarding activities without health care, see 01.62	0.8705299
+- sheep shearing, see 0162	- sheep shearing, see 01.62	0.7782018
+- herd testing, droving and agistment services, poultry caponising, see 0162	- herd testing , droving and agistment services, poultry caponising, see 01.62	0.90978974
+- activities related to artificial insemination, see 0162	- activities related to artificial insemination, see 01.62	0.8651643
+- testing and control of animals before slaughter in relation to food production, see 7120	- testing and control of animals before slaughter in relation to food production, see 71.20	0.91299796
+- scientific research on animal genetics, see 7220	- scientific research on animal genetics, see 72.10	0.879508
+- pet animal boarding activities without health care, see 9690	- pet boarding activities without health care, see 96.99	0.82205486

@@ -1,0 +1,24 @@
+S9312 Activities of sports clubs	S93.12 Activities of sports clubs	0.8750154
+This class includes the activities of sports clubs, which, whether professional, semi-professional or amateur clubs, give their members the opportunity to engage in sporting activities.	This class includes the activities of sports clubs, which, whether professional, semi-professional or amateur clubs, give their members the opportunity to engage in sporting activities.	1.0
+Sports clubs are typically non-profit entities, but inclusion in the sports sector is legitimised by the prevailing purpose of the activity carried out (promotion of sports practice).	Sports clubs are typically non-profit entities, but inclusion in the sports sector is legitimised by the prevailing purpose of the activity carried out (in other words, the promotion of practicing sports).	0.98167276
+The activities of education, training, sale of advertising space, provision of clubhouse services, are, in this context, ancillary activities, which may have a prevailing weight at an economic level, but which are instrumental with respect to the prevailing purpose of the activity carried out and for its perpetuation.	The activities of education, training, the sale of advertising space and the provision of clubhouse services are, in this context, ancillary activities, which may have a prevailing weight at an economic level, but which are instrumental with respect to the prevailing purpose of the activity carried out and for its perpetuation.	0.9911665
+This class includes: - operation of sports clubs, e.g.:	This class includes: - operation of sports clubs, e.g.:	1.0000001
+football clubs	football clubs	1.0
+bowling clubs	bowling clubs	1.0000001
+swimming clubs	swimming clubs	0.9999999
+golf clubs	golf clubs	1.0
+boxing clubs winter sports clubs	boxing clubs winter sports clubs	1.0000001
+chess clubs	chess clubs	1.0
+track and field clubs	track and field clubs	0.99999994
+shooting clubs, etc.	shooting clubs	0.73323905
+e-sports clubs	e-sports clubs	1.0
+card games clubs, e.g. bridge clubs	card game clubs (e.g. bridge clubs)	0.9358641
+This class also includes:	This class also includes:	0.99999994
+- provision of clubhouse services by sports clubs	- provision of clubhouse services by sports clubs	0.99999994
+- sports training by sports clubs	- sports training within sports clubs	0.9172139
+This class excludes:	This class excludes:	0.9999999
+- sports instruction by individual teachers, trainers, see 8551	- sports instruction by individual teachers/trainers, see 85.51	0.8570393
+- operation of sports facilities, see 9311	- operation of sports facilities, see 93.11	0.85178035
+- activities of individual own-account sportsmen and athletes, referees, judges, timekeepers etc., see 9319	- activities of individual own account sportspersons and athletes, referees, judges, timekeepers, etc., see 93.19	0.9195708
+- activities of individual own-account participants of e-sports, see 9319	- activities of individual own account participants of e-sports, see 93.19	0.88522124
+- activities of sports federations, see 9499	- activities of sports federations, see 93.19	0.8492635

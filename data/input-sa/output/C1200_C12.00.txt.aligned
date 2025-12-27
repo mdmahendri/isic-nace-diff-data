@@ -1,0 +1,10 @@
+C1200 Manufacture of tobacco products	C12.00 Manufacture of tobacco products	0.88527834
+This class includes:	This class includes:	1.0
+- manufacture of tobacco products and products of tobacco substitutes: cigarettes, fine cut tobacco, cigars, pipe tobacco, chewing tobacco, snuff	- manufacture of tobacco products and products of tobacco substitutes: cigarettes, fine-cut tobacco, cigars, pipe tobacco, chewing tobacco, snuff	0.9994112
+- manufacture of "homogenised" or "reconstituted" tobacco	- manufacture of homogenised or reconstituted tobacco	0.92035747
+This class also includes:	This class also includes:	0.99999994
+- stemming and redrying of tobacco	- stemming and redrying of tobacco	1.0
+This class excludes:	This class excludes:	1.0
+- growing or preliminary processing of tobacco, see 0115, 0163 and 0164	- growing or preliminary processing of tobacco, see 01.15, 01.63	0.8311563
+- manufacture of electronic cigarette vapor liquids, including closed refills, see 2029	- manufacture of electronic cigarette vapour liquids, including closed refills, see 20.59	0.8814752
+- manufacture of electronic cigarettes, see 3290	- manufacture of electronic cigarettes (vapes), see 32.99	0.7634808

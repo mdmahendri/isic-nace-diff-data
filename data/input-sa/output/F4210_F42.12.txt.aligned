@@ -1,0 +1,8 @@
+F4210 Construction of roads and railways	F42.12 Construction of railways and underground railways	0.76379514
+This class includes:	This class includes:	1.0
+- construction of railways, underground railways and subways	- construction of railways, underground railways and subways	1.0
+- construction of electricity overhead lines and conductor rails for railways	- construction of electricity overhead lines and conductor rails for railways	1.0
+This class excludes:	This class excludes:	0.99999994
+- installation of street lighting and electrical signals, see 4321	- installation of lighting and electrical signals, see 43.21	0.83520055
+- architectural and engineering activities, see 7110	- project management for construction, see 71.1	0.7209549
+- project management activities related to civil engineering works, see 7110	- engineering activities, see 71.12	0.7299224

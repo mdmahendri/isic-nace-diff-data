@@ -1,0 +1,23 @@
+E3830 Materials and other waste recovery	E38.21 Materials recovery	0.6388062
+This class includes: - processing of metal and non-metal waste and scrap and other articles into secondary raw materials, usually involving a mechanical or chemical transformation process	This class includes the processing of metal and non-metal waste, including scrap and other articles into secondary raw materials.	0.81914324
+- recovery of materials from waste streams in the form of: separating and sorting recoverable materials from non-hazardous waste streams (i.e. garbage) separating and sorting of commingled recoverable materials, such as paper, plastics, used beverage cans and metals, into distinct categories	Further included is the recovery of materials from waste streams in the form of: (1) separating and sorting recoverable materials from non-hazardous waste streams; or (2) separating and sorting of commingled recoverable materials (for example, paper, plastics, used beverage cans and metals) into distinct categories.	0.8634212
+Examples of the mechanical or chemical transformation processes that are undertaken are:	Examples of the mechanical or chemical transformation processes that are undertaken include:	0.99506176
+- mechanical crushing of metal waste such as used cars, washing machines, bikes etc. with subsequent sorting and separation	- mechanical crushing and shredding of metal waste (e.g. from used cars, washing machines or motorcycles)	0.84148985
+- mechanical reduction of large iron pieces such as railway wagons	- mechanical reduction of large iron pieces (e.g. railway wagons)	0.93094903
+- shredding of metal waste, end-of-life vehicles etc.	- recovery of iron from clinker	0.44512594
+- reclaiming metals out of photographic waste, e.g. fixer solution or photographic films and paper	- reclaiming metals out of photographic waste (e.g. fixer solution or photographic films and paper)	0.96725976
+- reclaiming of rubber such as used tires to produce secondary raw material	- dismantling of wrecks of any type (automobiles, ships, computers, televisions and other equipment) for materials recovery - producing of rubber powder from rubber waste and scrap, including decontamination, division (elimination) of fractions and devulcanising	0.51439035
+- sorting and mechanical processing (e.g. cleaning, grinding) of plastics to produce secondary raw material	- sorting and mechanical processing (e.g. cleaning, grinding) of plastics to produce secondary raw materials	0.9998222
+- processing (aging, cleaning, sorting) of incineration bottom ash into secondary raw materials (metals, aggregates)	- processing (ageing, cleaning, sorting) of incineration bottom ash into secondary raw materials (metals, aggregates)	0.9987601
+- crushing, cleaning and sorting of glass	- crushing, cleaning and sorting of glass	1.0
+- crushing, cleaning and sorting of other waste such as demolition waste to obtain secondary raw material	- crushing, cleaning and sorting of other waste (e.g. demolition waste to obtain secondary raw materials)	0.9378911
+- recovery of waste oil, processing of used cooking oils and fats into secondary raw materials	- recovery of waste oil, processing of used cooking oils and fats into secondary raw materials	0.99999994
+This class excludes:	This class excludes:	0.9999999
+- manufacture of new final products from secondary metal raw materials (whether or not self-produced), such as spinning yarn from garnetted stock, making pulp from paper waste, retreading tyres or production of metal from metal scrap, see corresponding classes in section C (Manufacturing)	- manufacture of new final products from secondary raw materials, whether or not self-manufactured (e.g. spinning yarn from garnetted stock, making pulp from paper waste, retreading tyres or the production of metal from metal scrap), see corresponding classes in section C	0.9793682
+- reprocessing of nuclear fuels, see 2011	- reprocessing of nuclear fuels, see 20.13	0.78248775
+- remelting of plastics to produce granulates or compounds, see 2013	- remelting of plastics to produce granulates or compounds, see 20.16	0.8481112
+- treatment and disposal of non-hazardous waste, see 3821	- remelting ferrous waste and scrap, see 24.10	0.62798834
+- treatment of organic waste for disposal, see 3821	- production of biogas from waste for gas supply, see 35.21	0.6199486
+- energy recovery from non-hazardous waste incineration processes, see 3821	- energy recovery during waste thermal treatment, see 38.22	0.75255084
+- treatment and disposal of toxic, contaminated waste, see 3822	- disposal of waste without recovery and treatment prior to disposal, see 38.3	0.70299566
+- wholesale of recoverable materials, see 4679	- wholesale of recoverable materials, see 46.87	0.81720203

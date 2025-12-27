@@ -1,0 +1,8 @@
+L6511 Life insurance	L65.11 Life insurance	0.89982295
+This class includes:	This class includes:	1.0
+- Term life insurance	- term life insurance	0.9547179
+- Permanent life insurance	- permanent life insurance	0.9802818
+- underwriting annuities and life insurance policies, disability income insurance policies, accidental death, funeral and dismemberment insurance policies (with or without a substantial savings element)	- underwriting annuities and life insurance policies, disability income insurance policies, accidental death, funeral and dismemberment insurance policies (with or without a substantial savings element)	0.99999994
+This class includes also:	This class also includes:	0.99931043
+- supplementary insurance underwritten in addition to life insurance, in particular, insurance against personal injury including incapacity for employment, insurance against death resulting from an accident and insurance against disability resulting from an accident or sickness;	- supplementary insurance underwritten in addition to life insurance, in particular, insurance against personal injury, including incapacity for employment, insurance against death resulting from an accident, and insurance against disability resulting from an accident or sickness	0.9840296
+- types of permanent health insurance not subject to cancellation	- types of permanent health insurance not subject to cancellation	0.99999994

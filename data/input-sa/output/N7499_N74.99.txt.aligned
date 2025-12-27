@@ -1,0 +1,33 @@
+N7499 All other professional, scientific and technical activities n.e.c.	N74.99 All other professional, scientific and technical activities n.e.c.	0.94459534
+This class includes a great variety of service activities generally delivered to commercial clients.	This class includes a great variety of service activities generally delivered to commercial clients.	1.0
+It includes those activities for which more advanced professional, scientific and technical skill levels are required, but does not include ongoing, routine business functions that are generally of short duration.	It includes those activities for which more advanced professional, scientific and technical skill levels are required, but excludes ongoing, routine business functions that are generally of short duration.	0.9872657
+This class includes:	This class includes:	0.99999994
+- business brokerage activities, i.e. arranging for the purchase and sale of small and medium-sized businesses, including professional practices, but not including real estate brokerage	- business brokerage activities, i.e. arranging for the purchase and sale of small and medium-sized businesses, including professional practices, but excluding real estate brokerage	0.9955321
+- appraisal activities other than for real estate and insurance (for antiques, jewellery, etc.)	- appraisal activities other than for real estate and insurance (for antiques, jewellery, etc.)	0.99999994
+- bill auditing and freight rate information	- bill auditing and freight rate information	1.0
+- weather forecasting activities	- weather forecasting activities	1.0
+- consulting in the area of occupational safety at workplace	- consulting in the area of occupational safety and health at the workplace	0.95083916
+- agronomy consulting services	- agronomy consulting services	1.0000001
+- environmental consulting activities	- environmental consulting activities	1.0000001
+- energy saving advice activities	- energy-saving advice activities	0.9977504
+- other technical consulting	- other technical consulting	1.0
+- activities of quantity surveyors	- activities of quantity surveyors	1.0
+This class includes also:	This class also includes:	0.9993104
+- activities carried out by agents and agencies on behalf of individuals usually involving the obtaining of engagements in motion picture, theatrical production or other entertainment or sports attractions and the placement of books, plays, artworks, photographs etc., with publishers, producers etc.	- activities carried out by agents and agencies on behalf of individuals usually involving the obtaining of engagements in motion picture, theatrical production or other entertainment or sports attractions, as well as the placement of books, plays, artworks, photographs, etc., with publishers, producers, etc.	0.9965985
+- economic services for construction projects, e.g. by construction economists	- economic services for construction projects (e.g. by construction economists)	0.9649364
+- supervisory board activities	- supervisory board activities	1.0
+This class excludes:	This class excludes:	0.9999999
+- activities of commission agents, commodity brokers and other wholesalers trading on the account of others without owning the intermediated goods at any time, see 4610	- activities of auctioning houses (wholesale) and online auction activities (wholesale), see 46.1	0.5670025
+- intermediation service activities for retail sale, see 4790	- activities of auctioning houses (retail sale) and online auction activities (retail sale), see 47.9	0.637408
+- activities of real estate brokers, see 6821	- activities of real estate brokers, see 68.31	0.814947
+- bookkeeping activities, see 6920	- bookkeeping activities, see 69.20	0.8250774
+- activities of management consultants, see 7020	- activities of management consultants, see 70.20	0.87416625
+- activities of architecture and engineering consultants, see 7110	- activities of architecture and engineering consultants, see 71.1	0.8684305
+- activities of quantity surveyors, see 7110	- geodetic surveying activities, see 71.12	0.6970835
+- industrial and machinery design, see 7110, 7410	- industrial and machinery design, see 71.12, 74.11	0.8467773
+- veterinary testing and control in relation to food production, see 7120	- veterinary testing and control in relation to food production, see 71.20	0.91008717
+- display of advertisement and other advertising design, see 7310	- display of advertisements and other advertising design, see 73.11	0.8438629
+- creation of stands and other display structures and sites, see 7310	- sales promotion service activities, see 73.11	0.55428183
+- activities of convention and trade show organisers, see 8230	- activities of convention and trade show organisers, see 82.30	0.8583182
+- administration of loyalty programmes, see 8299	- administration of loyalty programmes, see 82.99	0.86234
+- consumer credit and debt counselling, see 8890	- consumer credit and debt counselling, see 88.99	0.8642154

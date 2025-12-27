@@ -1,0 +1,11 @@
+L6433 Activities of trust, estate and agency accounts	L64.32 Activities of trust, estate and agency accounts	0.898142
+This class includes legal entities, not acting as collective investment schemes, organised to pool securities, estates and other financial assets, without managing, on behalf of shareholders or beneficiaries.	This class includes legal entities, not acting as collective investment schemes, organised to pool securities, estates and other financial assets, without managing, on behalf of shareholders or beneficiaries.	1.0
+The portfolios are customised to achieve specific investment characteristics, e.g. diversification, risk, rate of return and price volatility.	The portfolios are customised to achieve specific investment characteristics (for example, diversification, risk, rate of return, price volatility).	0.92532635
+These entities earn interest, dividends and other property income, but have little or no employment and no revenue from the sale of services.	These entities earn interest, dividends and other property income but have little or no employment and no revenue from the sale of services.	0.99810755
+This class includes:	This class includes:	0.99999994
+- trusts, estates or agency accounts, administered on behalf of the beneficiaries under the terms of a trust agreement, will or agency agreement	- trusts, estates and agency accounts, administered on behalf of multiple beneficiaries under the terms of a trust agreement, will or agency agreement	0.9575908
+This class also includes:	This class also includes:	0.99999994
+- - activities of shareholdings companies, not owning controlling levels of equity	- activities of shareholding companies, not owning controlling levels of equity	0.9806011
+- venture companies where the only financing is by shares and no fee is received	- venture capital companies where the only financing is by shares and no fee is received	0.98616445
+This class excludes:	This class excludes:	1.0
+- raising funds by issuing shares or units and acting as collective investment schemes, see 6431 and 6432	- raising funds by issuing shares or units and acting as collective investment schemes, see 64.31	0.8630389

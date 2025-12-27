@@ -1,0 +1,22 @@
+F4321 Electrical installation	F43.21 Electrical installation	0.8794446
+This class includes the installation, repair and maintenance of electrical systems in all types of buildings and civil engineering structures of electrical systems.	This class includes the installation, repair and maintenance of electrical systems in all types of buildings and civil engineering structures.	0.9847276
+This class includes:	This class includes:	1.0
+- installation of:	- installation of:	1.0
+electrical wiring and fittings	electrical wiring and fittings	1.0000001
+telecommunications wiring	telecommunication wiring	0.9974379
+computer network and cable television wiring, including fibre optic	computer network and cable television wiring, including fibre-optic	0.99773717
+satellite dishes	satellite dishes	1.0
+lighting systems fire alarms	lighting systems fire alarms	1.0000001
+burglar alarm systems	burglar-alarm systems	0.9565445
+street lighting and electrical signals	street lighting and electrical signals	0.9999999
+airport runway lighting photovoltaic systems on buildings	airport runway lighting photovoltaic systems on buildings	1.0000001
+power storage systems	power storage systems	1.0
+- installation of electrical chargers, for electrical vehicles	- installation of chargers for electric vehicles	0.9533503
+This class also includes:	This class also includes:	0.99999994
+- connecting of electric appliances and household equipment, including baseboard heating	- connecting of electric appliances and household equipment, including baseboard heating	1.0
+This class excludes:	This class excludes:	0.9999999
+- distribution lines for electricity and telecommunications, see 4220	- construction of distribution lines for electricity and telecommunication, see 42.22	0.8107566
+- construction of solar and wind energy farms, see 4220	- construction of solar and wind energy farms, see 42.22	0.865432
+- construction of stations for distribution of electricity, e.g. for electrical vehicles, see 4220	- construction of stations for distribution of electricity (e.g. for electric vehicles), see 42.22	0.8810972
+- installation of lightning conductors, see 4329	- installation of lightning conductors, see 43.24	0.7838445
+- monitoring and remote monitoring of electronic security systems, such as burglar alarms and fire alarms, including their installation and maintenance, see 8019	- monitoring and remote monitoring of electronic security systems (e.g. burglar alarms and fire alarms, including their installation and maintenance), see 80.09	0.8896972

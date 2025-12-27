@@ -1,0 +1,13 @@
+A0220 Logging	A02.20 Logging	0.86088574
+This class includes:	This class includes:	1.0000001
+- production of roundwood for forest-based manufacturing industries	- production of roundwood for forest-based manufacturing industries	1.0000001
+- production of roundwood used in an unprocessed form such as pit-props, fence posts and utility poles.	- production of roundwood used in an unprocessed form (e.g. pit-props, fence posts, utility poles)	0.9161266
+This class also includes:	This class also includes:	1.0
+- gathering and production of forest harvesting residues, e.g. brushwood, stumps, wood chips from logging and other forest waste for energy	- gathering and production of forest harvesting residues (e.g. brushwood, stumps, wood chips from logging, other forest waste for energy)	0.9585226
+- production of charcoal in the forest (using traditional methods)	- production of charcoal in the forest (using traditional methods)	1.0
+This class excludes:	This class excludes:	1.0000001
+- growing of Christmas trees, see 0129	- growing of Christmas trees, see 01.29	0.7994155
+- growing of standing timber: planting, replanting, transplanting, thinning and conserving of forests and timber tracts, see 0210	- growing of standing timber: planting, replanting, transplanting, thinning and conserving of forests, and timber tracts, see 02.10	0.9356317
+- gathering of wild growing non-wood forest products, see 0230	- gathering of wild growing non-wood forest products, see 02.30	0.8550836
+- production of wood chips and particles not associated with forestry activities, see 1610	- production of wood chips and particles, not associated with forestry activities, see 16.11	0.87876797
+- production of charcoal through distillation of wood, see 2011	- production of charcoal through distillation of wood, see 20.14	0.7705581

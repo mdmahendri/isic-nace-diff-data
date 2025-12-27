@@ -1,0 +1,33 @@
+C2620 Manufacture of computers and peripheral equipment	C26.20 Manufacture of computers and peripheral equipment	0.8984273
+This class includes the manufacture and/or assembly of electronic computers, such as mainframes, desktop computers, laptops and computer servers; and computer peripheral equipment, such as storage devices and input/output devices (printers, monitors, keyboards).	This class includes the manufacture and/or assembly of electronic computers (for example, mainframes, desktop computers, laptops, computer servers); computer peripheral equipment (for example, storage devices, input/output devices, such as printers, monitors, keyboards).	0.97572803
+Computers can be analog, digital, or hybrid.	Computers can be analogue, digital, or hybrid.	0.99714565
+Digital computers, the most common type, are devices that do all of the following: (1) store the processing program or programs and the data immediately necessary for the execution of the program, (2) can be freely programmed in accordance with the requirements of the user, (3) perform arithmetical computations specified by the user and (4) execute, without human intervention, a processing program that requires the computer to modify its execution by logical decision during the processing run.	Digital computers, the most common type, are devices that do all of the following: (1) store the processing program or programs and the data immediately necessary for the execution of a program, (2) can be freely programmed in accordance with the requirements of the user, (3) perform arithmetical computations specified by the user and (4) execute, without human intervention, a processing program that requires the computer to modify its execution by logical decision during the processing run.	0.99991703
+Analog computers are capable of simulating mathematical models and comprise at least analog control and programming elements.	Analogue computers are capable of simulating mathematical models and comprise at least analogue control and programming elements.	0.9980036
+This class includes:	This class includes:	0.99999994
+- manufacture of desktop computers	- manufacture of desktop computers	1.0
+- manufacture of laptop computers	- manufacture of laptop computers	1.0
+- manufacture of main frame computers	- manufacture of mainframe computers	0.97120464
+- manufacture of hand-held computers	- manufacture of handheld computers	0.99075305
+- manufacture of magnetic disk drives, flash drives and other storage devices	- manufacture of magnetic disk drives, flash drives and other storage devices	0.9999999
+- manufacture of optical disc drives for computers	- manufacture of optical disc drives for computers	1.0
+- manufacture of printers	- manufacture of printers	1.0000001
+- manufacture of monitors	- manufacture of monitors	0.99999994
+- manufacture of keyboards	- manufacture of keyboards	1.0000001
+- manufacture of all types of mice, joysticks, and trackball accessories - manufacture of dedicated computer terminals - manufacture of computer servers	- manufacture of all types of mice, joysticks, and trackball accessories - manufacture of dedicated computer terminals - manufacture of computer servers	1.0000001
+- manufacture of scanners, including bar code scanners	- manufacture of scanners, including barcode scanners	0.98786604
+- manufacture of smart card readers	- manufacture of smart card readers	1.0
+- manufacture of computer projectors (video beamers)	- manufacture of computer projectors (video beamers)	1.0000001
+This class also includes:	This class also includes:	0.99999994
+- manufacture of computer terminals, like automatic teller machines (ATM's) and point-of-sale (POS) terminals, not mechanically operated	- manufacture of computer terminals, like automatic teller machines (ATMs) and point-of-sale (POS) terminals, not mechanically operated	0.9995404
+- manufacture of multi-function office equipment performing two or more of following functions e.g. printing, scanning, copying, faxing	- manufacture of multifunction office equipment performing two or more of the following functions (e.g. printing, scanning, copying, telefaxing)	0.9701838
+This class excludes:	This class excludes:	0.9999999
+- reproduction of recorded media (computer media, sound, video, etc.), see 1820	- reproduction of recorded media (computer media, sound, video, etc.), see 18.20	0.9200656
+- manufacture of electronic components and electronic assemblies used in computers and peripherals, see 2619	- manufacture of electronic components and electronic assemblies used in computers and peripherals, see 26.1	0.8890309
+- manufacture of interface cards, modules and assemblies, see 2619	- manufacture of interface cards, modules and assemblies, see 26.12	0.88248307
+- manufacture of printed circuit boards loaded with passive elements, see 2619	- manufacture of printed circuit boards loaded with passive elements, see 26.12	0.85035664
+- manufacture of modems, carrier equipment, see 264	- manufacture of modems, carrier equipment, see 26.30	0.83722794
+- manufacture of digital communication switches, data communications equipment (e.g. bridges, routers, gateways), see 2630	- manufacture of digital communication switches, data communication equipment (e.g. bridges, routers, gateways), see 26.30	0.9193145
+- manufacture of consumer electronic devices, such as CD players and DVD players, see 2640	- manufacture of consumer electronic devices (e.g. CD players, DVD players, Blu-ray players), see 26.40	0.82645464
+- manufacture of television monitors and displays, see 2640	- manufacture of television monitors and displays, see 26.40	0.87092686
+- manufacture of video game consoles, see 2640	- manufacture of video game consoles, see 26.40	0.83532673
+- manufacture of blank optical and magnetic media for use with computers or other devices, see 268	- manufacture of blank optical and magnetic media for use with computers or other devices, see 26.70	0.92907476

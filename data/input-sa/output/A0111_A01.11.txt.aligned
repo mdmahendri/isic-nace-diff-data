@@ -1,0 +1,38 @@
+A0111 Growing of cereals (except rice), leguminous crops and oil seeds	A01.11 Growing of cereals, other than rice, leguminous crops and oil seeds	0.8944449
+This class includes all forms of growing of cereals, leguminous crops and oil seeds in open fields, for obtaining crops or for seed production.	This class includes all forms of growing of cereals, leguminous crops and oil seeds. Further included is the growing of these plants for the purpose of seed production.	0.8701459
+The growing of these crops is often combined within agricultural units.	The growing of these crops is often combined within agricultural units.	1.0
+This class includes:	This class includes:	1.0
+- growing of cereals such as:	- growing of cereals, e.g.:	0.95239586
+wheat	wheat	1.0
+grain maize	grain maize	0.99999994
+sorghum	sorghum	1.0
+barley	barley	1.0
+rye	rye	0.99999994
+oats	oats	1.0
+millets	millet	0.88998055
+Pseudocereals, fruits or seeds - used as cereals, such as	pseudocereals, in other words, fruits or seeds used as cereals, e.g.:	0.8407761
+quinoa amaranth chia	quinoa amaranth chia	1.0000001
+- growing of leguminous crops such as:	- growing of leguminous crops, e.g.:	0.9640397
+beans	beans	0.9999999
+broad beans	broad beans	1.0
+chick peas	chickpeas	0.9227601
+cow peas	cowpeas	0.8621195
+lentils	lentils	1.0
+lupines	lupines	1.0
+peas	peas	0.99999994
+pigeon peas	pigeon peas	1.0
+- growing of oil seeds such as:	- growing of oil seeds, e.g.:	0.95793396
+soya beans groundnuts	soya beans groundnuts	1.0000001
+castor bean	castor beans	0.9376552
+linseed	linseed	1.0
+mustard seed	mustard seed	0.9999999
+niger seed	niger seed	1.0
+rapeseed	rapeseed	0.9999999
+safflower seed	safflower seed	1.0
+sesame seed	sesame seed	1.0
+sunflower seed	sunflower seed	1.0
+This class excludes:	This class excludes:	0.9999999
+- growing of rice, see 0112	- growing of rice, see 01.12	0.7973271
+- growing of sweet corn, see 0113	- growing of sweetcorn, see 01.13	0.7837883
+- growing of maize, lupines, kale for fodder, see 0119	- growing of maize, lupines or kale for fodder, see 01.19	0.7953385
+- growing of oleaginous fruits, see 0126	- growing of oleaginous fruits, see 01.26	0.79871523

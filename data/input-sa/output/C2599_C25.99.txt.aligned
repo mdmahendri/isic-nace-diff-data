@@ -1,0 +1,28 @@
+C2599 Manufacture of other fabricated metal products n.e.c.	C25.99 Manufacture of other fabricated metal products n.e.c.	0.8806338
+This class includes:	This class includes:	0.99999994
+- manufacture of metal household articles:	- manufacture of metal household articles:	1.0
+* flatware: plates, saucers etc.	flatware: plates, saucers, etc.	0.8869007
+* hollowware: pots, kettles etc.	hollowware: pots, kettles, etc.	0.88340414
+* dinnerware: bowls, platters etc.	dinnerware: bowls, platters, etc.	0.8906529
+* saucepans, frying pans and other non-electrical utensils for use at the table or in the kitchen	saucepans, frying pans and other non-electrical utensils for use at the table or in the kitchen	0.8666531
+* small hand-operated kitchen appliances and accessories	small hand-operated kitchen appliances and accessories	0.8761684
+* metal scouring pads	metal scouring pads	0.80970883
+- manufacture of baths, sinks, washbasins and similar articles	- manufacture of building components of zinc: gutters, roof capping, baths, sinks, washbasins and similar articles	0.7757917
+- manufacture of metal goods for office use, except furniture	- manufacture of metal goods for office use, except furniture	1.0
+- manufacture of safes, strongboxes, armoured doors etc.	- manufacture of safes, strongboxes, armoured doors, etc.	0.9984261
+- manufacture of various metal articles:	- manufacture of various metal articles:	1.0
+* ship propellers and blades thereof	ship propellers and blades thereof	0.8480947
+* anchors	anchors	0.7090485
+* bells	bells	0.7070035
+* assembled railway track fixtures	assembled railway track fixtures	0.84719634
+* clasps, buckles, hooks	clasps, buckles, hooks	0.84850127
+- manufacture of foil bags	- manufacture of foil bags	1.0000001
+- manufacture of permanent metallic magnets	- manufacture of permanent metallic magnets	1.0
+- manufacture of metal badges and metal military insignia	- manufacture of metal badges and metal military insignia	1.0
+- manufacture of metal hair curlers, metal umbrella handles and frames, combs	- manufacture of metal hair curlers, metal umbrella handles and frames, combs	1.0
+This class excludes:	This class excludes:	0.9999999
+- manufacture of swords, bayonets, see 2593	- manufacture of swords, bayonets, see 25.61	0.74147195
+- manufacture of shopping carts, see 3099	- manufacture of shopping carts, see 30.99	0.8032602
+- manufacture of metal furniture, see 3102	- manufacture of metal furniture, see 31.00	0.8319018
+- manufacture of sports goods, see 3230	- manufacture of sports goods, see 32.30	0.8629291
+- manufacture of games and toys, see 3240	- manufacture of games and toys, see 32.40	0.87690115

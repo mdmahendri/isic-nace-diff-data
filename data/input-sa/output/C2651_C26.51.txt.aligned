@@ -1,0 +1,37 @@
+C2651 Manufacture of measuring, testing, navigating and control equipment	C26.51 Manufacture of instruments and appliances for measuring, testing and navigation	0.8512907
+This class comprises manufacture of search, detection, navigation, guidance, aeronautical, and nautical systems and instruments; automatic controls and regulators for applications, such as heating, air-conditioning, refrigeration and appliances; instruments and devices for measuring, displaying, indicating, recording, transmitting, and controlling temperature, humidity, pressure, vacuum, combustion, flow, level, viscosity, density, acidity, concentration, and rotation; totalising (i.e., registering) fluid meters and counting devices; instruments for measuring and testing the characteristics of electricity and electrical signals; instruments and instrumentation systems for laboratory analysis of the chemical or physical composition or concentration of samples of solid, fluid, gaseous, or composite material; other measuring and testing instruments and parts thereof.	This class comprises the manufacture of search, detection, navigation, guidance, aeronautical and nautical systems and instruments; automatic controls and regulators for applications (for example, heating, air conditioning, refrigeration and appliances); instruments and devices for measuring, displaying, indicating, recording, transmitting and controlling temperature, humidity, pressure, vacuum, combustion, flow, level, viscosity, density, acidity, concentration and rotation; totalising (in other words, registering) fluid meters and counting devices; instruments for measuring and testing the characteristics of electricity and electrical signals; instruments and instrumentation systems for laboratory analysis of the chemical/physical composition or concentration of samples of solid, fluid, gaseous or composite materials; other measuring and testing instruments; and parts thereof.	0.9893124
+The manufacture of non-electric measuring, testing and navigating equipment (except simple mechanical tools) is included here.	The manufacture of non-electric measuring, testing and navigating equipment (except simple mechanical tools) is included here.	1.0
+This class includes:	This class includes:	1.0
+- manufacture of aircraft engine instruments	- manufacture of aircraft engine instruments	1.0
+- manufacture of automotive emissions testing equipment	- manufacture of automotive emissions testing equipment	1.0
+- manufacture of meteorological instruments	- manufacture of meteorological instruments	0.9999999
+- manufacture of physical properties testing and inspection equipment	- manufacture of physical properties testing and inspection equipment	1.0
+- manufacture of polygraph machines	- manufacture of polygraph machines	1.0
+- manufacture of radiation detection and monitoring instruments - manufacture of surveying instruments	- manufacture of radiation detection and monitoring instruments - manufacture of surveying instruments	1.0000001
+- manufacture of thermometers liquid-in-glass and bimetal types (except medical)	- manufacture of thermometers liquid-in-glass and bi-metal types (except medical)	0.98620075
+- manufacture of humidistats	- manufacture of humidistats	0.9999999
+- manufacture of hydronic limit controls	- manufacture of hydronic limit controls	1.0
+- manufacture of flame and burner control - manufacture of spectrometers	- manufacture of flame and burner control - manufacture of spectrometers	1.0000001
+- manufacture of pneumatic gauges	- manufacture of pneumatic gauges	0.99999994
+- manufacture of consumption meters, e.g., water, gas, electricity	- manufacture of consumption meters (e.g. water, gas, electricity)	0.96784043
+- manufacture of flow meters and counting devices	- manufacture of flow meters and counting devices	1.0
+- manufacture of tally counters	- manufacture of tally counters	0.99999994
+- manufacture of mine detectors, pulse (signal) generators; metal detectors	- manufacture of mine detectors, pulse (signal) generators; metal detectors	1.0000001
+- manufacture of search, detection, navigation, aeronautical, and nautical equipment, including sonobuoys	- manufacture of search, detection, navigation, aeronautical and nautical equipment, including sonobuoys	0.9981023
+- manufacture of radar equipment	- manufacture of radar equipment	1.0
+- manufacture of GPS devices	- manufacture of global positioning system (GPS) devices	0.89832103
+- manufacture of environmental controls and automatic controls for appliances	- manufacture of environmental controls and automatic controls for appliances	1.0
+- manufacture of measuring and recording equipment, e.g. flight recorders	- manufacture of measuring and recording equipment (e.g. flight recorders)	0.9732854
+- manufacture of motion detectors	- manufacture of motion detectors	0.9999999
+- manufacture of radars	- manufacture of radars	1.0
+- manufacture of laboratory analytical instruments (e.g. blood analysis equipment)	- manufacture of laboratory analytical instruments (e.g. blood analysis equipment)	1.0
+- manufacture of laboratory scales, balances, incubators, and miscellaneous laboratory apparatus for measuring, testing, etc.	- manufacture of laboratory scales, balances, incubators and miscellaneous laboratory apparatus for measuring, testing, etc.	0.9990334
+manufacture of sensors and sensing equipment	- manufacture of sensors and sensing equipment	0.9034826
+This class excludes:	This class excludes:	1.0
+- manufacture of telephone answering machines, see 263	- manufacture of telephone answering machines, see 26.30	0.8135251
+- manufacture of irradiation equipment, see 267	- manufacture of irradiation equipment, see 26.60	0.8402196
+- manufacture of optical positioning equipment, see 268	- manufacture of optical positioning equipment, see 26.70	0.8793901
+- manufacture of dictating machines, see 2817	- manufacture of dictating machines, see 28.23	0.8066873
+- manufacture of weighing machinery (other than sensitive laboratory balances), levels, tape measures etc., see 2819	- manufacture of weighing machinery (other than sensitive laboratory balances), levels, tape measures, etc., see 28.29	0.9166795
+- manufacture of medical thermometers, see 3250	- manufacture of medical thermometers, see 32.50	0.8167157
+- installation of industrial process control equipment, see 3320	- installation of industrial process control equipment, see 33.20	0.87018

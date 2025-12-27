@@ -1,0 +1,11 @@
+H5224 Cargo handling	H52.24 Cargo handling	0.8724915
+This class includes:	This class includes:	1.0
+- loading and unloading of goods and luggage irrespective of the mode of transportation used	- loading and unloading of goods and luggage irrespective of the mode of transport used	0.9983436
+- stevedoring	- stevedoring	1.0
+- loading and unloading of freight railway cars	- loading and unloading of freight railway cars	1.0
+This class includes also	This class also includes:	0.9333698
+- provision of lifting and handling equipment with operator, such as derricks and cranes, for cargo handling	- rental and leasing of transtainers or luffing cranes, with an operator, for cargo handling activities	0.7772174
+- moving cargos on industrial sites, typically with transport equipment that is not suitable for use on roads open to public traffic	- moving cargos on industrial sites, typically with transport equipment that is not suitable for use on roads open to public traffic	0.99999994
+This class excludes:	This class excludes:	1.0
+- transportation or moving objects within an industrial plant, on a fee or contract basis, if public road is used, see 4923	- transport or moving of objects within an industrial plant, on a fee or contract basis, if a public road is used, see 49.41	0.88885534
+- operation of terminal facilities, see 5221, 5222 and 5223	- operation of terminal facilities, see 52.21, 52.22, 52.23	0.8961981

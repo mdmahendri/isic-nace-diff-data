@@ -1,0 +1,14 @@
+C1701 Manufacture of pulp, paper and paperboard	C17.12 Manufacture of paper and paperboard	0.77218723
+This class includes:	This class includes:	0.99999994
+- manufacture of paper and paperboard intended for further industrial processing	- manufacture of paper and paperboard intended for further industrial processing	1.0
+This class also includes:	This class also includes:	1.0
+- further processing of paper and paperboard:	- further processing of paper and paperboard:	1.0
+* coloring, coating, covering and impregnating of paper and paperboard	colouring, coating, covering and impregnation of paper and paperboard	0.84692574
+* manufacture of crped or crinkled paper	manufacture of crpe or crinkled paper	0.8653718
+* manufacture of laminates and foils, if laminated with paper or paperboard	manufacture of laminates and foils, if laminated with paper or paperboard	0.9036606
+- manufacture of handmade paper - manufacture of newsprint and other printing or writing paper - manufacture of cellulose wadding and webs of cellulose fibres - manufacture of carbon paper or stencil paper in rolls or large sheets	- manufacture of handmade paper - manufacture of newsprint and other printing or writing paper - manufacture of cellulose wadding and webs of cellulose fibres - manufacture of carbon paper or stencil paper in rolls or large sheets	1.0000001
+This class excludes:	This class excludes:	1.0
+- manufacture of corrugated paper and paperboard, see 1702	- manufacture of corrugated paper and paperboard, see 17.21	0.8280281
+- printing and service activities relate to printing, see 181	- printing and service activities related to printing, see 18.1	0.89969397
+- manufacture of abrasive paper, see 2399	- manufacture of abrasive paper, see 23.91	0.7779628
+- publishing of books, newspaper and other publishing activities, except software publishing, see 581	- publishing of books, newspapers and other publishing activities, except software publishing, see 58.1	0.9172282

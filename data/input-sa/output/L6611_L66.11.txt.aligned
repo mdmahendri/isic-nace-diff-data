@@ -1,0 +1,14 @@
+L6611 Administration of financial markets	L66.11 Administration of financial markets	0.9307346
+This class includes the operation and supervision of financial markets other than central banks such as:	This class includes the operation and supervision of financial markets other than by central banks and public authorities, for example:	0.94160235
+- commodity contracts exchanges	- commodity contracts exchanges	1.0
+- futures commodity contracts exchanges	- futures commodity contracts exchanges	1.0
+- securities exchanges	- securities exchanges	0.99999994
+- stock exchanges	- stock exchanges	0.9999999
+- stock or commodity options exchanges	- stock or commodity options exchanges	1.0
+- crypto assets exchange	- crypto-asset exchanges	0.97608536
+- - administration of financial markets except insurance and pension funding	- administration of financial markets, except insurance and pension funding	0.9707843
+- - financial supervisory authority of financial service activities except insurance and pending funding (not by the central bank)	- financial supervisory authorities of financial service activities, except insurance and pension funding (not by the central bank)	0.94859207
+This class excludes:	This class excludes:	1.0
+- energy exchanges for electricity, transmission or distribution capacities, see division 35	- energy exchanges for electricity, transmission or distribution capacities, see division 35	1.0
+- financial regulation relating to the conduct of business and consumer protection and other wider financial regulatory activities, see 8414	- administration of financial markets for insurance and pension funding, see 66.29	0.58424103
+- financial supervisory authority of insurance and pension funding (not by the central bank), see 6629	- financial supervisory authorities of insurance and pension funding (not by the central bank), see 66.29	0.8932344

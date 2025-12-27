@@ -1,0 +1,13 @@
+F4290 Construction of other civil engineering projects	F42.99 Construction of other civil engineering projects n.e.c.	0.79446757
+This class includes:	This class includes:	1.0
+- construction of industrial facilities, except buildings, such as:	- construction of industrial facilities, except buildings, e.g.:	0.99077284
+* mining facilities, e.g. shafts, towers and tunnels	mining facilities (e.g. shafts, towers, tunnels)	0.8778001
+* refineries	refineries	0.7539262
+* chemical plants	chemical plants	0.85082066
+* grain storage systems	grain storage systems	0.8436123
+- construction work, other than buildings, such as:	- construction of other facilities, except buildings, e.g.:	0.9161687
+* outdoor sports facilities	outdoor sports facilities	0.8387719
+- construction of playgrounds	- construction of playgrounds	1.0
+- land subdivision with land improvement (e.g. adding of roads, utility infrastructure etc.)	- construction of non-prefabricated swimming pools	0.4750354
+This class excludes:	This class excludes:	1.0
+- project management activities related to civil engineering works, see 7110	- project management activities related to civil engineering works, see 71.12	0.8701253

@@ -1,0 +1,23 @@
+L6619 Other activities auxiliary to financial service activities, except insurance and pension funding	L66.19 Other activities auxiliary to financial services, except insurance and pension funding	0.9517975
+This class includes activities auxiliary financial service activities not elsewhere classified, e.g.:	This class includes auxiliary financial service activities not elsewhere classified, for example:	0.986945
+- financial transaction processing and settlement activities, including digital (or internet based) payment provision and settlement activities for credit card transactions	- financial transaction processing and settlement activities, including digital (or internet-based) payment provision and settlement activities for credit card transactions	0.999694
+- investment advisory services including robo-advisory services	- investment advisory services, including robo-advisory services	0.99626374
+- activities of mortgage and loan advisors	- activities of mortgage and loan advisors and brokerage	0.9628898
+- activities of digital currency wallet providers	- activities of digital currency wallet providers	1.0000001
+- activities of financial advisors in relation to mergers and acquisition services	- activities of financial advisors in relation to merger and acquisition services	0.99858737
+- validation and mining for crypto assets deemed financial assets	- validation and mining for crypto-assets deemed financial assets	0.9985887
+- securities custody	- securities custody	1.0
+- tokenization of digital assets including security token offerings, initial coin offerings	- tokenisation of digital assets, including security token offerings, initial coin offerings	0.99141777
+This class also includes:	This class also includes:	0.9999999
+- activities of tax refund offices	- activities of tax refund offices	0.99999994
+- consumer credit intermediation	- consumer credit intermediation	1.0
+- activities of payment providers, e.g. electronic funds transfer services, including peer-to-peer payment services	- activities of payment providers (e.g. electronic funds transfer services), including peer-to-peer payment services	0.97099936
+- analysing financial markets as an advisory service	- analysing financial markets as an advisory service	1.0000001
+This class excludes:	This class excludes:	0.99999994
+- publishing of financial markets analysis, see class 5819	- publishing of financial markets analysis, see 58.19	0.814491
+- information search services regarding financial markets, see 6390	- information search services regarding financial markets, see 63.92	0.8165639
+- crypto assets exchange, see 6611	- crypto-assets exchanges, see 66.11	0.79944783
+- brokerage activities, see 6612	- brokerage activities, see 66.12	0.8086683
+- activities of insurance agents and brokers, see 6622	- activities of insurance agents and brokers, see 66.22	0.8907473
+- management of funds, see 6630	- management of funds, see 66.30	0.81932753
+- activities of debt collection agencies and non-performing loans servicers, see 8291	- activities of debt collection agencies and non-performing loans servicers, see 82.91	0.8639103

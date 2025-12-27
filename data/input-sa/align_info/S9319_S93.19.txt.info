@@ -1,0 +1,10 @@
+File: S9319_S93.19.txt
+File Elapsed Time: 0:00:01.293340
+Source file length: 27
+Target file length: 27
+Nodes: 841
+Gale-Church Elapsed Time: 2025-12-26 16:19:46.998862
+Align Elapsed Time: 0:05:45.577560
+Calc Anchors Elapsed Time: 2025-12-26 16:19:46.998863
+Greedy Algorithm Elapsed Time: 2025-12-26 16:19:46.998866
+Anchors: [[27, 27]]

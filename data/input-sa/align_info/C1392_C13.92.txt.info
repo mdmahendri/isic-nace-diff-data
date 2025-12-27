@@ -1,0 +1,10 @@
+File: C1392_C13.92.txt
+File Elapsed Time: 0:00:00.610803
+Source file length: 16
+Target file length: 17
+Nodes: 342
+Gale-Church Elapsed Time: 2025-12-26 16:19:46.998862
+Align Elapsed Time: 0:13:18.954901
+Calc Anchors Elapsed Time: 2025-12-26 16:19:46.998863
+Greedy Algorithm Elapsed Time: 2025-12-26 16:19:46.998866
+Anchors: [[16, 17]]

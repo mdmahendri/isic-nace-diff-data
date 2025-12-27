@@ -1,0 +1,26 @@
+C2619 Manufacture of other electronic components and boards	C26.11 Manufacture of electronic components	0.7634132
+This class includes the manufacture of semiconductors and other components for electronic applications.	This class includes the manufacture of semiconductors and other components for electronic applications.	1.0
+This class includes:	This class includes:	0.99999994
+- manufacture of capacitors, electronic - manufacture of resistors, electronic	- manufacture of capacitors, electronic - manufacture of resistors, electronic	1.0000001
+- manufacture of microprocessors	- manufacture of microprocessors	1.0000001
+- manufacture of electron tubes	- manufacture of electron tubes	1.0
+- manufacture of electronic connectors	- manufacture of bare printed circuit boards, consisting only of conductor elements and contacts	0.6029548
+- manufacture of integrated circuits (analog, digital or hybrid)	- manufacture of integrated circuits (analogue, digital or hybrid)	0.9983978
+- manufacture of diodes, transistors and related discrete devices	- manufacture of diodes, transistors and related discrete devices	1.0
+- manufacture of inductors (e.g. chokes, coils, transformers), electronic component type	- manufacture of inductors (e.g. chokes, coils, transformers), electronic component-type transformers	0.98114365
+- manufacture of electronic crystals and crystal assemblies - manufacture of solenoids, switches and transducers for electronic applications	- manufacture of electronic crystals and crystal assemblies - manufacture of solenoids, switches and transducers for electronic applications	1.0000001
+- manufacture of dice or wafers, semiconductor, finished or semi-finished - manufacture of interface cards (e.g. sound, video, controllers, network, modems)	- manufacture of dice or wafers which consist of chemical elements (e.g. silicon) that are selectively doped or diffused to create discrete regions for the purposes of their applications in the field of electronics	0.58299255
+- manufacture of display components (plasma, polymer, LCD)	- manufacture of display components (plasma, polymer, liquid crystal displays (LCDs))	0.97455394
+- manufacture of light emitting diodes (LED)	- manufacture of light-emitting diodes (LEDs)	0.99433553
+- manufacture of printer cables, monitor cables, USB cables, connectors etc.	- manufacture of photovoltaic cells, modules and panels	0.54340196
+This class excludes:	This class excludes:	0.9999999
+- printing of smart cards, see 1811	- printing of smart cards, see 18.12	0.7513056
+- manufacture of solar cells , solar panels and photovoltaic inverters, see 2611	- manufacture of printed circuits consisting of conductor elements, contacts and other passive elements, see 26.12	0.59210896
+- manufacture of computer and television displays, see 2620, 2640	- manufacture of computer and television displays, see 26.20, 26.40	0.89152944
+- manufacture of X-ray tubes and similar irradiation devices, see 2660	- manufacture of X-ray tubes and similar irradiation devices, see 26.60	0.8980758
+- manufacture of optical equipment and instruments, see 2670	- manufacture of optical equipment and instruments, see 26.70	0.8924776
+- manufacture of similar devices for electrical applications, see division 27	- manufacture of similar devices for electrical applications, see division 27	0.99999994
+- manufacture of lighting ballasts, see 2710	- manufacture of fluorescent ballasts, see 27.11	0.7801277
+- manufacture of electrical relays, see 2710	- manufacture of electrical relays, see 27.12	0.80813575
+- manufacture of electrical wiring devices, see 2733	- manufacture of electrical wiring devices, see 27.33	0.8344144
+- manufacture of complete equipment is classified elsewhere based on complete equipment classification	- manufacture of assembled electric conductors, insulated and fitted with connectors, see 27.90 - manufacture of solar water heaters, see 28.21 - installation of solar panels, see 43.21 - installation of solar heating systems, see 43.22	0.41466224

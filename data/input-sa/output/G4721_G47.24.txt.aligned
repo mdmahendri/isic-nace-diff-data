@@ -1,0 +1,6 @@
+G4721 Retail sale of food	G47.24 Retail sale of bread, cake and confectionery	0.61857116
+This class includes:	This class also includes:	0.94213516
+- retail sale of any the following types of food products without processing and not intended for immediate consumption:	- retail sale of bread and rolls baked on the premises from pre-baked products	0.63090026
+* bakery products	- retail sale by automatic machines of ready-to-eat bread prepared by the machine itself	0.40297338
+This class excludes:	This class excludes:	1.0
+- preparation of meals for immediate consumption, see division 56	- manufacture of bread, fresh pastry goods and cakes, see 10.71	0.57930523

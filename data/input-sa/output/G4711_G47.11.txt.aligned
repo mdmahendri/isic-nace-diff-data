@@ -1,0 +1,5 @@
+G4711 Non-specialized retail sale with food, beverages or tobacco predominating	G47.11 Non-specialised retail sale of predominately food, beverages or tobacco	0.9029689
+This class includes:	This class includes:	0.9999999
+- retail sale of a large variety of goods (such as wearing apparel, furniture, appliances, hardware, cosmetics etc.) among which however, food products, beverages or tobacco should be predominant	- retail sale of a large variety of goods (e.g. wearing apparel, furniture, appliances, hardware, cosmetics) among which, however, food products, beverages or tobacco should be predominant	0.9919146
+This class excludes:	This class excludes:	1.0
+- retail sale of predominately fuels in combination with food, beverages etc., see 4730	- retail sale of fuel, in combination with food, beverages, products for the maintenance of vehicles, car washing services, etc. where the sale of fuel is predominant, see 47.30	0.7814178

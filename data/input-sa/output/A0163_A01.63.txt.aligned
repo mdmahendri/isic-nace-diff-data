@@ -1,0 +1,19 @@
+A0163 Post-harvest crop activities	A01.63 Post-harvest crop activities and seed processing for propagation	0.71546286
+This class includes post-harvest crop activities on a fee or contract basis:	This class includes post-harvest crop activities on a fee or contract basis:	1.0
+- preparation of crops for primary markets, e.g. cleaning, trimming, grading, disinfecting	- preparation of crops for primary markets (e.g. cleaning, trimming, grading or disinfecting)	0.94443816
+- cotton ginning	- cotton ginning	1.0
+- preparation of tobacco leaves, e.g. sun drying	- preparation of tobacco leaves (e.g. sun drying)	0.95372784
+- preparation of cocoa beans, e.g. peeling	- preparation of cocoa beans (e.g. peeling)	0.9521725
+- waxing of fruit	- waxing of fruit	1.0
+- drying of fruit, vegetable, herbs, spices, medicinal herbs and tobacco under natural conditions	- drying of fruit, vegetables, herbs, spices, medicinal herbs and tobacco	0.9248258
+- sorting, cleaning and cutting of medicinal herbs	- sorting, cleaning and cutting of medicinal herbs	1.0
+- grain drying	- grain drying	1.0
+- retting of plants bearing vegetable textile fibers (jute, flax, coir etc.) not associated with the growing of vegetable textile fibers	- retting of plants bearing vegetable textile fibres (such as jute, flax or coir), not associated with the growing of vegetable textile fibres	0.95537496
+- artificial ripening of fruits as a service, e.g. banana ripening.	- artificial ripening of fruits as a service (e.g. banana ripening)	0.9493177
+This class excludes:	This class excludes:	0.9999999
+- preparation of agricultural products by the producer, see corresponding class in groups 011, 012 or _x000D_013	- preparation of agricultural products by the producer, see the corresponding classes in groups 01.1, 01.2, 01.3	0.80287176
+- post-harvest activities aimed at improving the propagation quality of seed, see 0164	- processing of seeds to obtain oil, see 10.41	0.5383397
+- stemming and redrying of tobacco, see 1200	- stemming and redrying of tobacco, see 12.00	0.86415136
+- marketing activities of commission merchants and cooperative associations, see division 46	- marketing activities of commission merchants and cooperative associations, see division 46	1.0
+- wholesale of agricultural raw materials, see 462	- wholesale of agricultural raw materials, see 46.2	0.8637741
+- research to develop or modify new forms of seeds, see 7210	- research to develop or modify new forms of seeds, see 72.10	0.89952034

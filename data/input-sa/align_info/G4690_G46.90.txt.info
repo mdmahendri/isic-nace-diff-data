@@ -1,0 +1,10 @@
+File: G4690_G46.90.txt
+File Elapsed Time: 0:00:00.191128
+Source file length: 5
+Target file length: 5
+Nodes: 49
+Gale-Church Elapsed Time: 2025-12-26 16:19:46.998862
+Align Elapsed Time: 0:13:03.031630
+Calc Anchors Elapsed Time: 2025-12-26 16:19:46.998863
+Greedy Algorithm Elapsed Time: 2025-12-26 16:19:46.998866
+Anchors: [[5, 5]]

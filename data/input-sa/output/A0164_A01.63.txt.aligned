@@ -1,0 +1,10 @@
+A0164 Seed processing for propagation	A01.63 Post-harvest crop activities and seed processing for propagation	0.6634933
+This class includes seed-processing activities on fee or contract basis, aimed at improving the propagation quality of seed through the removal of non-seed materials, undersized, mechanically or insect-damaged and immature seeds as well as removing the seed moisture to a safe level for seed storage.	- post-harvest activities aimed at improving the propagation quality of seed (e.g. by the removal of non-seed materials, or damaged or immature seeds, or by reducing the seed moisture to a safe level for storage)	0.65153706
+This activity includes the drying, cleaning, grading and treating of seeds until they are marketed.	This class also includes: - drying, cleaning, grading and treating of seeds until they are marketed	0.78386486
+The treatment of genetically modified seeds is included here.	- treatment of genetically modified seeds	0.62837225
+This class excludes:	This class excludes:	0.99999994
+- preparation of agricultural products by the producer, see corresponding class in groups 011, 012 or _x000D_013	- preparation of agricultural products by the producer, see the corresponding classes in groups 01.1, 01.2, 01.3	0.8028718
+- stemming and redrying of tobacco, see 1200	- stemming and redrying of tobacco, see 12.00	0.8641515
+- marketing activities of commission merchants and cooperative associations, see division 46	- marketing activities of commission merchants and cooperative associations, see division 46	1.0
+- wholesale of agricultural raw materials, see 462	- wholesale of agricultural raw materials, see 46.2	0.8637741
+- research to develop or modify new forms of seeds, see 7210	- research to develop or modify new forms of seeds, see 72.10	0.8995203

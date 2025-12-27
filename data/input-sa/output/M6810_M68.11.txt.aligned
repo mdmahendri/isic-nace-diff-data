@@ -1,0 +1,10 @@
+M6810 Real estate activities with own or leased property	M68.11 Buying and selling of own real estate	0.6541318
+This class includes:	This class includes:	1.0000001
+- renting and operating of self-owned or leased real estate, such as:	- buying and selling of self-owned real estate, e.g.:	0.855174
+* apartment buildings and dwellings	apartment buildings and dwellings	0.8576897
+* non-residential buildings, including office buildings, coworking space, exhibition halls, self-storage facilities, malls and shopping centers, data centers	non-residential buildings, including office buildings, industrial buildings, warehouses, hotels and other leisure buildings, exhibition halls, self-storage facilities, retail stores/shops, and shopping centres data centres	0.8162602
+* land, including agricultural and forestry land	land	0.42938948
+This class includes also:	This class also includes:	0.9993104
+- renting of plant and factory buildings, with or without machinery and equipment	- subdividing real estate into lots, without land improvement	0.5240252
+This class excludes:	This class excludes:	1.0000001
+- rental of machinery, see 773	- development of building projects for sale, see 68.12	0.46387392

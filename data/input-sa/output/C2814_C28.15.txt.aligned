@@ -1,0 +1,18 @@
+C2814 Manufacture of bearings, gears, gearing and driving elements	C28.15 Manufacture of bearings, gears, gearing and driving elements	0.8743578
+This class includes:	This class includes:	0.99999994
+- manufacture of ball and roller bearings and parts thereof	- manufacture of ball and roller bearings, and parts thereof	0.9941795
+- manufacture of mechanical power transmission equipment e.g.:	- manufacture of mechanical power transmission equipment, e.g.:	0.99360484
+transmission shafts including camshafts, crankshafts and cranks	transmission shafts, including camshafts, crankshafts and cranks	0.9954602
+bearing housings and plain shaft bearings	bearing housings and plain shaft bearings	1.0
+- manufacture of gears, gearing and gear boxes and other speed changers	- manufacture of gears, gearing and gearboxes, and other speed changers	0.9826197
+- manufacture of clutches and shaft couplings	- manufacture of clutches and shaft couplings	0.99999994
+- manufacture of flywheels and pulleys	- manufacture of flywheels and pulleys	1.0000001
+- manufacture of articulated link chain	- manufacture of articulated link chain	1.0
+- manufacture of power transmission chain	- manufacture of power transmission chain	1.0
+This class excludes:	This class excludes:	1.0
+- manufacture of other chain, see 2599	- manufacture of other chain, see 25.93	0.74579203
+- manufacture of hydraulic transmission equipment, see 2812	- manufacture of hydraulic transmission equipment, see 28.12	0.8750261
+- manufacture of hydrostatic transmissions, see 2812	- manufacture of hydrostatic transmission equipment, see 28.12	0.83005345
+- manufacture of clutches for motor vehicles, see 2930	- manufacture of clutches for motor vehicles, see 29.31	0.8127032
+- manufacture of gears, gear boxes and part thereof for motor vehicles, see 2930	- manufacture of gears, gearboxes and parts thereof for motor vehicles, see 29.32	0.87970555
+- manufacture of sub-assemblies of power transmission equipment which are suitable for use solely or principally with motor identifiable as parts of vehicles or aircraft, see divisions 29 and 30	- manufacture of sub-assemblies of power transmission equipment which are suitable for use solely or principally with motor vehicles or aircraft, see divisions 29, 30	0.97044826

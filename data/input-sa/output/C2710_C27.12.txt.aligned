@@ -1,0 +1,14 @@
+C2710 Manufacture of electric motors, generators, transformers and electricity distribution and control apparatus	C27.12 Manufacture of electricity distribution and control apparatus	0.7239561
+This class includes:	This class includes:	1.0
+- manufacture of power circuit breakers	- manufacture of power circuit breakers	1.0
+- manufacture of surge suppressors (for distribution level voltage)	- manufacture of surge suppressors (for distribution-level voltage)	0.99846375
+- manufacture of control panels for electric power distribution	- manufacture of control panels for electric power distribution	1.0
+- manufacture of electrical relays	- manufacture of electrical relays	1.0
+- manufacture of duct for electrical switchboard apparatus	- manufacture of duct for electrical switchboard apparatus	1.0
+- manufacture of electric fuses	- manufacture of electric fuses	1.0
+- manufacture of power switching equipment	- manufacture of power switching equipment	1.0
+- manufacture of electric power switches (except pushbutton, snap, solenoid, tumbler)	- manufacture of electric power switches (except push-button, snap, solenoid, tumbler)	0.99598914
+This class excludes:	This class excludes:	1.0
+- manufacture of environmental controls and industrial process control instruments, see 2651	- manufacture of environmental controls and industrial process control instruments, see 26.51	0.8880477
+- manufacture of turbine-generator sets, see 2811	- manufacture of motor generator sets (except turbine generator sets), see 27.11	0.73636866
+- manufacture of starting motors and generators for internal combustion engines, see 2930	- manufacture of switches for electrical circuits (e.g. push-button and snap switches), see 27.33	0.5933367

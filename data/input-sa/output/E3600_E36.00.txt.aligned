@@ -1,0 +1,17 @@
+E3600 Water collection, treatment and supply	E36.00 Water collection, treatment and supply	0.90831447
+This class includes:	This class includes:	1.0
+- abstraction of water from rivers, lakes and ground water	- abstraction of water from rivers, lakes and groundwater	0.9974977
+- treatment of water for the water supply	- treatment of water for the water supply	1.0
+- desalting of sea or ground water to produce water as the principal product of interest	- desalting of sea or groundwater to produce water as the principal product of interest	0.9986851
+- distribution of water through mains, by trucks or other means	- distribution of water through mains, by trucks or other means	1.0
+- rainwater harvesting	- rainwater collection	0.928607
+This class includes also:	This class also includes:	0.9993105
+- the operation of irrigation canals	- operation of irrigation canals	0.9964483
+- rental and leasing of water distribution networks.	- rental and leasing of water distribution networks	0.9684913
+This class excludes:	This class excludes:	1.0
+- provision of irrigation services for agricultural purposes, see 0161	- provision of irrigation services for agricultural purposes, see 01.61	0.89822006
+- production of natural mineral waters and other bottled waters, see 1105	- production of natural mineral waters and other bottled waters, see 11.07	0.8891549
+- treatment of wastewater in order to prevent pollution, see 3700	- treatment of wastewater in order to prevent pollution, see 37.00	0.8823137
+- installation of water meters, see 4322	- installation of water meters, see 43.22	0.8602078
+- transport of water via pipelines not through the mains, see 4930	- transport of water via pipelines, not through mains, see 49.50	0.88528776
+- water meter reading by third parties, see 8299	- water meter reading by third parties, see 82.99	0.83652174

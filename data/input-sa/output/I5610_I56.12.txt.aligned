@@ -1,0 +1,13 @@
+I5610 Restaurants and mobile food service activities	I56.12 Mobile food service activities	0.76996565
+This includes the preparation and serving of meals for immediate consumption from motorized vehicles or non-motorized carts.	This class includes the preparation and serving of predominantly food for immediate consumption from movable carts or portable stalls.	0.7667793
+This class includes activities of:	This class includes activities of mobile food operators, including:	0.75074834
+- cafeterias	- hot food trucks	0.66724014
+- fast-food restaurants	- food vendors	0.7772626
+- take-out eating places	- ice cream vendors	0.55491954
+- food preparation in market stalls	- food preparation in market stalls	1.0000001
+- operation of take-away restaurants in a supermarket if operated by separate units not part of the supermarket	- snack vendors	0.47885114
+This class excludes:	This class excludes:	0.99999994
+- retail sale of food through vending machines, see 472	- retail sale of food through vending machines, see 47.2	0.8674588
+- activities of food service contractors, e.g. for transportation companies, see 5629	- food delivery by independent units, see 53.20	0.5616524
+- activities of tea rooms, see 5630	- concession operation of eating facilities, see 56.22	0.5428983
+- mobile beverage vendors, see 5630	- mobile beverage serving activities, see 56.30	0.72388965

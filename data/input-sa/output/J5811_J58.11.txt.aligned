@@ -1,0 +1,15 @@
+J5811 Publishing of books	J58.11 Publishing of books	0.88593906
+This class includes:	This class includes:	0.99999994
+- publishing of books, brochures and similar publications	- publishing of books, brochures and similar publications	1.0
+- publishing of dictionaries and encyclopaedias	- publishing of dictionaries and encyclopaedias	1.0
+- publishing of atlases, maps and charts	- publishing of atlases, maps and charts	1.0
+- publishing of e-books and audio books	- publishing of e-books and audiobooks	0.9873207
+- publishing of comic books and graphic novels	- publishing of comic books and graphic novels	1.0
+All the feasible forms of publishing (in print, electronic, digital, analog, or any other form) are included.	All the feasible forms of publishing (in print, digital, analogue, or any other form) are included.	0.970749
+This class excludes:	This class excludes:	1.0
+- production of globes, see 3290	- production of globes, see 32.99	0.769904
+- publishing of advertising material, see 5819	- publishing of advertising material, see 58.19	0.827104
+- publishing of music and sheet music books, see 5920	- publishing of music and sheet music books, see 59.20	0.863295
+- jointly publishing and distributing podcasts, see 5920	- jointly publishing and distributing podcasts, see 59.20	0.8478806
+- third party on-demand audio streaming distribution services, see 6010	- audiobook streaming activities not associated with its publishing, see 60.10	0.62709415
+- activities of independent authors, see 9011	- activities of independent authors, see 90.11	0.87113625

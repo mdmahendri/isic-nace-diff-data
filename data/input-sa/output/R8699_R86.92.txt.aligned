@@ -1,0 +1,8 @@
+This class includes:	This class includes ambulance transport of patients by any mode of transport, including airplanes.	0.5267729
+This class also includes:	This class also includes:	1.0
+- ambulance transport of patients by any mode of transport including airplanes.	- specialised transport of patients, accompanied by paramedics	0.7061533
+The ambulance vehicles carry paramedics/medical doctors and are usually equipped with lifesaving equipment.	- primary care given by a paramedic or a doctor during the patients transport by ambulance	0.5394838
+This class excludes:	This class excludes:	1.0
+- transfer of patients, with neither equipment for lifesaving nor medical personnel, see divisions 49, 50, 51	- transport of patients in vehicles without paramedical practitioners and equipment for lifesaving, see divisions 49, 50	0.9127258
+- non-medical laboratory testing, see 7120	- transport of patients in airplanes without paramedical practitioners and equipment for lifesaving, see division 51	0.47724333
+- medical and dental practice activities, see 8620	- transport of blood and body organs/fluids, see 86.99	0.50648624

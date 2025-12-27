@@ -1,0 +1,10 @@
+File: A0122_A01.22.txt
+File Elapsed Time: 0:00:00.531847
+Source file length: 10
+Target file length: 12
+Nodes: 168
+Gale-Church Elapsed Time: 2025-12-26 16:19:46.998862
+Align Elapsed Time: 0:10:52.331564
+Calc Anchors Elapsed Time: 2025-12-26 16:19:46.998863
+Greedy Algorithm Elapsed Time: 2025-12-26 16:19:46.998866
+Anchors: [[10, 12]]

@@ -1,0 +1,19 @@
+R8610 Hospital activities	R86.10 Hospital activities	0.90708023
+This class includes:	This class includes:	1.0
+- short- or long-term provision of medical, diagnostic and treatment services, including physician, nursing and other health services to inpatients and the specialised accommodation services required by inpatients, by general hospitals and specialised hospitals (e.g. community and regional hospitals, hospitals of non-profit organisations, university hospitals, military-base and prison hospitals)	- short- or long-term provision of medical, diagnostic and treatment services, including physician, nursing and other health services to inpatients and the specialised accommodation services required by inpatients, as provided by general hospitals and specialised hospitals (e.g. community and regional hospitals, hospitals of non-profit organisations, university hospitals, military and prison hospitals)	0.9977648
+The activities are chiefly directed to inpatients, are carried out under the direct supervision of medical doctors and include:	The activities are chiefly directed to inpatients, are carried out under the direct supervision of medical doctors and include:	1.0
+activities of medical and paramedical staff	- activities of medical and paramedical staff	0.89150953
+activities of laboratory and technical facilities, including radiologic and anaesthesiologic activities	- activities of laboratory and technical facilities, including radiologic and anaesthesiologic activities	0.92152184
+emergency room activities	- emergency room activities	0.8453665
+provision of operating room services, pharmacy services, food and other hospital services	- provision of operating room services, pharmacy services, food and other hospital services	0.925967
+activities of family planning centres providing medical treatment, e.g. sterilisation and termination of pregnancy, with accommodation	- activities of family planning centres providing medical treatment (e.g. sterilisation, termination of pregnancy), with accommodation	0.88930583
+This class also includes:	This class also includes:	0.99999994
+- activities of mental health or psychiatric hospitals, providing diagnostic and medical treatment	- activities of mental health or psychiatric hospitals, providing diagnostic and medical treatment	0.9999999
+This class excludes:	This class excludes:	0.9999999
+- laboratory testing and inspection of all types of materials and products, except medical laboratory testing, see 7120	- laboratory testing and inspection of all types of materials and products, except medical laboratory testing, see 71.20	0.9004785
+- veterinary activities, see 7500	- veterinary activities, see 75.00	0.82995594
+- health activities for military personnel in the field, see 8422	- health activities for military personnel in the field, see 84.22	0.87072015
+- private consultants' services to inpatients, see 862	- private consultants services to inpatients, see 86.2	0.87515926
+- dental practice activities of a general or specialised nature, e.g. dentistry, endodontic and paediatric dentistry; oral pathology, orthodontic activities, see 8620	- dental practice activities of a general or specialised nature (e.g. dentistry, endodontic and paediatric dentistry); oral pathology, orthodontic activities, see 86.23	0.92667574
+- diagnostic imaging services and medical laboratory activities, not part of hospital activities see 8699	- diagnostic imaging services and medical laboratory activities, not part of hospital activities, see 86.91	0.8769527
+- patient transportation by ambulance, see 8699	- patient transport by ambulance, see 86.92	0.79126227

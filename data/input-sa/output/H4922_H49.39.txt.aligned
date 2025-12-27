@@ -1,0 +1,7 @@
+H4922 Other passenger land transport	H49.39 Other passenger land transport n.e.c.	0.7329222
+This class includes:	This class includes:	0.99999994
+- taxi operation	- bicycle taxi services	0.795244
+- passenger transport by man- or animal-drawn vehicles	- passenger road transport by vehicles drawn by humans or animals	0.9620692
+This class excludes:	This class excludes:	1.0
+- ambulance transport, see 8699	- patient transport by ambulance, see 86.92	0.70160544
+- operation of cableways, ski lifts and chairlifts as part of the operation of ski hills, see 9329	- transport of human remains, see 96.30	0.44636756

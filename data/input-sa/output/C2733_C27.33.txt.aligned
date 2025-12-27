@@ -1,0 +1,14 @@
+C2733 Manufacture of wiring devices	C27.33 Manufacture of wiring devices	0.8800945
+This class includes the manufacture of current-carrying and noncurrent-carrying wiring devices for electrical circuits regardless of material.	This class includes the manufacture of current-carrying and non-current-carrying wiring devices for electrical circuits regardless of material.	0.9962724
+This class includes: - manufacture of bus bars, electrical conductors (except switchgear-type)	This class includes: - manufacture of bus bars, electrical conductors (except switchgear-type)	1.0000001
+- manufacture of GFCI (ground fault circuit interrupters)	- manufacture of ground fault circuit interrupters (GFCIs)	0.9843116
+- manufacture of lamp holders	- manufacture of lamp-holders	0.99625313
+- manufacture of lightning arrestors and coils	- manufacture of lightning arrestors and coils	1.0
+- manufacture of switches for electrical wiring (e.g. pressure, pushbutton, snap, tumbler switches)	- manufacture of switches for electrical wiring (e.g. pressure, push-button, snap, tumbler switches)	0.9970467
+- manufacture of electrical plugs, connectors or sockets	- manufacture of electrical plugs or sockets	0.910329
+- manufacture of boxes for electrical wiring (e.g. junction, outlet, switch boxes)	- manufacture of boxes for electrical wiring (e.g. junction, outlet, switch boxes)	1.0
+- manufacture of electrical conduit and fitting	- manufacture of electrical conduit and fitting	1.0
+- manufacture of transmission pole and line hardware	- manufacture of transmission pole and line hardware	0.9999999
+- manufacture of plastic noncurrent carrying wiring devices including plastic junction boxes, face plates and similar, plastic pole line fittings and switch covers	- manufacture of plastic non-current-carrying wiring devices, including plastic junction boxes, faceplates and similar, plastic pole line fittings and switch covers	0.9919529
+This class excludes:	This class excludes:	1.0000001
+- manufacture of ceramic insulators, see 2393	- manufacture of ceramic insulators, see 23.43	0.8638668

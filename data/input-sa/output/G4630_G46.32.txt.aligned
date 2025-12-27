@@ -1,0 +1,14 @@
+G4630 Wholesale of food, beverages and tobacco	G46.32 Wholesale of meat, meat products, fish and fish products	0.5871308
+This class includes:	This class includes:	1.0
+- wholesale of fruit and vegetables - wholesale of dairy products	- wholesale of meat and meat products	0.8170928
+- wholesale of eggs and egg products	- wholesale of poultry and game	0.81029606
+- wholesale of meat and meat products	- wholesale of fish and fish products	0.9052115
+- wholesale of fishery products	- wholesale of seafood	0.9224462
+This class also includes:	This class also includes:	1.0
+- wholesale of feed for pet animals	- wholesale of tripe, delicatessen (charcuterie), salted meat	0.65438294
+- wholesale of ready-made meals	- wholesale of snails	0.6994581
+- wholesale of homogenised food preparations and dietetic food	- wholesale of algae and seaweed	0.6212772
+This class excludes:	This class excludes:	0.99999994
+- blending of wine or distilled spirits, see 1101, 1102 wholesale of livestock feeds, see 4620	- wholesale of livestock feed, see 46.21	0.5818485
+- wholesale of e-liquids for electronic cigarettes, see 4679	- wholesale of ready-made meals, see 46.38	0.5719696
+- activities of wholesalers who do not assume ownership of the goods they trade, see 461	- wholesale of food for pets, see 46.38	0.51727486

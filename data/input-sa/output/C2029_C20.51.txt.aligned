@@ -1,0 +1,10 @@
+C2029 Manufacture of other chemical products n.e.c.	C20.51 Manufacture of liquid biofuels	0.6647352
+This class includes:	This class includes:	1.0
+- manufacture of resinoids	- manufacture of biodiesel	0.82859236
+- manufacture of aromatic distilled waters	- manufacture of ethanol from biomass	0.6545485
+- manufacture of mixtures of odoriferous products for the manufacture of perfumes or food	- manufacture of mixtures of bioethanol and ethers partially derived from biomass	0.658877
+- Manufacture of biofuels	- manufacture of liquid biofuels even if processes use waste as an input	0.67119414
+This class excludes:	This class excludes:	0.99999994
+- manufacture of chemically defined products in bulk, see 2011	- manufacture of solid fuels from vegetable biomass, see 16.26	0.57248664
+- manufacture of distilled water, see 2011 - manufacture of synthetic aromatic products, see 2011	- manufacture of ethyl alcohol other than for bioethanol biofuels, see 20.14	0.6368121
+- manufacture of asphalt-based adhesives, see 2399	- manufacture of explosives, see 20.59	0.65266204

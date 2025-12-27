@@ -1,0 +1,27 @@
+C2011 Manufacture of basic chemicals	C20.14 Manufacture of other organic basic chemicals	0.73102117
+This class includes the manufacture of chemicals using basic processes, such as thermal cracking and distillation.	This class includes the manufacture of chemicals using basic processes (for example, thermal cracking, distillation).	0.85597074
+The output of these processes are usually separate chemical elements or separate chemically defined compounds.	The output of these processes is usually separate chemically defined organic compounds.	0.89128673
+This class includes:	This class includes:	0.99999994
+- manufacture of basic organic chemicals:	- manufacture of basic organic chemicals:	0.99999994
+* acyclic hydrocarbons, saturated and unsaturated	acyclic hydrocarbons, saturated and unsaturated	0.88334537
+* cyclic hydrocarbons, saturated and unsaturated	cyclic hydrocarbons, saturated and unsaturated	0.8733524
+* acyclic and cyclic alcohols	acyclic and cyclic alcohols	0.8576263
+* mono- and polycarboxylic acids, including acetic acid	mono- and polycarboxylic acids, including acetic acid	0.9238675
+* other oxygen-function compounds, including aldehydes, ketones, quinones and dual or poly oxygen-function compounds	other oxygen-function compounds, including aldehydes, ketones, quinones and dual or poly oxygen-function compounds	0.9477484
+* synthetic glycerol	synthetic glycerol	0.8766941
+* nitrogen-function organic compounds, including amines	nitrogen-function organic compounds, including amines	0.920693
+* fermentation of sugarcane, corn or similar to produce alcohol and esters	fermentation of sugar cane, corn or similar to produce alcohol and esters	0.8368379
+* other organic compounds, including wood distillation products (e.g. charcoal) etc.	other organic compounds, including wood distillation products (e.g. charcoal), etc.	0.933391
+- manufacture of synthetic aromatic products	- manufacture of synthetic aromatic products	1.0
+- manufacture of methane, not for the provision as a gaseous fuel through a permanent supply network	- manufacture of methane, not for the provision as a gaseous fuel through a permanent supply network	1.0000001
+- manufacture of ethyl alcohol, other than for bioethanol fuel	- manufacture of ethyl alcohol, other than for bioethanol fuel	0.99999994
+- manufacture of lithium hydroxide	- manufacture of refrigerant gases	0.6563302
+This class excludes:	This class excludes:	0.9999999
+- extraction of natural gas, consisting predominately of methane, see 0620	- extraction of natural gas, consisting predominantly of methane, see 06.20	0.89656246
+- manufacture of plastics in primary forms, see 2013	- manufacture of plastics in primary forms, see 20.16	0.7815627
+- manufacture of synthetic rubber in primary forms, see 2013	- manufacture of synthetic rubber in primary forms, see 20.17	0.80170333
+- manufacture of crude glycerol, see 2023	- manufacture of crude glycerol, see 20.41	0.77845013
+- manufacture of liquid biofuels, e.g. bioethanol fuel, see 2029	- manufacture of liquid biofuels (e.g. bioethanol fuel), see 20.51	0.87392044
+- manufacture of ethanol from biomass, see 2029	- manufacture of natural essential oils, see 20.59	0.6381071
+- manufacture of salicylic and O-acetylsalicylic acids, see 2100	- manufacture of salicylic and O-acetylsalicylic acids, see 21.10	0.90093505
+- production of methane for the provision as a gaseous fuel through a permanent supply network, see 3520	- production of methane for the provision as a gaseous fuel through a permanent supply network, see 35.21	0.84635365

@@ -1,0 +1,10 @@
+File: F4330_F43.33.txt
+File Elapsed Time: 0:00:00.685888
+Source file length: 26
+Target file length: 12
+Nodes: 392
+Gale-Church Elapsed Time: 2025-12-26 16:19:46.998862
+Align Elapsed Time: 0:10:41.280022
+Calc Anchors Elapsed Time: 2025-12-26 16:19:46.998863
+Greedy Algorithm Elapsed Time: 2025-12-26 16:19:46.998866
+Anchors: [[26, 12]]

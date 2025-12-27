@@ -1,0 +1,24 @@
+O8299 Other business support service activities n.e.c.	O82.99 Other business support service activities n.e.c.	0.9185421
+This class includes: - fundraising organisation services on a contract or fee basis - court reporting or stenotype recording services	This class includes: - fundraising organisation services on a contract or fee basis - court reporting or stenotype recording services	1.0000001
+- public stenography services	- public stenography services	1.0
+- real-time (i.e. simultaneous) closed captioning of meetings, conferences	- real-time (i.e. simultaneous) closed captioning of meetings, conferences	1.0
+- bar coding services - bar code imprinting services	- barcoding services - barcode imprinting services	0.9443092
+- bar code imprinting services	- barcode imprinting services	0.95859
+- parking meter coin collection services	- parking meter coin collection services	1.0
+- activities of handling visa and work permit	- activities of handling visa and work permits	0.9947914
+- restaurant voucher handling service activities	- restaurant voucher handling service activities	1.0
+- providing assistance in motor vehicle registration	- providing assistance in motor vehicle registration	0.9999999
+- relocation service activities	- relocation service activities	0.99999994
+- leisure activities gift package administration	- administration of gift packages for leisure activities	0.9253476
+- voucher issuing and handling activities	- voucher issuing and handling activities	1.0
+- donation-based crowd funding	- charity crowdfunding activities	0.739149
+- company domiciliation services	- company domiciliation services	1.0
+- reading of consumption of heat and hot water including cost allocation	- reading of consumption of heat and hot water, including cost allocation	0.99347055
+- administration of loyalty programmes	- administration of loyalty programmes	1.0
+- selling of travel boxes: form of distribution of a service linked to travel, but a deferred service, which can be of any nature: hotels, restaurants, care, leisure activities, etc.)	- selling of deferred travel services: form of distribution of a service linked to travel, which can be of any nature (hotels, restaurants, personal care, leisure activities, etc.)	0.9445876
+This class excludes:	This class excludes:	0.9999999
+- providing film or tape captioning or subtitling services, see 5912	- providing film or tape captioning or subtitling services, see 59.12	0.90429956
+- trading and brokerage of crypto assets with a corresponding liability, see 6612	- activities of shared service centres (SSC) with strategic and managerial activities/centralised activities, see 70.10	0.52563405
+- activities of shared service centres (SSC) with two or more combined activities (set of administrative services) providing operational tasks for the whole enterprise or group, e.g. reception, financial planning, billing and record keeping, personnel and mail services for the same enterprise group, see 8210	- activities of shared service centres (SSC) with two or more combined activities (set of administrative services) providing operational tasks for the whole enterprise or group (e.g. reception, financial planning, billing and record-keeping, personnel, postal and mailing services for the same enterprise group), see 82.10	0.9651462
+- provision of document transcription services, see 8210	- provision of document transcription services, see 82.10	0.8981162
+- intermediation service activities for business support service activities n.e.c., see 8240	- intermediation service activities for business support service activities n.e.c., see 82.40	0.8963913

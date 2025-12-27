@@ -1,0 +1,22 @@
+C2740 Manufacture of lighting equipment	C27.40 Manufacture of lighting equipment	0.90750194
+This class includes the manufacture of electric light bulbs and tubes and parts and components thereof (except glass blanks for electric light bulbs), electric lighting and other fixtures and lighting fixture components (except current-carrying wiring devices).	This class includes the manufacture of electric light bulbs and tubes, and parts and components thereof (except glass blanks for electric light bulbs), electric lighting and other fixtures, and lighting fixture components (except current-carrying wiring devices).	0.99817896
+This class includes:	This class includes:	0.99999994
+- manufacture of lamps, fixtures and bulbs, e.g. discharge, incandescent, fluorescent, ultra-violet, infra-red, LED	- manufacture of lamps, fixtures and bulbs (e.g. discharge, incandescent, fluorescent, ultraviolet, infra-red, light-emitting diode (LED))	0.9581766
+- manufacture of ceiling or wall lighting fixtures, e.g. chandeliers	- manufacture of ceiling or wall lighting fixtures (e.g. chandeliers)	0.9747771
+- manufacture of table or floor-standing lamps (i.e. lighting fixture)	- manufacture of table or floor-standing lamps (i.e. lighting fixtures)	0.99769264
+- manufacture of chain lights	- manufacture of light chains	0.95284426
+- manufacture of electric fireplace logs	- manufacture of electric fireplace logs	1.0
+- manufacture of flashlights	- manufacture of flashlights	1.0
+- manufacture of electric insect lamps	- manufacture of electric insect lamps	1.0
+- manufacture of lanterns (e.g. carbide, electric, gas, gasoline, kerosene)	- manufacture of lanterns (e.g. carbide, electric, gas, gasoline, kerosene)	1.0
+- manufacture of spotlights	- manufacture of spotlights	0.99999994
+- manufacture of street lighting fixtures (except traffic signals)	- manufacture of street lighting fixtures (except traffic signals)	1.0
+- manufacture of lighting equipment for transportation equipment (e.g. for motor vehicles, aircraft, boats)	- manufacture of lighting equipment for transport equipment (e.g. for motor vehicles, aircraft, boats)	0.9997083
+- manufacture of solar lighting equipment	- manufacture of solar lighting equipment	1.0000001
+This class excludes:	This class excludes:	0.99999994
+- manufacture of glassware and glass parts for lighting fixtures, see 2310	- manufacture of glassware and glass parts for lighting fixtures, see 23.15	0.8613318
+- manufacture of light emitting diode, see 2619	- manufacture of light-emitting diodes (LEDs), see 26.11	0.7727742
+- manufacture of current-carrying and non-current-carrying wiring devices for lighting fixtures, see 2733	- manufacture of current-carrying and non-current-carrying wiring devices for lighting fixtures, see 27.33	0.8890328
+- manufacture of ceiling fans or bath fans with integrated lighting fixtures, see 2750	- manufacture of ceiling fans or bath fans with integrated lighting fixtures, see 27.51	0.850296
+- manufacture of electrical signalling equipment, e.g. traffic lights and pedestrian signalling equipment, see 2790	- manufacture of electrical signalling equipment (e.g. traffic lights and pedestrian signalling equipment), see 27.90	0.88717747
+- manufacture of electrical signs, see 2790	- manufacture of electrical signs, see 27.90	0.8210193

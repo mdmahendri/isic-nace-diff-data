@@ -1,0 +1,16 @@
+H5223 Service activities incidental to air transportation	H52.23 Service activities incidental to air transportation	0.92447394
+This class includes:	This class includes:	1.0000001
+- activities related to air transport of passengers, animals or freight:	- activities related to the air transport of passengers, animals or freight:	0.99969834
+operation of terminal facilities such as airway terminals etc.	operation of terminal facilities (e.g. airway terminals)	0.8920654
+airport and air-traffic-control activities	airport and air traffic control activities	0.99306566
+ground service activities on airfields etc.	ground service activities on airfields, etc.	0.9955448
+- airfield infrastructure maintenance work	- ensuring safety at airfield infrastructure maintenance work	0.85949695
+- storage of aircrafts	- storage of aircraft	0.9969375
+This class also includes:	This class also includes:	1.0
+- fire fighting and fire prevention services at airports	- firefighting and fire-prevention services at airports	0.9950954
+This class excludes:	This class excludes:	1.0000001
+- cargo handling, see 5224	- cargo handling, see 52.24	0.81063426
+- luggage and passenger inspection at airports, not by public authorities, see 8011	- luggage and passenger inspection at airports, not by public authorities, see 80.01	0.8882837
+- luggage and passenger inspection at airports, by public authorities, see 8423	- luggage and passenger inspection at airports, by public authorities, see 84.24	0.88652146
+- operation of flying schools for professional pilots, see 8532	- operation of flying schools for professional pilots, see 85.32	0.8559766
+- operation of flying schools not issuing professional certificates and permits, see 8553	- operation of flying schools not issuing certificates and permits for professionals, see 85.53	0.893113

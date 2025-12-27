@@ -1,0 +1,28 @@
+L6499 Other financial service activities n.e.c., except insurance and pension funding activities	L64.99 Other financial service activities, except insurance and pension funding n.e.c.	0.9207713
+This class includes:	This class includes:	1.0
+- other financial service activities primarily concerned with distributing funds other than by granting loans:	- other financial service activities primarily concerned with distributing funds other than by granting loans:	1.0
+writing of swaps, options and other hedging arrangements	writing of swaps, options and other hedging arrangements	1.0000001
+activities of viatical settlement companies	activities of viatical settlement companies	1.0
+- own-account investment and trading activities, by e.g. venture capital companies or investment clubs	- own account investment and trading activities (e.g. by venture capital companies, investment clubs)	0.9399264
+- acting as a counterparty for clearing and settlement of transactions	- acting as a counterparty for the clearing and settlement of transactions	0.99894243
+This class also includes:	This class also includes:	0.9999999
+- dealing in financial markets on own-account	- dealing in financial markets on own account	0.9936699
+- trade of receivables on own account	- trade of receivables on own account	1.0
+- security and derivate dealers (operating on own account)	- security and derivate dealers (operating on own account)	1.0
+- activities of financial vehicle corporations other than securisation	- activities of financial vehicle corporations other than securitisation	0.9873345
+- securitisation transactions of assets other than loans by issuing financial instruments	- securitisation transactions of assets other than loans by issuing financial instruments	0.99999994
+- trade of swaps or options on own account	- trade of swaps or options on own account	1.0
+- trade of commodity contracts on own account	- trade of commodity contracts on own account	1.0
+- issuing of crypto assets with a corresponding liability (not by a monetary authority) - trading of crypto assets with a corresponding liability on own account	- issuing of crypto-assets with a corresponding liability (not by a monetary authority) - trading of crypto-assets with a corresponding liability on own account	0.99885964
+This class excludes:	This class excludes:	0.9999999
+- issuing of crypto assets without a corresponding liability (not by a monetary authority), see 6310	- issuing of crypto-assets without a corresponding liability (not by a monetary authority), see 63.10	0.9293145
+- financial leasing, see 6491	- financial leasing, see 64.91	0.80396587
+- securitisation, see 6494	- loan securitisation, see 64.92	0.6992215
+- security and commodity contracts dealing on behalf of others (brokerage), see 6612	- security and commodity contracts dealing on behalf of others (brokerage), see 66.12	0.9119637
+- activities of bureaux de change, see 6612	- exchange of currency on a fee basis (e.g. bureaux de change), see 66.12	0.5982088
+- brokerage of crypto assets, see 6612	- brokerage of crypto-assets with liabilities that qualify as securities, see 66.12	0.6771893
+- mortgage brokerage, see 6619	- mortgage brokerage, see 66.19	0.7833465
+- investment funds management, see 6630	- management of investment funds, see 66.30	0.8321285
+- trade, leasing and rental of real estate property, see division 68	- trade, leasing and rental of real estate property, see division 68	0.9999999
+- bill collection without debt buying up, see 8291	- bill collection without debt buying up, see 82.91	0.7973652
+- grant giving activities by membership organisations, see 9499	- grant-giving activities by membership organisations, see 94.99	0.8930229

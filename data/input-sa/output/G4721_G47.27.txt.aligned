@@ -1,0 +1,8 @@
+G4721 Retail sale of food	G47.27 Retail sale of other food	0.8101158
+This class includes:	This class includes:	1.0
+* dairy products and eggs * meat and meat products (including poultry)	- retail sale of dairy products, including milk and cheese preparations, and eggs	0.69200075
+* fish, other seafood and products thereof	- retail sale of other food products n.e.c.	0.57518816
+* bakery products	- retail sale of ready-made meals, except for immediate consumption on the spot	0.4226722
+* other food products	- retail sale of food supplements for human consumption (e.g. dietary supplements, diet products)	0.57592815
+This class excludes:	This class excludes:	1.0
+- preparation of meals for immediate consumption, see division 56	- retail sale of ready-made meals for immediate consumption on the spot, see 56.1	0.7550111

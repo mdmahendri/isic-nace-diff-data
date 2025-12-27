@@ -1,0 +1,21 @@
+N7310 Advertising activities	N73.11 Activities of advertising agencies	0.7597329
+This class includes:	This class includes:	0.99999994
+- creation and realization of advertising campaigns:	- creation and realisation of advertising campaigns:	0.9986497
+creating and placing advertising in newspapers and periodicals, on radio and television, over the Internet and in/or other media	creating and placing advertising, planning social media marketing campaigns in newspapers, periodicals, radio, television, over the internet and other media	0.8968979
+creating and placing of outdoor advertising, e.g. billboards, panels, bulletins and frames, window dressing, showroom design, car and bus carding etc.	creating and placing of outdoor advertising (e.g. billboards, panels, bulletins and frames, window dressing, showroom design, car and bus carding)	0.9299607
+aerial advertising	aerial advertising	1.0
+distribution or delivery of advertising material or samples	distribution or delivery of advertising material or samples	1.0
+creation of stands and other display structures and sites	design of stands and other display structures and sites	0.95684034
+- conducting marketing campaigns and other advertising services aimed at attracting and retaining customers:	- conducting marketing campaigns and other advertising services	0.8281757
+promotion of products	promotion of products	1.0000001
+point-of-sale marketing	point-of-sale marketing	1.0
+direct mail advertising	direct mail advertising	1.0
+marketing consulting	marketing consulting	1.0
+This class excludes:	This class excludes:	0.9999999
+- publishing of advertising material, see 5819	- publishing of advertising material, see 58.19	0.8271041
+- production of commercial messages for radio, television and film, see 5911	- production of commercial messages for television and film, see 59.11	0.8831618
+- public-relations activities, see 7020	- production of commercial messages for radio, see 59.20	0.5368758
+- market research, see 7320	- market research and public opinion polling, see 73.20	0.70455736
+- advertising photography, see 7420	- advertising photography, see 74.20	0.78210497
+- convention and trade show organizers, see 8230	- convention and trade show organisers, see 82.30	0.8222197
+- advertising services used to fund predominant activity of the business which may be provided free of charge, see predominant activity	- advertising services used to fund predominant activities of the business which may be provided free of charge, see predominant activity	0.9962837

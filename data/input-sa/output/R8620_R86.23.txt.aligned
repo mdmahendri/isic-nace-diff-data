@@ -1,0 +1,10 @@
+R8620 Medical and dental practice activities	R86.23 Dental practice care activities	0.76869047
+This class includes:	This class includes:	1.0
+- dental practice activities of a general or specialized nature, e.g. dentistry, endodontic and pediatric dentistry; oral pathology	- dental practice activities of a general or specialised nature (e.g. dentistry, endodontic and paediatric dentistry); oral pathology	0.9763777
+- orthodontic activities	- orthodontic activities	1.0
+This class also includes:	This class also includes:	1.0
+- dental activities in operating rooms	- dental activities in operating rooms	1.0
+This class excludes:	This class excludes:	1.0000001
+- production of artificial teeth, denture and prosthetic appliances by dental laboratories, see 3250	- production of artificial teeth, denture and prosthetic appliances by dental laboratories, see 32.50	0.86752915
+- inpatient hospital activities, see 8610	- inpatient hospital activities, see 86.10	0.8533001
+- paramedical activities such as those of midwives, nurses and physiotherapists, see 8699	- activities of dental paramedical personnel (e.g. dental hygienists, dental therapists), see 86.99	0.7495276

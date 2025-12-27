@@ -1,0 +1,18 @@
+P8422 Defence activities	P84.22 Defence activities	0.90356445
+This class includes:	This class includes:	0.99999994
+- administration, supervision and operation of military defence affairs and land, sea, air and space defence forces such as:	- administration, supervision and operation of military defence affairs and land, sea, air and space defence forces, e.g.:	0.9906511
+combat forces of army, navy and air force	combat forces of army, navy and air force	0.99999994
+engineering, transport, communications, intelligence, materiel, personnel and other non-combat forces and commands	engineering, transport, communication, intelligence, materiel, personnel and other non-combat forces and commands	0.9993888
+reserve and auxiliary forces of the defence establishment	reserve and auxiliary defence forces	0.91914415
+military logistics (provision of equipment, structures, supplies etc.)	military logistics (provision of equipment, structures, supplies, etc.)	0.99895144
+health activities for military personnel in the field	health activities for military personnel in the field	1.0
+- administration, operation and support of civil defence forces	- administration, operation and support of civil defence forces	1.0
+- support for the working out of contingency plans and the carrying out of exercises in which civilian institutions and populations are involved	- support for the elaboration of contingency plans and the carrying out of exercises in which civilian institutions and populations are involved	0.9959835
+- administration of defence-related research and development policies and related funds	- administration of defence-related research and development policies and related funds	1.0
+This class excludes:	This class excludes:	1.0
+- research and experimental development activities, see division 72	- research and experimental development activities, see division 72	0.99999994
+- provision of military aid to foreign countries, see 8421	- provision of military aid to foreign countries, see 84.21	0.8771208
+- activities of military tribunals, see 8423	- activities of military tribunals, see 84.23	0.8546028
+- provision of supplies for domestic emergency use in case of peacetime disasters, see 8423	- provision of supplies for domestic emergency use in case of peacetime disasters, see 84.24	0.86907285
+- educational activities of military schools, colleges and academies, see 854	- educational activities of military schools, colleges and academies, see 85.40	0.9048761
+- activities of military hospitals, see 8610	- activities of military hospitals, see 86.10	0.8692707

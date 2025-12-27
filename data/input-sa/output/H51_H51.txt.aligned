@@ -1,0 +1,10 @@
+H51 Air transport	H51 Air transport	1.0
+This division includes transportation of passengers or freight by air or via space	This division includes the transport of passengers or freight by air or via space.	0.956242
+This division excludes:	This division excludes:	0.99999994
+- crop spraying, see 0161	- crop spraying, see 01.61	0.8231995
+- repair and maintenance of aircraft or aircraft engines, see 3315	- repair and maintenance of civilian aircraft or aircraft engines, see 33.16	0.817382
+- operation of airports, see 5223	- operation of airports, see 52.23	0.85666203
+- aerial advertising (sky-writing), see 7310	- aerial advertising (skywriting), see 73.11	0.77704114
+- aerial photography, see 7420	- aerial photography, see 74.20	0.7596332
+- civil aerial surveillance, see 8019	- civil aerial surveillance, see 80.09	0.8499056
+- military aerial surveillance, see 8422	- military aerial surveillance, see 84.22	0.8417802

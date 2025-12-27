@@ -1,0 +1,17 @@
+I5610 Restaurants and mobile food service activities	I56.11 Restaurant activities	0.69287324
+This class includes the provision of food services to customers, whether they are served while seated or serve themselves from a display of items, whether they eat the prepared meals on the premises, take them out or have them delivered. This includes the preparation and serving of meals for immediate consumption from motorized vehicles or non-motorized carts.	This class includes the provision of predominantly food services to customers (for example, in traditional restaurants, self-service or takeaway restaurants), with or without seating, in permanent or temporary facilities.	0.6983535
+This class includes activities of:	This class includes activities of:	1.0
+- restaurants	- restaurants	1.0
+- cafeterias	- cafeterias	1.0
+- fast-food restaurants	- fast-food restaurants	1.0
+- take-out eating places	- take-out eating places	1.0
+This class includes also:	This class also includes:	0.99931043
+- operation of restaurants on transportation equipment and within transportation facilities, if the restaurants are considered as separate units and not part of the transportation provider	- operation of restaurants on transport equipment and within transport facilities, if operated by separate units not part of the transport provider	0.9605928
+- Operation of restaurants from within a hotel, if these restaurants are considered as separate unites and not part of the hotel	- operation of restaurants in a hotel, if operated by separate units not part of the hotel	0.9349519
+- operation of take-away restaurants in a supermarket if operated by separate units not part of the supermarket	- operation of takeaway restaurants in a supermarket, if operated by separate units not part of the supermarket	0.99091524
+This class excludes:	This class excludes:	1.0
+- concession operation of eating facilities, see 5629	- mobile food service activities, see 56.12	0.7398162
+- catering activities, see 5621	- event catering activities, see 56.21	0.7604613
+- restaurant reservation services, if provided by an intermediary and not by the restaurant, see 5640	- concession operation of eating facilities, see 56.22	0.557825
+- activities of food service contractors, e.g. for transportation companies, see 5629	- activities of food service contractors (e.g. for transport companies), see 56.22	0.87241465
+- activities of tea rooms, see 5630	- activities of tea rooms, see 56.30	0.80200535

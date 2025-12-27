@@ -1,0 +1,10 @@
+File: C3250_C32.50.txt
+File Elapsed Time: 0:00:01.769010
+Source file length: 37
+Target file length: 34
+Nodes: 1404
+Gale-Church Elapsed Time: 2025-12-26 16:19:46.998862
+Align Elapsed Time: 0:03:36.858944
+Calc Anchors Elapsed Time: 2025-12-26 16:19:46.998863
+Greedy Algorithm Elapsed Time: 2025-12-26 16:19:46.998866
+Anchors: [[37, 34]]

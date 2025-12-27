@@ -1,0 +1,10 @@
+File: A0115_A01.15.txt
+File Elapsed Time: 0:00:00.239555
+Source file length: 5
+Target file length: 8
+Nodes: 70
+Gale-Church Elapsed Time: 2025-12-26 16:19:46.998862
+Align Elapsed Time: 0:12:27.408838
+Calc Anchors Elapsed Time: 2025-12-26 16:19:46.998863
+Greedy Algorithm Elapsed Time: 2025-12-26 16:19:46.998866
+Anchors: [[5, 8]]

@@ -1,0 +1,16 @@
+C1079 Manufacture of other food products n.e.c.	C10.89 Manufacture of other food products n.e.c.	0.85796034
+This class includes:	This class includes the manufacture of food products edible within a maximum of three days after production:	0.51058495
+- manufacture of soups and broths	- manufacture of soups and broths	1.0
+- manufacture of perishable prepared foods, such as:	- manufacture of perishable prepared foods, e.g.:	0.9886415
+* sandwiches	sandwiches	0.7548003
+* fresh (uncooked) pizza.	fresh (uncooked) pizza	0.82720464
+This class also includes:	This class also includes:	0.9999999
+- manufacture of yeast	- manufacture of yeast	0.99999994
+- manufacture of extracts and juices of meat, fish, crustaceans or molluscs	- manufacture of extracts and juices of meat, fish, crustaceans or molluscs	0.9999999
+- manufacture of egg products, egg albumin	- manufacture of egg products (e.g. egg albumin)	0.8995911
+- manufacture of artificial concentrates.	- manufacture of artificial concentrates	0.9555739
+This class excludes:	This class excludes:	0.9999999
+- manufacture of perishable prepared foods of fruit and vegetables (e.g. salads, peeled vegetables, bean curd), see 1030	- manufacture of perishable prepared foods of fruits and vegetables, see 10.39	0.78885674
+- manufacture of frozen pizza, see 1075	- manufacture of frozen pizza, see 10.85	0.8398742
+- manufacture of spirits, beer, wine and soft drinks, see division 11	- manufacture of spirits, beer, wine and soft drinks, see division 11	1.0
+- preparation of botanical products for pharmaceutical use, see 2100	- manufacture of vitamins, see 21.10	0.6738547

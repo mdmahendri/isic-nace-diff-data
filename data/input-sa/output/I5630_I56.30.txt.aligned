@@ -1,0 +1,19 @@
+I5630 Beverage serving activities	I56.30 Beverage serving activities	0.88672227
+This class predominantly includes serving of beverages for immediate consumption on the premises.	This class predominantly includes serving beverages for immediate consumption on the premises.	0.99314106
+The activity can include the provision of e.g. live music	The activities can include the provision of, for example live music and dance activities.	0.84994936
+This class includes activities of:	This class includes activities of:	1.0
+- bars	- bars	0.99999994
+- cocktail lounges	- cocktail lounges	1.0
+- pubs	- pubs	1.0
+- coffee houses	- coffee houses	1.0
+-tea rooms	- tea rooms	1.0
+- fruit juice bars	- fruit juice bars	1.0000001
+- mobile beverage vendors	- mobile beverage serving	0.85864305
+This class includes also:	This class also includes:	0.9993105
+- bar activities on board of transport, e.g. train or ship, when carried out by separate units	- bar activities aboard a means of transport (e.g. a train or ship), when carried out by separate units	0.97565657
+This class excludes:	This class excludes:	0.99999994
+- reselling packaged/prepared beverages, see 47	- reselling packaged/prepared beverages, see division 47	0.97497416
+- retail sale of beverages through vending machines, see 472	- retail sale of beverages through vending machines, see 47.2	0.8709401
+- provision of beverage preparation and supply based on contractual arrangements with the customer, for a fixed term, see 5629	- provision of beverage preparation and supply based on contractual arrangements with the customer, for a fixed term, see 56.22	0.9089396
+- operation of concert halls, see 9031	- operation of concert halls and music venues, see 90.31	0.75248706
+- operation of discotheques, dance floors and music venues where beverage serving is not the main activity, see 9329	- operation of dance floors where beverage serving is not the main activity, see 93.29	0.81664467

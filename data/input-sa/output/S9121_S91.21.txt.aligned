@@ -1,0 +1,15 @@
+S9121 Museum and collection activities	S91.21 Museum and collection activities	0.91497624
+This class includes:	This class includes:	1.0000001
+- operation, management, care, preservation, appraisal and exhibition of collections of museums of all kinds:	- operation, management, care, preservation, assessment and exhibition of collections of museums of all kinds:	0.99911547
+museums or art museums, applied art crafts and design museums (e.g. for jewelry, furniture, costumes, ceramics, silverware)	museums or art museums; applied art, crafts and design museums (e.g. jewellery, furniture, costumes, ceramics, silverware)	0.98183715
+natural history, science and technological museums, historical museums, including military museums	natural history, science and technology museums, historical museums (including military museums)	0.94656956
+other specialised museums	other specialised museums	1.0
+open-air museums, ecomuseums as well as digital and virtual museums	- open-air museums, ecomuseums, digital and virtual museums	0.8735541
+collections in historic houses and national galleries, interpretation centres for ethnographic, religious and folk art at local or regional level	- collections in historic houses and national galleries; interpretation centres for ethnographic, religious and folk art (at local or regional level)	0.92026716
+- in-house services such as restoration of works of art and museum collection objects	- activities of art galleries, exhibiting art (not for sale)	0.62715495
+This class excludes:	This class excludes:	1.0000001
+- retail sale of paintings and sculptures (activities of commercial art galleries), see 4769	- retail sale of paintings and sculptures (activities of commercial art galleries), see 47.69	0.8895786
+- library activities, see 9111	- library activities, see 91.11	0.84721434
+- archive activities, see 9112	- archive activities, see 91.12	0.8159543
+- restoration of works of art and museum collection objects if not conducted by units classified in 912, see 913	- conservation and restoration of cultural heritage, see 91.30	0.6391289
+- restoring of furniture (except museum type restoration), see 9524	- repair of furniture not considered cultural heritage and non-historical, see 95.24	0.70826566

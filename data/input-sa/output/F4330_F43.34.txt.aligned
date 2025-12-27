@@ -1,0 +1,11 @@
+F4330 Building completion and finishing	F43.34 Painting and glazing	0.6004024
+This class includes:	This class includes:	1.0
+- interior and exterior painting of buildings	- interior and exterior painting of buildings	0.99999994
+- painting of civil engineering structures	- painting of civil engineering structures	1.0
+- installation of glass, mirrors, etc.	- installation of glass, mirrors, etc.	1.0
+This class also includes:	This class also includes:	1.0
+- interior installation of shops, mobile homes, boats etc.	- coating of metals on buildings and civil engineering structures	0.50209224
+This class excludes:	This class excludes:	0.99999994
+- painting of roads, see 4210	- waterproofing of roofs, see 43.41	0.56287205
+- installation of automated and revolving doors, see 4329	- installation of windows, see 43.32	0.63478273
+- general interior cleaning of buildings and other structures, see 8121	- road painting and other marking of streets, see 43.50	0.52951026

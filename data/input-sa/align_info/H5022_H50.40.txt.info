@@ -1,0 +1,10 @@
+File: H5022_H50.40.txt
+File Elapsed Time: 0:00:00.281159
+Source file length: 3
+Target file length: 9
+Nodes: 55
+Gale-Church Elapsed Time: 2025-12-26 16:19:46.998862
+Align Elapsed Time: 0:06:06.520743
+Calc Anchors Elapsed Time: 2025-12-26 16:19:46.998863
+Greedy Algorithm Elapsed Time: 2025-12-26 16:19:46.998866
+Anchors: [[3, 9]]

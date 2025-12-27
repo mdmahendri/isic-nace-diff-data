@@ -1,0 +1,14 @@
+E3812 Collection of hazardous waste	E38.12 Collection of hazardous waste	0.8404784
+This class includes the collection of hazardous waste, e.g. explosive, oxidizing, flammable, toxic, irritant, carcinogenic, corrosive, infectious and other substances and preparations harmful for human health and environment.	This class includes the collection of hazardous waste (for example, explosive, oxidising, flammable toxic, irritant, carcinogenic, corrosive, infectious and other substances) and preparations harmful for human health and the environment.	0.9275426
+The activities may also include identification, treatment, packaging and labelling of waste for the purposes of transport.	The activities may also include identification, treatment, packaging and labelling of waste for the purposes of transport.	1.0
+This class includes:	This class includes:	0.99999994
+- collection of hazardous waste, such as:	- collection of hazardous waste, e.g.:	0.98851013
+used oil from ships or garages,	used oil from ships or garages	0.9460691
+bio-hazardous waste	biohazardous waste	0.9008545
+hazardous waste of animal origin nuclear waste collection of expired pharmaceuticals	hazardous waste of animal origin nuclear waste collection of expired pharmaceuticals	1.0000001
+This class also includes:	This class also includes:	0.9999999
+- operation of waste transfer facilities for hazardous waste	- operation of waste transfer facilities for hazardous waste	1.0
+This class excludes:	This class excludes:	1.0
+- collection of non-hazardous waste, see 3811	- collection of non-hazardous waste, see 38.11	0.84980845
+- operation of landfills for the disposal of hazardous waste and permanent storage of hazardous waste , see 3821	- operation of landfills for the disposal of hazardous waste and permanent storage of hazardous waste, see 38.32	0.8703898
+- remediation and clean up of contaminated buildings, mine sites, soil or ground water, e.g. asbestos removal, see 3900	- remediation and clean-up of contaminated buildings, mine sites, soil or groundwater (e.g. asbestos removal), see 39.00	0.9402637

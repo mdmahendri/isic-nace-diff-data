@@ -1,0 +1,21 @@
+Q8559 Other education n.e.c.	Q85.59 Other education n.e.c.	0.9097675
+This class includes:	This class includes:	1.0
+- education that is not definable by level	- education that is not definable by level	1.0
+- academic tutoring - remedial courses - professional examination review courses - language instruction and conversational skills instruction	- academic tutoring - remedial courses - professional examination review courses - language instruction and conversational skills instruction	1.0000001
+- computer training	- computer training (e.g. general computer use, programming courses, use of computer applications)	0.7227412
+- religious instruction - wellness courses,	- relaxation courses (e.g. meditation courses, breathing techniques, courses of awareness through movement, courses on stress and anxiety relief techniques)	0.60377437
+- sewing courses,	- sewing courses	0.9365337
+- oenology courses,	- oenology courses	0.9444704
+- family life courses, e.g. parent-child courses	- family life courses (e.g. parentchild courses)	0.95534015
+- training on plant protection products	- training on plant protection products	1.0
+This class includes:	This class also includes:	0.94213504
+- academic tutoring	- lifeguard training	0.6736034
+- remedial courses	- survival training	0.73789346
+- language instruction and conversational skills instruction	- public speaking training	0.72012365
+- computer training	- speed-reading instruction	0.57084966
+- family life courses, e.g. parent-child courses - training on plant protection products	- activities of professional instructors and teachers in subjects other than sports, arts and driving	0.52323717
+This class excludes:	This class excludes:	1.0
+- formal adult literacy programmes, see 8520	- formal adult literacy programmes, see 85.20	0.87310225
+- general secondary education, see 8531	- general secondary education, see 85.31	0.82538366
+- technical and vocational secondary education and training, see 8532	- technical and vocational secondary education and training, see 85.32	0.8952231
+- entertainment activities in retirement homes, see 9329	- entertainment activities in retirement homes, see 93.29	0.86636543

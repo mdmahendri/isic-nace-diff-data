@@ -1,0 +1,12 @@
+I5510 Hotels and similar accommodation activities	I55.10 Hotels and similar accommodation	0.85052896
+This class includes the provision of accommodation, typically on a daily or weekly basis, for short stays.	This class includes the provision of accommodation, typically on a daily or weekly basis, for short-term stays.	0.99471015
+This includes the provision of furnished accommodation in guest rooms and suites.	It also includes the provision of furnished accommodation in hotels rooms and suites.	0.9265263
+Services offered include necessarily daily cleaning and bed-making.	Services provided include daily cleaning and bed-making.	0.9601611
+A range of additional services may be provided, e.g. daily cleaning and bedmaking, food and beverage services, laundry services, as well as conference and convention facilities.	A range of additional services may be provided (for example, food and beverage services, laundry services, recreational facilities as well as conference and convention facilities).	0.82834244
+These activities in this class are generally characterized by providing on-site reactive customer service.	These activities are generally characterised by the provision of on-the-spot customer service.	0.8738648
+This class includes accommodation provided by e.g.:	This class includes accommodation provided by, for example:	0.99155307
+- hotels	- hotels	0.99999994
+- resort hotels	- resort hotels	0.99999994
+This class excludes:	This class excludes:	1.0
+- Short-term accommodation with no on-site reactive customer services, see 5520	- accommodation without daily cleaning, bed-making and on-the-spot customer service, see 55.20	0.6762477
+- intermediation service activities for accommodation, see 5540	- intermediation service activities for accommodation, see 55.40	0.8587981

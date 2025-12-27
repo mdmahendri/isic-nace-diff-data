@@ -1,0 +1,10 @@
+H5110 Passenger air transport	H51.10 Passenger air transport	0.89824355
+This class includes:	This class includes:	1.0
+- scheduled air transportation of passengers over regular routes	- scheduled air transport of passengers over regular routes	0.9990756
+- charter flights for passengers	- charter flights for passengers	1.0
+- sightseeing flights	- sightseeing flights	1.0
+This class also includes:	This class also includes:	0.99999994
+- rental of air transport equipment with operator for the purpose of passenger transportation	- rental of air transport equipment with an operator for the purpose of passenger transport	0.9982002
+This class excludes:	This class excludes:	1.0
+- rental of air transport equipment without operator, see 7730	- rental of air transport equipment without an operator, see 77.35	0.80510235
+- air ambulances, see 869	- air ambulances, see 86.92	0.7803679

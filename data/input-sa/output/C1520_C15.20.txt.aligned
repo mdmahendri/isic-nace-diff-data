@@ -1,0 +1,11 @@
+C1520 Manufacture of footwear	C15.20 Manufacture of footwear	0.8501922
+This class includes:	This class includes:	0.99999994
+- manufacture of footwear for all purposes, of any material, by any process, including moulding (see below for exceptions)	- manufacture of footwear for all purposes, of any material, by any process, including moulding	0.9197564
+- manufacture of parts of footwear e.g. manufacture of uppers and parts of uppers, outer and inner soles, heels, in any material (leather, wood, plastic, rubber, etc.)	- manufacture of leather parts of footwear (e.g. manufacture of uppers and parts of uppers, outer and inner soles, heels)	0.90008026
+- manufacture of gaiters, leggings and similar articles	- manufacture of gaiters, chaps and similar articles	0.965665
+This class includes also:	This class also includes:	0.9993104
+- manufacture of rubber, wooden or plastic parts of footwear	- manufacture of rubber, wooden or plastic parts of footwear	0.9999999
+This class excludes:	This class excludes:	1.0
+- manufacture of knitted or crocheted footwear without applied soles, see 1430	- manufacture of knitted or crocheted footwear without applied soles, see 14.10	0.9062164
+- manufacture of ski-boots, see 3230	- manufacture of ski boots, see 32.30	0.8289672
+- manufacture of orthopaedic shoes, see 3250	- manufacture of prescription orthopaedic shoes, see 32.50	0.7865064

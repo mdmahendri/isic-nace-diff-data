@@ -1,0 +1,12 @@
+T9412 Activities of professional membership organizations	T94.12 Activities of professional membership organisations	0.9218893
+This class includes:	This class includes:	0.99999994
+- activities of organisations whose members' interests centre chiefly on a particular scholarly discipline or professional practice or technical field, e.g. medical associations, legal associations, accounting associations, engineering associations, architects associations etc.	- activities of organisations whose members interests centre chiefly on a particular scholarly discipline or professional practice or technical field (e.g. medical associations, legal associations, accounting associations, engineering associations, architects associations)	0.9692948
+- activities of associations of specialists engaged in scientific, academic or cultural activities, e.g. associations of writers, painters, performers of various kinds, journalists etc.	- activities of associations of specialists engaged in scientific, academic or cultural activities (e.g. associations of writers, painters, performers of various kinds, journalists)	0.9645314
+- dissemination of information, the establishment and supervision of standards of practice, representation before government agencies and public relations of professional organisations	- dissemination of information, the establishment and supervision of standards of practice, representation before government agencies, public relations of professional organisations	0.9914972
+This class also includes:	This class also includes:	0.9999999
+- activities of learned societies	- activities of learned societies	1.0000001
+This class excludes:	This class excludes:	1.0
+- education provided by these organisations, see division 85	- education provided by professional membership organisations, see division 85	0.91082656
+- activities of business and employers membership organisations, see 9411	- activities of business and employers membership organisations, see 94.11	0.89698
+- activities of trade unions, see 9420	- activities of trade unions, see 94.20	0.83362734
+- activities of non-governmental organisations, see 9499	- activities of other membership organisations n.e.c., see 94.99	0.7759794

@@ -1,0 +1,10 @@
+File: C2592_C25.51.txt
+File Elapsed Time: 0:00:00.747311
+Source file length: 14
+Target file length: 17
+Nodes: 304
+Gale-Church Elapsed Time: 2025-12-26 16:19:46.998862
+Align Elapsed Time: 0:06:31.942781
+Calc Anchors Elapsed Time: 2025-12-26 16:19:46.998863
+Greedy Algorithm Elapsed Time: 2025-12-26 16:19:46.998866
+Anchors: [[14, 17]]

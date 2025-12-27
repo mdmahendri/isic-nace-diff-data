@@ -1,0 +1,10 @@
+File: F4390_F43.50.txt
+File Elapsed Time: 0:00:00.594204
+Source file length: 25
+Target file length: 15
+Nodes: 459
+Gale-Church Elapsed Time: 2025-12-26 16:19:46.998862
+Align Elapsed Time: 0:09:47.069842
+Calc Anchors Elapsed Time: 2025-12-26 16:19:46.998863
+Greedy Algorithm Elapsed Time: 2025-12-26 16:19:46.998866
+Anchors: [[25, 15]]

@@ -1,0 +1,5 @@
+G471 Non-specialized retail sale	G47.1 Non-specialised retail sale	0.890944
+This group includes the retail sale of a variety of product lines in the same unit (non-specialised sale, such as supermarkets, hypermarkets and department stores).	This group includes the retail sale of a variety of product lines in the same unit (non-specialised sale, for example, supermarkets, hypermarkets, department stores).	0.9875374
+This group excludes:	This group excludes:	1.0
+- specialised retail sale, see groups 472 - 478	- specialised retail sale, see 47.2 to 47.8	0.8178464
+- intermediation services for specialised and not specialised retail sale, see group 479	- intermediation services for specialised and non-specialised retail sale, see 47.9	0.8875074

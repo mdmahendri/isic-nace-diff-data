@@ -1,0 +1,9 @@
+F4220 Construction of utility projects	F42.22 Construction of utility projects for electricity and telecommunications	0.71506345
+This class includes the construction of distribution lines and related buildings and structures that are integral part of these systems.	This class includes the construction of distribution lines for electricity and telecommunication and related buildings and structures that are integral part of these systems.	0.9287391
+This class includes:	This class includes:	0.9999999
+- construction of civil engineering constructions for:	- construction of civil engineering structures for:	0.99199563
+* long-distance pipelines, communication and power lines	long-distance and urban communication and power lines	0.777595
+* irrigation systems (canals) * reservoirs - construction of:	power plants (e.g. solar and wind energy farms)	0.51135993
+* power plants	- construction of stations for distribution of electricity (e.g. for electric vehicles)	0.55911076
+This class excludes:	This class excludes:	1.0
+- project management activities related to civil engineering works, see 7110	- project management activities related to civil engineering works, see 71.12	0.87012523

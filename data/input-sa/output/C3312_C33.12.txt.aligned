@@ -1,0 +1,33 @@
+C3312 Repair and maintenance of machinery	C33.12 Repair and maintenance of machinery	0.8845829
+This class includes the repair and maintenance of industrial and commercial machinery and equipment, e.g. sharpening or installing machinery blades and saws; the provision of welding (e.g. automotive, general) repair services; the repair of agricultural and other heavy and industrial machinery and equipment (e.g. forklifts and other materials handling equipment, machine tools, commercial refrigeration equipment, construction equipment and mining machinery), including machinery and equipment of division 28.	This class includes the repair and maintenance of industrial and commercial machinery and equipment (for example, sharpening or installing machinery blades and saws); the provision of welding (for example, automotive, general) repair services; the repair of agricultural and other heavy and industrial machinery and equipment (for example, forklifts and other materials handling equipment, machine tools, commercial refrigeration equipment, construction equipment and mining machinery), including machinery and equipment of division 28.	0.990952
+This class includes:	This class includes:	0.99999994
+- repair and maintenance of engines, except for motor vehicles, ships, boats and aircrafts	- repair and maintenance of engines, except for motor vehicles, ships, boats and aircraft	0.99932295
+- repair and maintenance of railway engines	- repair and maintenance of railway engines	1.0
+- repair and maintenance of pumps, compressors and related equipment - repair and maintenance of fluid power machinery	- repair and maintenance of pumps, compressors and related equipment - repair and maintenance of fluid power machinery	1.0000001
+- repair of valves	- repair of valves	0.99999994
+- repair of gearing and driving elements - repair and maintenance of industrial process furnaces	- repair of gearing and driving elements - repair and maintenance of industrial process furnaces	1.0000001
+- repair and maintenance of industrial refrigeration equipment and air purifying equipment	- repair and maintenance of industrial refrigeration equipment and air-purifying equipment	0.999332
+- repair and maintenance of commercial-type general-purpose machinery	- repair and maintenance of commercial-type general-purpose machinery	1.0
+- repair of power-driven hand-tools	- repair of power-driven hand tools	0.99878895
+- repair and maintenance of metal cutting and metal forming machine tools and accessories	- repair and maintenance of metal-cutting and metal-forming machine tools and accessories	0.99856937
+- repair and maintenance of other machine tools	- repair and maintenance of other machine tools	0.99999994
+- repair and maintenance of agricultural tractors - repair and maintenance of agricultural machinery and forestry and logging machinery	- repair and maintenance of agricultural and forestry tractors - repair and maintenance of agricultural machinery, forestry and logging machinery	0.99354124
+- repair and maintenance of metallurgy machinery	- repair and maintenance of metallurgy machinery	1.0
+- repair and maintenance of mining, construction, and oil and gas field machinery	- repair and maintenance of machinery for mining, construction, oilfields and gas fields	0.98446155
+- repair and maintenance of food, beverage, and tobacco processing machinery	- repair and maintenance of food, beverage and tobacco processing machinery	0.999366
+- repair and maintenance of textile apparel, and leather production machinery	- repair and maintenance of textile apparel and leather production machinery	0.9888476
+- repair and maintenance of papermaking machinery	- repair and maintenance of papermaking machinery	1.0
+- repair and maintenance of plastic and rubber machinery	- repair and maintenance of plastic and rubber machinery	1.0000001
+- repair and maintenance of other special-purpose machinery of division 28 - repair and maintenance of weighing equipment	- repair and maintenance of other special-purpose machinery of division 28 - repair and maintenance of weighing equipment	1.0000002
+- repair and maintenance of vending machines	- repair and maintenance of vending machines	1.0000001
+- repair and maintenance of cash registers	- repair and maintenance of cash registers	1.0
+- repair and maintenance of photocopy machines	- repair and maintenance of photocopy machines	0.9999999
+- repair of calculators, electronic or not	- repair of calculators, electronic or not	1.0
+- repair of typewriters This class excludes:	- repair of typewriters This class excludes:	1.0000001
+- repair and maintenance of civilian ship and boat engines, see 3315	- repair and maintenance of civilian ship and boat engines, see 33.15	0.900612
+- repair and maintenance of civilian aircraft engines, see 3315	- repair and maintenance of civilian aircraft engines, see 33.16	0.82948446
+- repair and maintenance of engines for military fighting vehicles, ships, boats, air and spacecraft, see 3315	- repair and maintenance of engines for military fighting vehicles, ships, boats, air and spacecraft, see 33.18	0.869921
+- installation, repair and maintenance of furnaces and other heating equipment, see 4322	- installation, repair and maintenance of furnaces and other heating equipment, see 43.22	0.9220207
+- installation, repair and maintenance of elevators and escalators, see 4329	- installation, repair and maintenance of elevators and escalators, see 43.24	0.8756395
+- repair and maintenance of computers, see 9510	- repair and maintenance of computers, see 95.10	0.8855698
+- repair and maintenance of engines for motor vehicles, see 9531	- repair and maintenance of engines for motor vehicles, see 95.31	0.8428258

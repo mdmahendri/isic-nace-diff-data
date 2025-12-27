@@ -1,0 +1,10 @@
+File: L651_L65.1.txt
+File Elapsed Time: 0:00:00.282561
+Source file length: 10
+Target file length: 9
+Nodes: 132
+Gale-Church Elapsed Time: 2025-12-26 16:19:46.998862
+Align Elapsed Time: 0:09:23.375291
+Calc Anchors Elapsed Time: 2025-12-26 16:19:46.998863
+Greedy Algorithm Elapsed Time: 2025-12-26 16:19:46.998866
+Anchors: [[10, 9]]

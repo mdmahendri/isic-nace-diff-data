@@ -1,0 +1,24 @@
+C3011 Building of ships and floating structures	C30.11 Building of civilian ships and floating structures	0.84923613
+This class includes the building of civilian and military ships (except vessels for sports or recreation), and the construction of floating structures.	This class includes the building of civilian ships, except vessels for sports or recreation, and the construction of floating structures.	0.9174142
+This class includes: - building of commercial vessels:	This class includes: - building of commercial vessels:	1.0000001
+* passenger vessels, ferry boats, cargo ships, tankers, tugs etc.	passenger vessels, ferry boats, cargo ships, tankers, tugs	0.8235971
+- building of fishing vessels, factory ships and other vessels for processing or preserving fishery products	- building of fishing vessels, factory ships and other vessels for processing or preserving fishery products	1.0
+This class also includes:	This class also includes:	0.99999994
+- building of hovercraft (except recreation-type hovercraft)	- building of hovercraft (except recreation-type hovercraft)	1.0
+- construction of drilling platforms, floating or submersible	- construction of drilling platforms, floating or submersible	0.99999994
+- construction of floating structures:	- construction of floating structures, e.g.:	0.89832187
+* floating docks, pontoons, coffer-dams, floating landing stages, buoys, floating tanks, barges, lighters, floating cranes, non-recreational inflatable rafts etc.	floating docks, pontoons, cofferdams, floating landing stages, buoys, floating tanks, barges, lighters, floating cranes, non-recreational inflatable rafts, etc.	0.9089941
+- manufacture of sections for ships and floating structures	- manufacture of sections for ships and floating structures	0.9999999
+This class excludes:	This class excludes:	0.9999999
+- manufacture of parts of vessels, other than major hull assemblies:	- manufacture of parts of vessels, other than major hull assemblies:	0.9999999
+* manufacture of sails, see 1392	manufacture of sails, see 13.96	0.61905015
+* manufacture of ships' propellers, see 2599	manufacture of ships propellers, see 25.99	0.70410407
+* manufacture of iron or steel anchors, see 2599	manufacture of iron or steel anchors, see 25.99	0.7476682
+* manufacture of marine engines, see 2811	manufacture of marine engines, see 28.11	0.78431886
+- manufacture of navigational instruments, see 2651	- manufacture of navigational instruments, see 26.51	0.817034
+- manufacture of lighting equipment for ships, see 2740	- manufacture of lighting equipment for ships, see 27.40	0.8856825
+- manufacture of amphibious motor vehicles, see 2910	- manufacture of amphibious motor vehicles, see 29.10, 30.40	0.82610726
+- manufacture of inflatable boats or rafts for recreation, see 3012	- manufacture of inflatable boats or rafts for pleasure and sport, see 30.12	0.8467719
+- specialized repair and maintenance of ships and floating structures, see 3315	- specialised repair and maintenance of civilian ships and floating structures, see 33.15	0.888855
+- ship-breaking, see 3830	- ship-breaking, see 38.21	0.6439469
+- interior installation of boats, see 4330	- interior non-technical installation and finishing of boats, see 43.3	0.7376382

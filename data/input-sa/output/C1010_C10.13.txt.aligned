@@ -1,0 +1,9 @@
+C1010 Processing and preserving of meat	C10.13 Production of meat and poultry meat products	0.693908
+This class includes:	This class includes:	1.0
+- production of dried, salted or smoked meat	- production of preserved meat (e.g. by cooking, drying, salting or smoking)	0.8118559
+- production of meat products:	- production of meat products:	0.9999999
+* sausages, salami, puddings, "andouillettes", saveloys, bolognas, pts, rillettes, boiled ham.	sausages, salami, puddings, andouillettes, saveloys, bolognas, pts, rillettes, boiled ham	0.8699051
+This class excludes:	This class excludes:	0.99999994
+- manufacture of prepared frozen meat and poultry dishes, see 1075	- manufacture of prepared meat and poultry dishes, see 10.85	0.875613
+- manufacture of soup containing meat, see 1079	- manufacture of soup containing meat, see 10.89	0.8632433
+- wholesale trade of meat, see 4630	- wholesale of meat, see 46.32	0.763981

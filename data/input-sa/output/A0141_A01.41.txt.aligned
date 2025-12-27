@@ -1,0 +1,6 @@
+A0141 Raising of cattle and buffaloes	A01.41 Raising of dairy cattle	0.7464592
+This class includes:	This class includes:	0.99999994
+- raising and breeding of cattle and buffaloes for meat	- raising and breeding of dairy cattle and/or buffaloes	0.84689677
+- production of bovine semen.	- production of bovine semen of dairy breeds	0.870517
+This class excludes:	This class excludes:	1.0
+- processing of milk, see 1050	- processing of milk, see 10.51	0.8283683

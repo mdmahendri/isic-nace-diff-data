@@ -1,0 +1,8 @@
+D Electricity, gas, steam and air conditioning supply	D ELECTRICITY, GAS, STEAM AND AIR CONDITIONING SUPPLY	0.9210798
+This section includes the generation, storage, control, distribution, trade and brokerage of electric power or of gaseous fuels for energy supply through a permanent network of lines, mains and pipes.	This section includes the generation, storage, control, distribution, trade and brokerage of electric power or of gaseous fuels for energy supply through a permanent network of lines, mains and pipes.	1.0
+Energy supply for industrial parks or residential buildings is included. This section therefore includes the operation of electricity and gas utilities.	Energy supply for industrial parks or residential buildings is included. This section therefore includes the operation of electricity and gas utilities.	1.0
+The section also includes heating and cooling, e.g. steam and air conditioning supply, through a permanent network.	The section also includes heating and cooling (for example, steam and air conditioning supply) through a permanent network.	0.89799774
+This section excludes:	This section excludes:	0.99999994
+- extraction of crude natural gas, see 0620	- extraction of crude natural gas, see 06.20	0.8629837
+- water supply and sewerage treatment services, see divisions 36, 37	- water supply and sewerage, see divisions 36, 37	0.956362
+- transport of gas through pipelines, i.e. not through the distribution network, see 4930	- transport of gas through pipelines, i.e. not through the distribution network, see 49.50	0.9095173

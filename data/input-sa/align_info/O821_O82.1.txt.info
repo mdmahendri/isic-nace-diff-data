@@ -1,0 +1,10 @@
+File: O821_O82.1.txt
+File Elapsed Time: 0:00:00.187466
+Source file length: 8
+Target file length: 1
+Nodes: 30
+Gale-Church Elapsed Time: 2025-12-26 16:19:46.998862
+Align Elapsed Time: 0:11:37.387891
+Calc Anchors Elapsed Time: 2025-12-26 16:19:46.998863
+Greedy Algorithm Elapsed Time: 2025-12-26 16:19:46.998866
+Anchors: [[8, 1]]

@@ -1,0 +1,10 @@
+T9491 Activities of religious organizations	T94.91 Activities of religious organisations	0.903898
+This class includes:	This class includes:	1.0
+- activities of religious organisations or individuals providing services directly to worshippers in churches, mosques, temples, synagogues or other places	- activities of religious organisations or individuals providing services directly to worshippers in churches, mosques, temples, synagogues or other places	1.0
+- activities of organisations furnishing monastery and convent services	- activities of organisations furnishing monastery and convent services	1.0
+- religious retreat activities	- religious retreat activities	1.0
+This class also includes:	This class also includes:	1.0
+- religious funeral service activities This class excludes:	- religious funeral service activities This class excludes:	1.0000001
+- education provided by such organisations, see division 85	- education provided by religious organisations, see division 85	0.92529714
+- health activities by such organisations, see division 86	- health activities by religious organisations, see division 86	0.93096036
+- social work activities by such organisations, see divisions 87, 88	- social work activities by religious organisations, see divisions 87, 88	0.93243927

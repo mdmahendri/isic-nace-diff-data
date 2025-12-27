@@ -1,0 +1,6 @@
+D3513 Electric power transmission and distribution activities	D35.16 Storage of electricity	0.54734135
+This class includes:	This class includes:	1.0
+- conversion of electrical energy into a form of energy which can be stored, the storing of such energy, and the subsequent reconversion of such energy into electrical energy, e.g. operation of pump storage facilities, compressed air storage facilities, or battery storage facilities	- conversion of electrical energy into a form of energy which can be stored, the storing of such energy, and the subsequent reconversion of such energy into electrical energy (e.g. operation of pump storage facilities, compressed air storage facilities, or battery storage facilities)	0.98069584
+- distributing stored electricity into electricity mains/networks	- distribution of stored electricity into electricity mains/networks	0.99341553
+This class excludes:	This class excludes:	0.99999994
+- production of electricity not by storage, see 3511, 3512	- production of electricity not by storage, see 35.11, 35.12	0.870648

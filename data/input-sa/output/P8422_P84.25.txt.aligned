@@ -1,0 +1,9 @@
+P8422 Defence activities	P84.25 Fire service activities	0.68795377
+This class includes:	This class includes:	1.0
+defence forces such as:	- firefighting activities:	0.5452832
+- administration, operation and support of civil defence forces	- activities of beach supervisors, i.e. lifeguards	0.5054577
+- support for the working out of contingency plans and the carrying out of exercises in which civilian	- activities of rescue operations on open water and in mountains	0.6199591
+This class excludes:	This class excludes:	1.0000001
+- provision of supplies for domestic emergency use in case of peacetime disasters, see 8423	- fire-protection and firefighting services for forestry, see 02.40	0.54413617
+- educational activities of military schools, colleges and academies, see 854	- firefighting services and fire-prevention services for oilfields and gas fields, see 09.10	0.5915617
+- activities of military hospitals, see 8610	- firefighting and fire-prevention activities at airports, see 52.23	0.47547448

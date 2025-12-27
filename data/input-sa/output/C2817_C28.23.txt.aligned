@@ -1,0 +1,14 @@
+C2817 Manufacture of office machinery and equipment (except computers and peripheral equipment)	C28.23 Manufacture of office machinery and equipment, except computers and peripheral equipment	0.85499835
+This class includes:	This class includes:	1.0
+- manufacture of calculating machines	- manufacture of calculating machines	1.0
+- manufacture of cash registers - manufacture of calculators	- manufacture of cash registers - manufacture of calculators	1.0
+- manufacture of postage meters, mail handling machines (envelope stuffing, sealing and addressing machinery; opening, sorting, scanning)	- manufacture of postage meters, mail handling machines (envelope stuffing, sealing and addressing machinery; opening, sorting, scanning)	1.0
+- manufacture of typewriters and stenography machines	- manufacture of typewriters and stenography machines	1.0
+- manufacture of office-type binding equipment (i.e. plastic or tape binding) - manufacture of coin sorting, coin counting and coin wrapping machines - manufacture of pencil sharpening machines	- manufacture of office-type binding equipment (i.e. plastic or tape binding) - manufacture of coin sorting, coin counting and coin wrapping machines - manufacture of pencil sharpening machines	1.0000001
+- manufacture of stapling machines - manufacture of voting machines - manufacture of tape dispensers	- manufacture of stapling machines - manufacture of voting machines - manufacture of tape dispensers	1.0000002
+- manufacture of hole punches	- manufacture of hole punches	0.99999994
+- manufacture of photocopy machines	- manufacture of photocopy machines	1.0000002
+- manufacture of blackboards; white boards and marker boards with writing or drawing surfaces	- manufacture of blackboards; whiteboards and marker boards with writing or drawing surfaces	0.9820218
+- manufacture of dictating machines	- manufacture of dictating machines	1.0
+This class excludes:	This class excludes:	0.9999999
+- manufacture of computers and peripheral equipment, see 2620	- manufacture of computers and peripheral equipment, see 26.20	0.87943727

@@ -1,0 +1,17 @@
+E3811 Collection of non-hazardous waste	E38.11 Collection of non-hazardous waste	0.8604065
+This class includes:	This class includes:	0.99999994
+- collection of non-hazardous solid waste (i.e. garbage) within a local area such as collection of wated from households and businesses, by means of bins, containers etc., which may contain mixed recoverable materials	- collection of non-hazardous solid waste (i.e. garbage) within a local area (e.g. from households and businesses), by means of refuse bins, wheeled bins and containers, which may contain mixed recoverable materials	0.9647309
+- collection of recyclable materials (separated or not)	- collection of recyclable materials (separated or not)	0.99999994
+- collection of non-hazardous waste of animal or vegetal origin	- collection of non-hazardous waste of animal or vegetal origin	1.0
+- collection of used cooking oils and fats	- collection of used cooking oils and fats	1.0
+- collection of refuse in public places	- collection of refuse in public places	1.0
+- collection of yard waste	- collection of yard waste	1.0
+This class also includes:	This class also includes:	0.9999999
+- collection of construction and demolition waste	- collection of construction and demolition waste	0.99999994
+- collection and removal of debris	- collection and removal of debris	1.0
+- collection of waste output of industrial plants	- collection of waste output of industrial plants	1.0
+- operation of waste transfer facilities for non-hazardous waste This class excludes:	- operation of waste transfer facilities for non-hazardous waste This class excludes:	1.0000001
+- collection of sewage, see 37	- collection of sewage, see division 37	0.9605187
+- collection of hazardous waste, see 3812	- collection of hazardous waste, see 38.12	0.84104854
+- operation of facilities for sorting recoverable waste, see 3830	- operation of facilities for sorting recoverable waste, see 38.2	0.8195088
+- operation of recovery facilities, see 3830	- operation of recovery facilities, see 38.2	0.77408326

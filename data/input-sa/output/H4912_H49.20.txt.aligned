@@ -1,0 +1,11 @@
+H4912 Freight rail transport	H49.20 Freight rail transport	0.83008033
+This class includes:	This class includes:	1.0
+- freight transport on mainline rail networks as well as short line freight railroads	- freight transport on mainline rail networks as well as short line freight railways	0.9995104
+This class includes also	This class also includes:	0.9333699
+- freight transport by funiculars	- freight transport by funicular railway	0.94382125
+- traction services provided over a long distance	- traction services	0.7122463
+This class excludes:	This class excludes:	1.0
+- warehousing and storage, see 5210	- warehousing and storage, see 52.10	0.86118096
+- freight terminal activities, see 5221	- freight terminal activities, see 52.21	0.8460877
+- operation of railroad infrastructure; related activities such as switching and shunting, see 5221	- operation of railway infrastructure and related activities (e.g. switching and shunting), see 52.21	0.90750176
+- cargo handling on behalf of others, see 5224	- cargo handling on behalf of others, see 52.24	0.87177366

@@ -1,0 +1,9 @@
+L651 Insurance	L65.1 Insurance	0.8596891
+This group includes life reinsurance with or without a substantial savings element and other non-life insurance.	This group includes life insurance with or without a substantial savings element and non-life insurance.	0.9434593
+This group includes:	This group includes:	1.0
+- life insurance and life reinsurance with or without a substantial savings element and other non-life insurance	- life insurance and life reinsurance with or without a substantial savings element and other non-life insurance	1.0
+- activities of insurance providers on own account	- activities of insurance providers on own account	1.0
+- pooling and assuming insurance risks	- pooling and assuming insurance risks	0.9999999
+This group also includes captive insurance activities	This group also includes captive insurance activities.	0.93698907
+This group excludes:	This group excludes:	1.0
+- selling of insurance as a broker, see 6622	- selling of insurance as a broker, see 66.22	0.83267665

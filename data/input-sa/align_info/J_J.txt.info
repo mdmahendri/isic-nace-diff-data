@@ -1,0 +1,10 @@
+File: J_J.txt
+File Elapsed Time: 0:00:01.699432
+Source file length: 16
+Target file length: 17
+Nodes: 342
+Gale-Church Elapsed Time: 2025-12-26 16:19:46.998862
+Align Elapsed Time: 0:12:11.547582
+Calc Anchors Elapsed Time: 2025-12-26 16:19:46.998863
+Greedy Algorithm Elapsed Time: 2025-12-26 16:19:46.998866
+Anchors: [[16, 17]]

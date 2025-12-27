@@ -1,0 +1,10 @@
+File: H523_H52.3.txt
+File Elapsed Time: 0:00:01.021492
+Source file length: 2
+Target file length: 2
+Nodes: 16
+Gale-Church Elapsed Time: 2025-12-26 16:19:46.998862
+Align Elapsed Time: 0:03:51.507465
+Calc Anchors Elapsed Time: 2025-12-26 16:19:46.998863
+Greedy Algorithm Elapsed Time: 2025-12-26 16:19:46.998866
+Anchors: [[2, 2]]

@@ -1,0 +1,9 @@
+G4761 Retail sale of books, newspapers, stationery and office supplies	G47.62 Retail sale of newspapers, and other periodical publications and stationery	0.8178882
+This class includes:	This class includes:	1.0
+- retail sale of newspapers and stationery	- retail sale of newspapers, periodicals and journals	0.9009864
+This class also includes:	This class also includes:	0.99999994
+- retail sale of office and school supplies such as pens, pencils, paper etc.	- retail sale of stationery, office and school supplies (e.g. pens, pencils, paper)	0.9406027
+This class excludes:	This class excludes:	1.0
+- retail sale of second-hand or antique books, see 4774	- retail sale of art tools and materials for drawing, painting and sculpting, see 47.69	0.6115275
+- distribution of newspapers via streaming or downloading by their publishers, see 5812	- distribution of newspapers via streaming or downloading by their publishers, see 58.12	0.85375756
+- distribution of periodicals and journals via streaming or downloading by their publishers, see 5813	- distribution of periodicals and journals via streaming or downloading by their publishers, see 58.13	0.89291

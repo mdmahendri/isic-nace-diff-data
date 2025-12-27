@@ -1,0 +1,25 @@
+O8210 Office administrative and support activities	O82.10 Office administrative and support activities	0.94363534
+This class includes the provision of a combination of day-to-day office administrative services, such as reception, financial planning, billing and record keeping, personnel and mail services etc. for others on a contract or fee basis	This class includes the provision of a combination of day-to-day office administrative services (for example, reception, financial planning, billing and record-keeping, personnel, postal and mailing services, and so on), for others on a contract or fee basis.	0.8865808
+This class includes:	This class includes:	0.99999994
+- document preparation, e.g. editing, proofreading, typing, word processing etc., and pre-archiving	- document preparation (e.g. editing, proofreading, typing, word processing and pre-archiving)	0.95190537
+- other secretarial support services	- other secretarial support services	1.0
+- transcription of documents	- transcription of documents	1.0
+- letter or resume writing	- letter or rsum writing	0.9072043
+- provision of a mailbox rental and other postal and mailing services, e.g. pre-sorting, addressing	- provision of mailbox rental services and other postal and mailing services (e.g. pre-sorting, addressing)	0.9718157
+- duplicating - blueprinting	- duplicating - blueprinting	1.0000001
+- operation of photocopying machines for photocopying as a self-service	- operation of photocopying machines for photocopying as a self-service	1.0
+- digitalisation of files (without any further processing of data)	- digitalisation of files (without any further processing of data)	1.0
+- formatting of eBooks	- formatting of e-books	0.9676071
+This class excludes:	This class excludes:	0.9999999
+- printing of documents (offset printing, quick printing, digital printing, photocopying, etc.), see 1811	- printing of documents (offset printing, quick printing, digital printing, etc.), see 18.12	0.85306334
+- pre-press services, see 1812	- pre-press services, see 18.13	0.7576155
+- storage of paper files, see 5210	- storage of paper files, see 52.10	0.84728366
+- courier services, see 5320	- courier services, see 53.20	0.77347684
+- data processing and digitalisation of files associated with further processing of data, see 6310	- data processing and digitalisation of files associated with the further processing of data, see 63.10	0.951045
+- storage of data files, see 6310	- storage of data files, see 63.10	0.8780937
+- rental of non-equipped offices, co-working places and fully equipped offices see 6810	- rental of non-equipped offices, co-working spaces and fully-equipped offices, see 68.20	0.8859185
+- activities of shared service centres (SSC) with strategic and managerial activities / centralised activities, see 7010	- activities of shared service centres (SSC) with strategic and managerial activities/centralised activities, see 70.10	0.9617332
+- developing and organising mail advertising campaigns, see 7310	- developing and organising mail advertising campaigns, see 73.11	0.8263569
+- renting of containers to be used as offices, see 7730	- renting of containers to be used as offices, see 77.39	0.7673558
+- public stenography services and specialised stenotype services such as court reporting, see 8299	- public stenography services and specialised stenotype services (e.g. court reporting), see 82.99	0.8960843
+- archiving of all kinds of documents (in paper or electronic forms), see 9112	- archiving of all kinds of documents (in paper or electronic forms), see 91.12	0.9153976

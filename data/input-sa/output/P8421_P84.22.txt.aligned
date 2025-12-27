@@ -1,0 +1,9 @@
+P8421 Foreign affairs	P84.22 Defence activities	0.49680048
+This class includes:	This class includes:	1.0
+- administration and operation of the ministry of foreign affairs and diplomatic and consular missions stationed abroad or at offices of international organisations	- administration, supervision and operation of military defence affairs and land, sea, air and space defence forces, e.g.:	0.6632792
+- administration, operation and support for information and cultural services intended for distribution beyond national boundaries	- administration, operation and support of civil defence forces	0.72630143
+- aid to foreign countries, whether or not routed through international organisations - provision of military aid to foreign countries	- support for the elaboration of contingency plans and the carrying out of exercises in which civilian institutions and populations are involved	0.55994785
+- management of foreign trade, international financial and foreign technical affairs	- administration of defence-related research and development policies and related funds	0.58243525
+This class excludes:	This class excludes:	0.9999999
+- international disaster or conflict refugee services, see 8890	- provision of supplies for domestic emergency use in case of peacetime disasters, see 84.24	0.5661863
+- activities of extraterritorial organisations and bodies, see 9900	- activities of military hospitals, see 86.10	0.6079457

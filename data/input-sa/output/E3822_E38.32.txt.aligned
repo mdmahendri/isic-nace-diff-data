@@ -1,0 +1,11 @@
+E3822 Treatment and disposal of hazardous waste	E38.32 Landfilling or permanent storage	0.46808228
+This class includes the disposal and treatment prior to disposal of solid or non-solid hazardous waste, including waste that is explosive, oxidizing, flammable, toxic, irritant, carcinogenic, corrosive or infectious and other substances and preparations harmful for human health and environment.	This class includes the disposal and treatment prior to disposal of non-hazardous or hazardous waste, whether the waste is solid or not, onto or into land (i.e. underground), or in permanent waste storage facilities or sites.	0.6274235
+This class includes:	This class includes:	1.0
+- operation of facilities for treatment of hazardous waste	- operation of landfills for the disposal of waste	0.8582934
+- treatment and disposal of toxic live or dead animals and other contaminated waste	- treatment of organic waste for landfilling or permanent storage	0.67241824
+- incineration of hazardous waste	- disposal of by-products of animal origin in landfills	0.64016056
+- disposal of used goods such as refrigerators to eliminate harmful waste	- permanent underground storage of waste in a deep geological cavity (e.g. in salt or potassium mines)	0.49489868
+- treatment, disposal and storage of radioactive nuclear waste including:	- storage of captured carbon dioxide	0.5368874
+This class excludes:	This class excludes:	1.0000001
+- incineration of non-hazardous waste, see 3821	- operation of facilities where waste is unloaded for further transport, see 38.1	0.6281456
+- decontamination, clean up of land, water; and toxic material abatement, see 3900	- decontamination, cleaning up land, water and toxic material abatement, see 39.00	0.91794705

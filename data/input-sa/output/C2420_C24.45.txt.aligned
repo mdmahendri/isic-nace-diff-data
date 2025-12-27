@@ -1,0 +1,10 @@
+C2420 Manufacture of basic precious and other non-ferrous metals	C24.45 Other non-ferrous metal production	0.76999414
+It includes:	This class includes:	0.7394638
+- production of chrome, manganese, nickel etc. from ores or oxides - production of chrome, manganese, nickel etc. from electrolytic and aluminothermic refining of chrome, manganese, nickel etc., waste and scrap	- production of unwrought chrome, manganese, nickel, etc., alloyed or not alloyed, from ores or oxides or from electrolytic and aluminothermic refining of chrome, manganese, nickel, etc., waste and scrap	0.93312865
+- production of alloys of chrome, manganese, nickel etc.	- manufacture of bars, rods, profiles and wire of chrome, manganese, nickel, etc.	0.8448615
+- semi-manufacturing of chrome, manganese, nickel etc.	- manufacture of plates, sheets, strip and foil of chrome, manganese, nickel, etc.	0.7712531
+- production of mattes of nickel	- production of mattes of nickel	0.99999994
+- manufacture of wire of these metals by drawing	- production of other non-ferrous metals	0.67636424
+This class excludes:	This class excludes:	1.0
+- casting of non-ferrous metals, see 2432	- casting of non-ferrous metals, see 24.53, 24.54	0.74366933
+- manufacture of precious metal jewellery, see 3211	- shredding of non-ferrous metal waste and scrap, see 38.21	0.5761479

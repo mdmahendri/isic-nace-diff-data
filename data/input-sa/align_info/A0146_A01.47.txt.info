@@ -1,0 +1,10 @@
+File: A0146_A01.47.txt
+File Elapsed Time: 0:00:00.414711
+Source file length: 10
+Target file length: 9
+Nodes: 132
+Gale-Church Elapsed Time: 2025-12-26 16:19:46.998862
+Align Elapsed Time: 0:02:12.335468
+Calc Anchors Elapsed Time: 2025-12-26 16:19:46.998863
+Greedy Algorithm Elapsed Time: 2025-12-26 16:19:46.998866
+Anchors: [[10, 9]]

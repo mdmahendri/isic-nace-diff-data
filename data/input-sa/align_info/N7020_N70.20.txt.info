@@ -1,0 +1,10 @@
+File: N7020_N70.20.txt
+File Elapsed Time: 0:00:01.126494
+Source file length: 17
+Target file length: 25
+Nodes: 513
+Gale-Church Elapsed Time: 2025-12-26 16:19:46.998862
+Align Elapsed Time: 0:10:09.261747
+Calc Anchors Elapsed Time: 2025-12-26 16:19:46.998863
+Greedy Algorithm Elapsed Time: 2025-12-26 16:19:46.998866
+Anchors: [[17, 25]]

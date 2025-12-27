@@ -1,0 +1,9 @@
+C3315 Repair and maintenance of transport equipment, except motor vehicles	C33.16 Repair and maintenance of civilian air and spacecraft	0.59511554
+This class includes the repair and maintenance of transport equipment of division 30, except motorcycles and bicycles.	This class includes the repair and maintenance of civilian aircraft and spacecraft.	0.6179538
+This class includes:	This class includes:	0.99999994
+- repair and maintenance of aircraft (except factory conversion, factory overhaul, factory rebuilding)	- repair and maintenance of civilian aircraft (except factory conversion, factory overhaul, factory rebuilding)	0.958956
+- repair and maintenance of aircraft engines	- repair and maintenance of civilian aircraft engines	0.9242806
+This class excludes:	This class excludes:	1.0000001
+- factory rebuilding of ships, see 3011	- factory overhaul and rebuilding of civilian aircraft, see 30.31	0.76148415
+- factory rebuilding of aircraft, see 3030	- factory overhaul of civilian aircraft engines, see 30.31	0.7834988
+- repair of ship or rail engines, see 3312	- repair and maintenance of military fighting vehicles, aircraft and spacecraft, see 33.18	0.6634455

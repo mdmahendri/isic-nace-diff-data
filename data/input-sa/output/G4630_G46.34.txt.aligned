@@ -1,0 +1,10 @@
+G4630 Wholesale of food, beverages and tobacco	G46.34 Wholesale of beverages	0.7106077
+This class includes:	This class includes:	1.0
+- wholesale of dairy products	- wholesale of alcoholic beverages	0.80213654
+- wholesale of fishery products	- wholesale of non-alcoholic beverages	0.7536541
+- wholesale of bakery products	- wholesale of fruit and vegetable juices	0.71274894
+- wholesale of beverages	- wholesale of prepared beverages in cans or bottles	0.68948704
+This class also includes:	This class also includes:	1.0
+- buying of wine in bulk and bottling without transformation	- buying of wine in bulk and bottling without transformation	1.0
+This class excludes:	This class excludes:	0.99999994
+- blending of wine or distilled spirits, see 1101, 1102 wholesale of livestock feeds, see 4620	- blending of wine, distilled spirits and other beverages (in order to make a new product), see 11.01, 11.02, 11.07	0.63744414

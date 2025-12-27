@@ -1,0 +1,17 @@
+A0170 Hunting, trapping and related service activities	A01.70 Hunting, trapping and related service activities	0.90061426
+This class includes:	This class includes:	1.0
+- hunting and trapping on a commercial basis	- hunting and trapping on a commercial basis	1.0000001
+- taking of wild animals (dead or alive) for food, fur, skin, for animal population control or for use in research, in zoos or as pets	- taking of wild animals (dead or alive) for i) food, fur or skin and ii) use in research, in zoos or as pets	0.90377796
+- production of fur skins, reptile or bird skins from hunting or trapping activities	- production of fur skins and reptile or bird skins from hunting or trapping activities	0.9786577
+- catching of frogs and toads in the wild	- catching of frogs and collecting of snails in the wild	0.90994877
+This class also includes:	This class also includes:	0.99999994
+- land-based catching of sea mammals such as walrus and seal	- land-based catching of sea mammals (e.g. walruses or seals)	0.8850963
+- hunting of foxes, minks and wolves to protect livestock	- hunting of foxes, minks and wolves to protect livestock	1.0000001
+- hunting for animal population control	- hunting for animal population control	1.0
+This class excludes:	This class excludes:	0.9999999
+- raising of game animals on ranching operations, see 014	- raising of game animals on ranching operations, see 01.4	0.8849389
+- pest control (including rabbits) in connection with agriculture, see 0161	- pest control (including rabbits) in connection with agriculture, see 01.61	0.92138004
+- catching of whales, see 0311	- whaling, see 03.11	0.6701766
+- production of hides and skins originating from slaughterhouses, see 1010	- production of hides and skins originating from slaughterhouses, see 10.11	0.90306
+- hunting for sport or recreation and related service activities, see 9319	- hunting for sport or recreation and related service activities, see 93.19	0.8899509
+- service activities to promote hunting and trapping, see 9499	- service activities to promote hunting and trapping, see 94.99	0.88687986

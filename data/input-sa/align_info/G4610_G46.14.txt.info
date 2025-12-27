@@ -1,0 +1,10 @@
+File: G4610_G46.14.txt
+File Elapsed Time: 0:00:00.882892
+Source file length: 16
+Target file length: 12
+Nodes: 252
+Gale-Church Elapsed Time: 2025-12-26 16:19:46.998862
+Align Elapsed Time: 0:07:22.735793
+Calc Anchors Elapsed Time: 2025-12-26 16:19:46.998863
+Greedy Algorithm Elapsed Time: 2025-12-26 16:19:46.998866
+Anchors: [[16, 12]]

@@ -1,0 +1,12 @@
+C2513 Manufacture of steam generators, except central heating hot water boilers	C25.21 Manufacture of central heating radiators, steam generators and boilers	0.7537589
+This class includes:	This class includes:	1.0000001
+- manufacture of radiators for central heating, non-electrically heated	- manufacture of radiators for central heating, non-electrically heated	1.0
+- manufacture of steam or other vapour generating boilers	- manufacture of steam or other vapour generating boilers	1.0
+- manufacture of auxiliary plant for use with steam or other vapour generating boilers, e.g. economisers, superheaters, steam collectors and accumulators	- manufacture of auxiliary plant for use with steam or other vapour generating boilers (e.g. economisers, super heaters, steam collectors and accumulators)	0.970522
+- manufacture of condensers for steam or other vapour power units - manufacture of nuclear reactors, except isotope separators	- manufacture of condensers for steam or other vapour power units - manufacture of nuclear reactors, except isotope separators	1.0000001
+- manufacture of marine or power boilers	- manufacture of marine or power boilers	1.0
+This class excludes:	This class excludes:	1.0000001
+- manufacture of electrical ovens and water heaters, see 2750	- manufacture of electrical ovens and water heaters, see 27.51	0.8246129
+- manufacture of boiler-turbine sets, see 2811	- manufacture of boiler turbine sets, see 28.11	0.8490106
+- manufacture of household heating equipment, see 2815	- manufacture of household heating equipment, see 28.21	0.8360964
+- manufacture of isotope separators, see 2829	- manufacture of isotope separators, see 28.99	0.84958893

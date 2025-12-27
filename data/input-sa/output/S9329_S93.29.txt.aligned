@@ -1,0 +1,36 @@
+S9329 Other amusement and recreation activities	S93.29 Amusement and recreation activities n.e.c.	0.7656598
+This class includes activities related to entertainment and recreation (except amusement parks and theme parks) not elsewhere classified:	This class includes activities related to entertainment and recreation (except amusement parks and theme parks) not elsewhere classified:	1.0
+- operation (exploitation) of coin-operated games	- operation (exploitation) of coin-operated games	1.0
+- rental of leisure and pleasure equipment as an integral part of recreational facilities	- rental of leisure and pleasure equipment as an integral part of recreational facilities	1.0
+- operation of mechanical rides, games and shows by independent providers, e.g. at fairgrounds, folk festivals and Christmas markets	- operation of mechanical rides, games and shows by independent providers (e.g. at fairgrounds, festivals, Christmas markets)	0.95575047
+- activities of beaches, including rental of facilities such as bathhouses, lockers, chairs etc.	- activities of beaches, including rental of facilities (e.g. bathhouses, beach chairs and umbrellas)	0.9179728
+- activities of independent animators in amusement and recreation facilities - operation of dance floors and ballrooms where beverage serving is not the main activity - operation of computer rooms for playing computer games	- activities of independent animators in amusement and recreation facilities - operation of dance floors and ballrooms where beverage serving is not the main activity - operation of computer rooms for playing computer games	1.0000001
+- operation of self-service amusement devices, e.g. rocking chairs/horses/cars/space ships	- operation of self-service amusement devices (e.g. rocking chairs/horses/cars/spaceships)	0.9662453
+- operation of airsoft and paintball courts	- operation of airsoft and paintball courts	1.0
+- games/experiences of reality virtual or geolocated	- operation of virtual reality or geolocated games/experiences	0.9393988
+- amusement and recreation activities related to the infrastructure of marinas	- amusement and recreation activities related to the infrastructure of marinas	1.0
+- operation of billiard halls	- operation of billiard halls	1.0
+- operation of escape rooms	- operation of escape rooms	0.99999994
+- operation of bowling halls	- operation of bowling alleys	0.96636987
+- light and sound shows	- creation and presentation of light and sound shows	0.82696867
+- activities of guides for underwater excursions	- activities of guides for underwater excursions	1.0
+- creation and presentation of fireworks	- creation and presentation of fireworks displays	0.97339904
+- operation of picnic grounds not associated with a nature reserve	- operation of picnic grounds	0.7049259
+- operation of laser games	- operation of laser games	1.0
+This class also includes:	This class also includes:	0.99999994
+- activities of producers or entrepreneurs of live amusement and recreation events, with or without facilities	- activities of producers or entrepreneurs of live amusement and recreation events, with or without facilities	1.0
+- technical planning, supply, setting up and operation of audiovisual equipment and special effects associated with the organisation of live amusement and recreation events	- technical planning, supply, setting-up and operation of audiovisual equipment and special effects associated with the organisation of non-artistic events	0.96815145
+This class excludes:	This class excludes:	0.9999999
+- operation of funiculars, cable cars and ski lifts that are not part of urban or suburban transit systems or not in combination with the operation of ski hills, see 4922	- transport by cableways, ski lifts and chairlifts, which may include the preparation of ski slopes, see 49.34	0.7214792
+- fishing cruises, see 5011, 5021	- fishing trips, see 50.10, 50.30	0.7364157
+- provision of space and facilities for short stay by visitors in recreational parks and forests and campgrounds, see 5530	- provision of space and facilities for short-stay visitors in recreational parks, forests and camping grounds, see 55.30	0.8992721
+- recreational camps, hunting and fishing camps, campsites and campgrounds, see 5530	- recreational camps, hunting and fishing camps, campsites and camping grounds, see 55.30	0.89862275
+- mobile food service activities, see 5610	- mobile food service activities, see 56.12	0.8161601
+- organisation of conferences, conventions and trade shows, see 8230	- activities of security personnel for events, concerts, fairs and exhibitions, see 80.01	0.6775409
+- technical planning, supply, setting up and operation of audiovisual equipment and special effects associated with the organisation of conferences, conventions and trade shows, see 8230	- organisation of conferences, conventions and trade shows, see 82.30	0.7061741
+- provision of services for fairs, events and exhibition that are part of public order and safety activities, see 8423	- provision of services for events, fairs and exhibitions that are part of public order and safety activities, see 84.24	0.8972715
+- theatrical and circus groups, see 9020	- theatrical and circus groups, see 90.20	0.8634267
+- operation of arts facilities, e.g. concert halls, music clubs, theatre halls and facilities in which artists perform, see 9031	- operation of arts facilities (e.g. concert halls, theatre halls, music venues, music clubs and similar facilities for live performances), see 90.31	0.88457483
+- operation of sports facilities, e.g. swimming pools and skating rings etc., see 9311	- operation of sports facilities (e.g. swimming pools, skating rinks), see 93.11	0.8800621
+- activities of watersports clubs (canoeing, rowing sailing, etc.), see 9312	- activities of water sports clubs (canoeing, rowing, sailing, etc.), see 93.12	0.9060487
+- technical planning, supply, setting up and operation of audiovisual equipment and special effects associated with the organisation of live sport events, see 9319	- activities of amusement parks and theme parks, see 93.21	0.48500854

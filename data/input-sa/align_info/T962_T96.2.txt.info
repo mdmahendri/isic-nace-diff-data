@@ -1,0 +1,10 @@
+File: T962_T96.2.txt
+File Elapsed Time: 0:00:00.155358
+Source file length: 2
+Target file length: 1
+Nodes: 12
+Gale-Church Elapsed Time: 2025-12-26 16:19:46.998862
+Align Elapsed Time: 0:12:25.261474
+Calc Anchors Elapsed Time: 2025-12-26 16:19:46.998863
+Greedy Algorithm Elapsed Time: 2025-12-26 16:19:46.998866
+Anchors: [[2, 1]]

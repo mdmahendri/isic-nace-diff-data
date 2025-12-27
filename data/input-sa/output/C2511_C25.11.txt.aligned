@@ -1,0 +1,11 @@
+C2511 Manufacture of structural metal products	C25.11 Manufacture of metal structures and parts of structures	0.8008919
+This class includes:	This class includes:	1.0000001
+- manufacture of metal frameworks or skeletons for construction and parts thereof (towers, masts, trusses, bridges etc.)	- manufacture of metal frameworks or skeletons for construction and parts thereof (towers, lattice masts, trusses, bridges, bridge sections, etc.)	0.9832595
+- manufacture of industrial frameworks in metal (frameworks for blast furnaces, lifting and handling equipment etc.)	- manufacture of industrial frameworks in metal (frameworks for blast furnaces, lifting and handling equipment, etc.)	0.9989847
+- manufacture of prefabricated buildings mainly of metal:	- manufacture of prefabricated buildings mainly of metal:	1.0
+* site huts, modular exhibition elements etc.	site huts, modular exhibition elements, etc.	0.88057196
+- manufacture of metal doors, windows and their frames, shutters and gates	- manufacture of supporting structures of metal (e.g. for lights or loudspeakers)	0.65984607
+This class excludes:	This class excludes:	1.0000001
+- manufacture of parts for marine or power boilers, see 2513	- manufacture of parts for marine or power boilers, see 25.21	0.84538805
+- manufacture of assembled railway track fixtures, see 2599	- manufacture of assembled railway track fixtures, see 25.99	0.82822466
+- manufacture of sections of ships, see 3011	- manufacture of sections of ships, see 30.11, 30.13	0.8103137

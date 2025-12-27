@@ -1,0 +1,20 @@
+E3900 Remediation and other waste management service activities	E39.00 Remediation activities and other waste management service activities	0.88750124
+This class includes:	This class includes:	0.99999994
+- decontamination of soils and groundwater at the place of pollution, either in situ or ex situ, using e.g. mechanical, chemical or biological methods	- decontamination of soils and groundwater at the place of pollution, either in situ or ex situ, using, e.g. mechanical, chemical or biological methods	0.99949586
+- decontamination of industrial plants or sites, including nuclear plants and sites	- decontamination of industrial plants or sites, including nuclear plants and sites	0.99999994
+- decontamination and cleaning up of surface water following accidental pollution, e.g. through collection of pollutants or through application of chemicals	- decontamination and cleaning up of surface water following accidental pollution (e.g. through collection of pollutants or through application of chemicals)	0.965356
+- cleaning up oil spills and other pollutions on land, in surface water, in ocean and seas, including coastal areas	- cleaning up oil spills and other pollutions on land, in surface water, in ocean and seas, including coastal areas	1.0
+- asbestos, lead paint, and other toxic material abatement	- asbestos, lead paint and other toxic material abatement	0.9983828
+- clearing of landmines , including detonation at the site	- clearing of landmines, etc., including detonation at the site	0.9426728
+- other specialized pollution-control activities	- other specialised pollution-control activities	0.9942579
+- carbon capture and storage activities	- carbon capture activities	0.8603102
+- Remediation of mining sites	- remediation of mining sites	0.9794586
+This class includes also:	This class also includes:	0.9993105
+- site remediation containment, control and monitoring services	- site remediation containment, control and monitoring services	1.0
+This class excludes:	This class excludes:	0.99999994
+- pest control in agriculture, see 0161	- pest control in agriculture, see 01.61	0.87492216
+- purification of water for water supply purposes, see 3600	- purification of water for water supply purposes, see 36.00	0.8802709
+- treatment of waste with recovery, see 3830	- treatment of waste with recovery, see 38.2	0.7931682
+- treatment of waste for disposal, see 382	- treatment of waste for disposal, see 38.3	0.8382226
+- outdoor sweeping and watering of streets, see 8129	- storage of captured carbon dioxide (CO2), see 38.32	0.43941966
+- civil engineering projects of rehabilitation of mining sites, see section F	- civil engineering projects for the rehabilitation of mining sites, see section F	0.9960718

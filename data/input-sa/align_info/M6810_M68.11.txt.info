@@ -1,0 +1,10 @@
+File: M6810_M68.11.txt
+File Elapsed Time: 0:00:00.721940
+Source file length: 17
+Target file length: 12
+Nodes: 266
+Gale-Church Elapsed Time: 2025-12-26 16:19:46.998862
+Align Elapsed Time: 0:08:57.986379
+Calc Anchors Elapsed Time: 2025-12-26 16:19:46.998863
+Greedy Algorithm Elapsed Time: 2025-12-26 16:19:46.998866
+Anchors: [[17, 12]]

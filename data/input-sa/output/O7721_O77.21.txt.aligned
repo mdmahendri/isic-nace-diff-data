@@ -1,0 +1,11 @@
+O7721 Rental and leasing of recreational and sports goods	O77.21 Rental and leasing of recreational and sports goods	0.9068046
+This class includes rental of recreational and sports equipment e.g.:	This class includes the rental of recreational and sports equipment, for example:	0.9903345
+- pleasure boats, canoes, sailboats and yachts without operator	- pleasure boats, moveable houseboats, canoes, sailing boats and yachts without an operator	0.94743764
+- bicycles, including bicycles with electrical assistance	- bicycles, including bicycles with electrical assistance	1.0
+- skis	- skis	1.0
+This class excludes:	This class excludes:	1.0
+- rental of pleasure boats and sailing boats with crew, see 5011, 5021	- rental of pleasure boats and sailing-boats with crew, see 50.10, 50.30	0.8253663
+- rental of video tapes and discs, see 7729	- rental of videotapes and discs, see 77.22	0.8187199
+- rental of other personal and household goods, see 7729	- rental of other personal and household goods, see 77.22	0.85624826
+- rental and leasing of water transport equipment for passengers or freight, e.g. boats, ships, hovercraft, without operator, see 7730	- rental and leasing of water transport equipment for passengers or freight (e.g. boats, ships, hovercraft, without an operator), see 77.34	0.89460194
+- rental of leisure and pleasure equipment as an integral part of recreational facilities, see 9329	- rental of leisure and pleasure equipment as an integral part of recreational facilities, see 93.29	0.91463614

@@ -1,0 +1,28 @@
+C3290 Other manufacturing n.e.c.	C32.99 Other manufacturing n.e.c.	0.84226775
+This class includes:	This class includes:	0.99999994
+- manufacture of protective safety equipment	- manufacture of protective safety equipment, e.g.:	0.8811344
+* manufacture of linemen's safety belts and other belts for occupational use	linemens safety belts and other belts for occupational use	0.7452997
+* manufacture of cork life preservers	cork life preservers	0.6419965
+* manufacture of plastics hard hats and other personal safety equipment of plastics (e.g. athletic helmets)	safety headgear and other personal safety equipment (e.g. protective face shields/visors, of plastics, such as athletic helmets)	0.8460553
+* manufacture of fire-fighting protection suits	fire-protective clothing	0.64058137
+* manufacture of metal safety headgear and other metal personal safety devices	metal safety headgear and other metal personal safety devices	0.8315439
+* manufacture of ear and noise plugs (e.g. for swimming and noise protection)	earplugs and noise plugs (e.g. for swimming and noise protection)	0.8478599
+* manufacture of gas masks	gas masks	0.65525985
+- manufacture of shoe and clothes brushes	biohazard protective clothing and accessories	0.45466703
+- manufacture of pens and pencils of all kinds whether or not mechanical	- manufacture of pens and pencils of all kinds, whether or not mechanical	0.9948737
+- manufacture of pencil leads	- manufacture of pencil leads	1.0
+- manufacture of date, sealing or numbering stamps, hand-operated devices for printing, or embossing labels, hand printing sets, prepared typewriter ribbons and inked pads	- manufacture of date, sealing or numbering stamps, hand-operated devices for printing, or embossing labels, hand-printing sets, prepared typewriter ribbons and inked pads	0.9998012
+- manufacture of globes	- manufacture of globes	1.0
+- manufacture of umbrellas, sun-umbrellas, walking sticks, seat-sticks	- manufacture of umbrellas, sun umbrellas, walking sticks, seat-sticks	0.99881566
+- manufacture of buttons, press-fasteners, snap-fasteners, press-studs, slide fasteners	- manufacture of buttons, press fasteners, snap-fasteners, press studs, slide fasteners	0.9985677
+- manufacture of electronic cigarettes	- manufacture of electronic cigarettes (vapes)	0.89885014
+- manufacture of cigarette lighters and other lighters	- manufacture of cigarette lighters and other lighters	1.0000001
+- manufacture of articles of personal use: smoking pipes, scent sprays, vacuum flasks and other vacuum vessels for personal or household use, wigs, false beards, eyebrows	- manufacture of articles of personal use (e.g. smoking pipes, scent sprays, vacuum flasks and other vacuum vessels for personal or household use, wigs, false beards, eyebrows)	0.9476541
+- manufacture of miscellaneous articles: candles, tapers and the like; bouquets, wreaths and floral baskets; artificial flowers, fruit and foliage; jokes and novelties; hand sieves and hand riddles; tailors' dummies; burial caskets etc.	- manufacture of miscellaneous articles (e.g. candles, tapers, etc.; artificial flowers, fruits and foliage; jokes and novelties; hand sieves and hand riddles; tailors dummies; burial coffins) - manufacture of floral baskets, bouquets, wreaths and similar articles	0.96577096
+- taxidermy activities	- taxidermy activities	1.0
+This class excludes:	This class excludes:	0.9999999
+- manufacture of lighter wicks, see 1399	- manufacture of lighter wicks, see 13.96	0.7789344
+- manufacture of workwear and service apparel (e.g. laboratory coats, work overalls, uniforms), see 1410	- manufacture of workwear, see 14.23	0.6582232
+- manufacture of paper novelties, see 1709	- manufacture of paper novelties, see 17.25	0.7573006
+- manufacture of plastic novelties, see 2220	- manufacture of plastic headgear excluding safety headgear, see 22.26	0.6076155
+- manufacture of individual protective masks, see 3250	- manufacture of individual protective masks (e.g. FFP2, FFP3, surgical masks), see 32.50	0.7079655

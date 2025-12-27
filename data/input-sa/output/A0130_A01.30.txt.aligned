@@ -1,0 +1,9 @@
+A0130 Plant propagation	A01.30 Plant propagation	0.85652864
+This class includes the production of all vegetative planting materials including cuttings, suckers and seedlings for direct plant propagation or to create plant grafting stock into which selected scion is grafted for eventual planting to produce crops.	This class includes the production of all vegetative planting materials, including cuttings, suckers and seedlings either for direct plant propagation or to create plant grafting stock into which a selected scion is grafted for eventual planting to produce crops.	0.9965823
+This class includes:	This class includes:	1.0
+- growing of plants for planting - growing of plants for ornamental purposes, including turf for transplanting	- growing of plants for planting - growing of plants for ornamental purposes, including turf for transplanting	1.0000001
+- growing of live plants for bulbs, tubers and roots; cuttings and slips; mushroom spawn	- growing of live plants for bulbs, tubers and roots, cuttings and slips, and mushroom spawn	0.95850873
+- operation of tree nurseries, except forest tree nurseries.	- operation of tree nurseries, except forest tree nurseries	0.9673842
+This class excludes:	This class excludes:	0.99999994
+- growing of plants for the purpose of seed production, see 011, 012	- growing of plants for the purpose of seed production, see 01.1, 01.2	0.8745618
+- operation of forest tree nurseries, see 0210	- operation of forest tree nurseries, see 02.10	0.8744945

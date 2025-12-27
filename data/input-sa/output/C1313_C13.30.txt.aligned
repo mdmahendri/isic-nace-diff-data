@@ -1,0 +1,14 @@
+C1313 Finishing of textiles	C13.30 Finishing of textiles	0.84323186
+This class includes finishing of textiles and wearing apparel, i.e. bleaching, dyeing, dressing and similar activities.	This class includes finishing of textiles and wearing apparel, in other words, bleaching, dyeing, dressing and similar activities.	0.98344725
+This class includes:	This class includes:	1.0
+- bleaching and dyeing of textile fibres, yarns, fabrics and textile articles, including wearing apparel	- bleaching and dyeing of textile fibres, yarns, fabrics and textile articles, including wearing apparel	1.0
+- dressing, drying, steaming, shrinking, mending, sanforising, mercerising of textiles and textile articles, including wearing apparel	- dressing, drying, steaming, shrinking, mending, sanforising, mercerising of textiles and textile articles, including wearing apparel	0.99999994
+This class also includes:	This class also includes:	0.9999999
+- bleaching of jeans	- bleaching of jeans	1.0
+- pleating and similar work on textiles	- pleating and similar work on textiles	1.0
+- waterproofing, coating, rubberising, or impregnating purchased garments	- waterproofing, coating, rubberising, or impregnating purchased garments	1.0
+- printing of textile fabrics as an intermediate process in manufacture of textiles	- printing of textile fabrics as an intermediate process within the manufacture of textiles	0.9952458
+This class excludes:	This class excludes:	1.0000001
+- printing, including silkscreen printing, on textiles and wearing apparel, not as an intermediate process in manufacture of textiles, see 1812	- printing, including silkscreen printing, on textiles and wearing apparel, not as an intermediate process within the manufacture of textiles, see 18.12	0.9232309
+- laser engraving on textiles, see 1812	- laser engraving on textiles, see 18.12	0.8307033
+- manufacture of textile fabric impregnated, coated, covered or laminated with rubber, where rubber is the primary constituent, see 2219	- manufacture of textile fabric impregnated, coated, covered or laminated with rubber where rubber is the primary constituent, see 22.12	0.9174665

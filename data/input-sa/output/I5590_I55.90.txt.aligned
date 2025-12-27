@@ -1,0 +1,13 @@
+I5590 Other accommodation n.e.c.	I55.90 Other accommodation	0.813654
+This class includes the provision of temporary accommodation in single or shared rooms or dormitories for students, seasonal workers and other individuals.	This class includes the provision of temporary accommodation in homes, flats or apartments, as well as single or shared rooms or dormitories for students, seasonal workers and other individuals.	0.9374243
+This class includes accommodation in:	This class includes accommodation in:	1.0000001
+- worker dormitories	- dormitories for workers	0.9460463
+- boarding houses	- boarding houses	1.0000001
+- student accommodation provided for less than a year	- student accommodation provided for less than one year at a time	0.9650639
+- operation of railways sleeping cars when not operated by railway companies	- railway sleeping cars when not operated by railway companies	0.95976937
+This class excludes	This class excludes:	0.9000494
+- operation of railway sleeping cars as an integrated operation of railway companies, see 4911	- operation of railway sleeping cars as an integrated operation of railway companies, see 49.11	0.9054142
+- operation of cruise boats, see 5011 and 5021	- operation of cruise ships, see 50.10, 50.30	0.7574848
+- intermediaries for accommodation, see 5540	- intermediaries for accommodation, see 55.40	0.8146243
+- every accommodation for a period of one year or longer, see 6810	- all forms of accommodation for a period of one year or longer, see 68.20	0.8335334
+- the activities of combined activities of accommodation, travel and food, i.e. travel agencies and tour operators, see 7911, 7912	- intermediation or sale of a combination of accommodation, travel and food, i.e. travel agencies and tour operators, see 79.11, 79.12	0.82485425

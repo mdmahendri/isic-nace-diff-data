@@ -1,0 +1,8 @@
+C2619 Manufacture of other electronic components and boards	C26.12 Manufacture of loaded electronic boards	0.6852782
+This class includes:	This class includes:	1.0
+- manufacture of diodes, transistors and related discrete devices - manufacture of inductors (e.g. chokes, coils, transformers), electronic component type	- manufacture of loaded printed circuit boards consisting of conductor elements, contacts and other passive elements	0.71503186
+- loading of components onto printed circuit boards	- loading of passive elements (components) onto printed circuit boards	0.85685456
+- manufacture of printer cables, monitor cables, USB cables, connectors etc.	- manufacture of interface cards (e.g. sound, video, controllers, network, modems) loaded with passive elements	0.5636889
+This class excludes:	This class excludes:	0.9999999
+- printing of smart cards, see 1811	- printing of smart cards, see 18.12	0.7513056
+- manufacture of solar cells , solar panels and photovoltaic inverters, see 2611	- manufacture of bare printed circuit boards, consisting only of conductor elements and contacts, see 26.11	0.6115689

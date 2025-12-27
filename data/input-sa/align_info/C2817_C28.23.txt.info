@@ -1,0 +1,10 @@
+File: C2817_C28.23.txt
+File Elapsed Time: 0:00:00.760333
+Source file length: 21
+Target file length: 20
+Nodes: 506
+Gale-Church Elapsed Time: 2025-12-26 16:19:46.998862
+Align Elapsed Time: 0:09:26.176793
+Calc Anchors Elapsed Time: 2025-12-26 16:19:46.998863
+Greedy Algorithm Elapsed Time: 2025-12-26 16:19:46.998866
+Anchors: [[21, 20]]

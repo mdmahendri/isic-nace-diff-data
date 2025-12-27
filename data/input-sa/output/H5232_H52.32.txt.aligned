@@ -1,0 +1,16 @@
+H5232 Intermediation service activities for passenger transportation	H52.32 Intermediation service activities for passenger transportation	0.89602387
+This class includes the intermediation of passenger transportation, by bringing clients and service providers together for a fee or commission, without the intermediary providing the passenger transportation services that are intermediated.	This class includes the intermediation of passenger transport, by bringing clients and service providers together for a fee or commission, without the intermediary providing the passenger transport services that are intermediated.	0.9993308
+These intermediation activities can be carried out on digital platforms or through non-digital channels (face-to-face including door-to-door, phone, mail, etc.).	These intermediation activities can be carried out on digital platforms or through non-digital channels (including face-to-face, door-to-door, telephone, mail, and so on).	0.9904517
+The fee or commission can be received from either the client or the provider of the passenger transportation service.	The fee or commission can be received from either the client or the provider of the passenger transport service.	0.9993564
+Revenue for the intermediation activities can include other sources of income, such as revenues from advertising.	Revenue for the intermediation activities can include other sources of income (for example, revenues from the sale of advertising space).	0.8453631
+This class includes:	This class includes:	0.99999994
+- operation of on-line ridesharing platforms that allow passengers to book a ride	- operation of online ride-sharing platforms that allow passengers to book a ride	0.97962654
+- provision of intermediation services for the purchase of land, water or air transportation for passengers - brokerage of passenger seats in ships and aircrafts space	- provision of intermediation services for the purchase of land, water or air transport for passengers - brokerage of passenger seats in ships and aircraft space	0.9994245
+This class includes also:	This class also includes:	0.9993104
+- intermediation of transportation by taxi dispatch services, without providing the transport service themselves	- intermediation of transport by radio taxi services, without providing transport	0.9212012
+- reservation services for passenger transportation	- fee-based reservation services for passenger transport	0.92430305
+This class excludes:	This class excludes:	0.99999994
+- taxi operation and other passenger road transport, see 4922	- taxi operation and other passenger road transport, see 49.3	0.8485142
+- brokerage of freight transportation in ship and aircraft space, see 5231	- rail, ship and aircraft freight brokerage, see 52.31	0.79520047
+- operation of on-line platform activities that allow people to rent a vehicle (car, bike, scooter etc.) which they then drive, see 7751	- operation of online platforms for the rental of vehicles (cars, motorcycles, etc.) without a driver, see 77.51	0.8211894
+- units that provide reservation services alongside additional travel advice or expertise, see 7911	- units that provide reservation services alongside additional travel advice or expertise, see 79.11	0.90029764

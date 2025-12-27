@@ -1,0 +1,10 @@
+File: C33_C33.txt
+File Elapsed Time: 0:00:01.044515
+Source file length: 14
+Target file length: 16
+Nodes: 288
+Gale-Church Elapsed Time: 2025-12-26 16:19:46.998862
+Align Elapsed Time: 0:07:02.551493
+Calc Anchors Elapsed Time: 2025-12-26 16:19:46.998863
+Greedy Algorithm Elapsed Time: 2025-12-26 16:19:46.998866
+Anchors: [[14, 16]]

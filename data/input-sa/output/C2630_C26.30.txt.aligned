@@ -1,0 +1,24 @@
+C2630 Manufacture of communication equipment	C26.30 Manufacture of communication equipment	0.89240336
+This class includes the manufacture of telephone and data communications equipment used to move signals electronically through wired or wireless networks, such as radio and television broadcast and wireless communications equipment.	This class includes the manufacture of telephone and data communication equipment used to move signals electronically through wired or wireless networks (for example, radio and television broadcasts, wireless communication equipment).	0.90735304
+This class includes:	This class includes:	0.99999994
+- manufacture of central office switching equipment	- manufacture of central office switching equipment	1.0
+- manufacture of cordless telephones - manufacture of private branch exchange (PBX) equipment - manufacture of telephone and facsimile equipment, including telephone answering machines	- manufacture of cordless telephones - manufacture of private branch exchange (PBX) equipment - manufacture of telephone and facsimile equipment, including telephone answering machines	1.0000001
+- manufacture of data communications equipment, such as bridges, routers, and gateways	- manufacture of data communication equipment (e.g. bridges, routers, gateways)	0.94252586
+- manufacture of transmitting and receiving antenna	- manufacture of transmitting and receiving antenna	0.9999999
+- manufacture of cable television equipment	- manufacture of cable television equipment	1.0
+- manufacture of pagers	- manufacture of pagers	1.0
+- manufacture of cellular phones	- manufacture of mobile telephones	0.97651803
+- manufacture of mobile communication equipment	- manufacture of mobile communication equipment	1.0
+- manufacture of radio and television studio and broadcasting equipment, including television cameras - manufacture of modems, carrier equipment - manufacture of radio and television transmitters	- manufacture of radio and television studio and broadcasting equipment, including television cameras - manufacture of modems, carrier equipment - manufacture of radio and television transmitters	1.0000001
+- manufacture of communication devices using infrared signal (e.g. remote controls)	- manufacture of communication devices using infra-red signals (e.g. remote controls)	0.984414
+This class also includes:	This class also includes:	0.99999994
+- manufacture of smart watches	- manufacture of smartwatches	0.94468284
+This class excludes:	This class excludes:	0.9999999
+- manufacture of electronic components and subassemblies used in communications equipment, including computer modems, see 262	- manufacture of electronic components and sub-assemblies used in communication equipment, including computer modems, see 26.12	0.91295546
+- manufacture of printed circuit boards loaded with passive elements, see 262	- manufacture of printed circuit boards loaded with passive elements, see 26.12	0.8778884
+- manufacture of computers and computer peripheral equipment, see 263	- manufacture of computers and computer peripheral equipment, see 26.20	0.84561455
+- manufacture of consumer audio and video equipment, see 265	- manufacture of consumer audio and video equipment, see 26.40	0.8764046
+- manufacture of burglar and fire alarm systems, sending signals to a control station, see 2652	- manufacture of burglar- and fire-alarm systems, sending signals to a control station, see 26.51	0.8411003
+- manufacture of GPS devices, see 2652	- manufacture of global positioning system (GPS) devices, see 26.51	0.7400999
+- manufacture of electronic scoreboards, see 2790	- manufacture of electronic scoreboards, see 27.90	0.81828415
+- manufacture of traffic lights, see 2790	- manufacture of traffic lights, see 27.90	0.81330323

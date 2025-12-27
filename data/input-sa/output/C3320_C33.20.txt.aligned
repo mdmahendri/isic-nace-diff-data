@@ -1,0 +1,23 @@
+C3320 Installation of industrial machinery and equipment	C33.20 Installation of industrial machinery and equipment	0.914373
+This class includes the specialised installation of machinery.	This class includes the specialised installation of machinery.	1.0
+However, the installation of equipment that forms an integral part of buildings or similar structures, such as installation of escalators, electrical wiring, burglar alarm systems or air-conditioning systems, is classified as construction.	However, the installation of equipment that forms an integral part of buildings or similar structures (for example, installation of escalators, electrical wiring, burglar-alarm systems or air-conditioning systems) is classified as construction.	0.9068166
+This class includes:	This class includes:	0.99999994
+- installation of industrial machinery in industrial plant	- installation of industrial machinery in industrial plant	1.0
+- installation and assembly of industrial process control equipment	- installation and assembly of industrial process control equipment	1.0
+- installation of other industrial equipment, e.g.:	- installation of other industrial equipment, e.g.:	1.0
+communications equipment	communication equipment	0.99640644
+mainframe and similar computers	mainframe and similar computers	1.0
+irradiation and electromedical equipment etc.	irradiation and electromedical equipment, etc.	0.99669707
+- dismantling large-scale machinery and equipment	- dismantling large-scale machinery and equipment	0.9999999
+- activities of millwrights	- activities of millwrights	0.99999994
+- machine rigging - installation of bowling alley equipment - installation of warehouse machinery and equipment	- machine rigging - installation of bowling alley equipment - installation of warehouse machinery and equipment	1.0000001
+This class includes also:	This class also includes:	0.9993104
+- installation of large-scale shelving, warehouses (not as an integral part of building)	- installation of large-scale shelving, warehouses (not as an integral part of building)	1.0
+- Installation of stand-alone charging stations	- installation of stand-alone charging facilities	0.95919216
+This class excludes:	This class excludes:	0.99999994
+- installation of charging stations in wall-boxes, see Section F	- installation of charging facilities in wall-boxes, see section F	0.983686
+- construction of complete warehouses, see 4100	- construction of complete warehouses, see 41.00	0.8571973
+- installation of elevators, escalators, automated doors, vacuum cleaning systems etc., see 4329	- installation of elevators, escalators, automated doors, vacuum cleaning systems, etc., see 43.24	0.88933456
+- installation of doors, staircases, shop fittings, furniture etc., see 4330	- installation of doors, staircases, shopfittings, furniture, etc., see 43.32	0.87828124
+- erection of structural steel for warehouse storage shelves, see 4390	- erection of structural steel for warehouse storage shelves, see 43.42	0.8242625
+- installation (setting-up) of personal computers, see 629	- installation (setting-up) of personal computers, see 62.90	0.87900805

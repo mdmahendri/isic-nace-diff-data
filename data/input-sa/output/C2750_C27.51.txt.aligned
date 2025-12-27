@@ -1,0 +1,34 @@
+C2750 Manufacture of domestic appliances	C27.51 Manufacture of electric domestic appliances	0.78883183
+This class includes:	This class includes:	0.99999994
+- manufacture of domestic electric appliances:	- manufacture of domestic electric appliances:	0.99999994
+* refrigerators	refrigerators	0.7885865
+* freezers	freezers	0.7670101
+* dishwashers	dishwashers	0.754773
+* washing and drying machines	washing and drying machines	0.8432332
+* vacuum cleaners	vacuum cleaners	0.7501089
+* floor polishers	floor polishers	0.7937059
+* waste disposers	waste disposal units	0.6043248
+* grinders, blenders, juice squeezers	grinders, blenders, juice squeezers	0.8771561
+* tin openers	tin openers	0.7917898
+* electric shavers, electric toothbrushes and other electric personal care device	electric shavers, electric toothbrushes and other electric personal care devices	0.91518223
+* knife sharpeners	knife sharpeners	0.77673876
+* ventilating or recycling hoods	ventilating or recycling hoods	0.851084
+- manufacture of domestic electrothermic appliances:	- manufacture of domestic electrothermic appliances:	0.99999994
+* electric water heaters	electric water heaters	0.8359908
+* electric blankets	electric blankets	0.7809106
+* electric dryers, combs, brushes, curlers	electric hairdryers, combs, brushes, curlers	0.88332975
+* electric smoothing irons	electric smoothing irons	0.8036482
+* space heaters and household-type fans, portable	space heaters and household-type fans, portable	0.90495396
+* electric ovens	electric ovens	0.8127966
+* microwave ovens	microwave ovens	0.81087756
+* cookers, hotplates	cookers, hotplates	0.82572967
+* toasters	toasters	0.74710214
+* electric barbecue	electric barbecues	0.78496426
+* coffee or tea makers	coffee or tea makers	0.8585708
+* fry pans, roasters, grills, hoods	frying pans, roasters, hoods	0.7769877
+* electric heating resistors etc.	electric heating resistors, etc.	0.8406616
+* non-electric space heaters, cooking ranges, grates, stoves, water heaters, cooking appliances, plate warmers	table, floor, wall, window, ceiling or roof fans	0.48447117
+This class excludes:	This class excludes:	0.9999999
+- manufacture of commercial and industrial refrigerators and freezers, room air-conditioners, attic fans, permanent mount space heaters and commercial ventilation and exhaust fans, commercial-type cooking equipment; commercial-type laundry, dry-cleaning and pressing equipment; commercial, industrial and institutional vacuum cleaners, see division 28	- manufacture of commercial and industrial refrigerators and freezers, room air conditioners, attic fans, permanently mounted space heaters, commercial ventilation and exhaust fans, commercial-type cooking equipment; commercial-type laundry, dry-cleaning and pressing equipment; commercial, industrial and institutional vacuum cleaners, see division 28	0.9971024
+- manufacture of household-type sewing machines, see 2826	- manufacture of household-type sewing machines, see 28.94	0.8315278
+- installation of central vacuum cleaning systems, 4329	- installation of central vacuum cleaning systems, see 43.24	0.7674628

@@ -1,0 +1,14 @@
+C1040 Manufacture of vegetable and animal oils and fats	C10.41 Manufacture of oils and fats	0.7511256
+This class includes:	This class includes:	0.99999994
+- manufacture of crude vegetable oils: olive oil, soya-bean oil, groundnut oil, palm oil, sunflower-seed oil, cotton-seed oil, rape, colza or mustard oil, linseed oil etc.	- manufacture of crude and refined vegetable oils (e.g. olive oil, soya-bean oil, hemp oil, sunflower seed oil, rape oil)	0.86545426
+- manufacture of non-defatted flour or meal of oilseeds, oil nuts or oil kernels	- manufacture of non-defatted flour or meal of oilseeds, oil nuts or oil kernels	1.0
+- processing of vegetable oils: blowing, boiling, dehydration, hydrogenation etc.	- processing of vegetable oils (e.g. blowing, boiling, dehydration, hydrogenation)	0.91386473
+This class also includes:	This class also includes:	0.9999999
+- manufacture of non-edible animal oils and fats	- manufacture of non-edible animal oils and fats	1.0
+- extraction of fish and marine mammal oils	- extraction of fish and marine mammal oils	1.0
+- production of cotton linters, oilcakes and other residual products of oil production.	- production of cotton linters, oilcakes and other residual products of oil production	0.979811
+This class excludes:	This class excludes:	0.99999994
+- rendering and refining of lard and other edible animal fats, see 1010	- rendering and refining of lard and other edible fats of bovine animals, sheep, goats or pigs, see 10.11	0.81531346
+- wet corn milling, see 1062	- wet corn milling, see 10.62	0.83306587
+- production of essential oils, see 2029	- manufacture of essential oils, see 20.59	0.79551625
+- treatment of oil and fats by chemical processes, see 2029	- treatment of oil and fats by chemical processes, see 20.59	0.87206745

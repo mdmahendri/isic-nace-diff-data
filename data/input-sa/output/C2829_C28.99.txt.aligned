@@ -1,0 +1,22 @@
+C2829 Manufacture of other special-purpose machinery	C28.99 Manufacture of other special-purpose machinery n.e.c.	0.8155099
+This class includes:	This class includes:	0.99999994
+- manufacture of dryers for wood, paper pulp, paper or paperboard - manufacture of machinery producing articles of paper or paperboard	- manufacture of dryers for wood, paper pulp, paper or paperboard and other materials (except for agricultural products and textiles)	0.84713167
+- manufacture of printing and bookbinding machines and machines for activities supporting printing on a variety of materials	- manufacture of printing and bookbinding machines, and machines for activities supporting printing on a variety of materials	0.9945762
+- manufacture of machinery for producing tiles, bricks, shaped ceramic pastes, pipes, graphite electrodes, blackboard chalk, foundry moulds etc. - manufacture of semi-conductor manufacturing machinery	- manufacture of machinery for producing tiles, bricks, shaped ceramic pastes, pipes, graphite electrodes, blackboard chalk, etc. - manufacture of semiconductor manufacturing machinery	0.98939615
+- manufacture of additive manufacturing machinery	- manufacture of machines for forming foundry moulds	0.79666996
+- manufacture of industrial robots performing multiple tasks for special purposes	- manufacture of industrial robots performing multiple tasks for special purposes	1.0000001
+- manufacture of diverse special-purpose machinery and equipment:	- manufacture of diverse special-purpose machinery and equipment, e.g.:	0.94897866
+* machines to assemble electric or electronic lamps, tubes (valves) or bulbs	machines to assemble electric or electronic lamps, tubes (valves) or bulbs	0.9050312
+* machines for production or hot-working of glass or glassware, glass fibre or yarn	machines for the production or hot working of glass or glassware, glass fibres or yarn	0.8990189
+* machinery or apparatus for isotopic separation	machinery or apparatus for isotopic separation	0.89450735
+- manufacture of tire alignment and balancing equipment; balancing equipment (except wheel balancing)	- manufacture of tyre alignment and balancing equipment; balancing equipment (except wheel balancing)	0.9992423
+- manufacture of central greasing systems	- manufacture of central greasing systems	1.0000001
+- manufacture of aircraft launching gear, aircraft carrier catapults and related equipment	- manufacture of aircraft launching gear, aircraft carrier catapults and related equipment	1.0
+- manufacture of automatic bowling alley equipment (e.g. pin-setters)	- manufacture of automatic bowling alley equipment (e.g. pin-setter)	0.99396014
+- manufacture of roundabouts, swings, shooting galleries and other fairground amusements	- manufacture of roundabouts, swings, shooting galleries and other fairground amusements	1.0
+This class excludes:	This class excludes:	0.9999999
+- manufacture of household appliances, see 2750	- manufacture of household appliances, see 27.5	0.8151096
+- manufacture of photocopy machines etc., see 2817	- manufacture of photocopy machines, etc., see 28.23	0.85260344
+- manufacture of machinery or equipment to work hard rubber, hard plastics or cold glass, see 2822	- manufacture of machinery or equipment to work hard rubber, hard plastics or cold glass, see 28.42	0.9349632
+- manufacture of ingot moulds, see 2823	- manufacture of ingot moulds, see 28.91	0.7691623
+- manufacture of textile printing machinery, see 2826	- manufacture of machines for additive manufacturing, see 28.97	0.7292639

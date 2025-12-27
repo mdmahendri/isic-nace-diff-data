@@ -1,0 +1,8 @@
+O7911 Travel agency activities	O79.12 Tour operator activities	0.7428161
+This class includes:	This class includes:	1.0
+- activities of agencies, primarily engaged in selling packaged tours and cruises to the general public or to commercial clients:	- arranging, assembling and marketing packaged tours:	0.59035134
+reservation services for pre-packaged tours, domestic and international	pre-packaged tours, domestic (national) and international	0.80158496
+reservation services for custom packaged tours for groups, domestic or international	customised tour packages for groups, domestic (national) and international	0.8197459
+- intermediation activities in concluding contracts for provision of tourist services from tour operators This class also includes: - intermediation of packaged travel services in the destination	Tour operators are engaged in the operation of tour packages that are sold by travel agencies, including arranging and assembling different services in the packaged tour.	0.64904606
+This class excludes:	This class excludes:	1.0000001
+- selling of travel boxes: form of distribution of a service linked to travel, but a deferred service, which can be of any nature: hotels, restaurants, care, leisure activities, etc.), see 8299 - activities of factual and legal actions related to the conclusion of contracts for provision of tourist services, at the request of the customer, see division 69	- sale of packaged tours, see 79.11	0.4686631

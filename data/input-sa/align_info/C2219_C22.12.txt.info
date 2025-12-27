@@ -1,0 +1,10 @@
+File: C2219_C22.12.txt
+File Elapsed Time: 0:00:01.441074
+Source file length: 40
+Target file length: 39
+Nodes: 1722
+Gale-Church Elapsed Time: 2025-12-26 16:19:46.998862
+Align Elapsed Time: 0:05:02.122790
+Calc Anchors Elapsed Time: 2025-12-26 16:19:46.998863
+Greedy Algorithm Elapsed Time: 2025-12-26 16:19:46.998866
+Anchors: [[40, 39]]

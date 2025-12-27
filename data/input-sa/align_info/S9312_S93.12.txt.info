@@ -1,0 +1,10 @@
+File: S9312_S93.12.txt
+File Elapsed Time: 0:00:02.017692
+Source file length: 28
+Target file length: 27
+Nodes: 870
+Gale-Church Elapsed Time: 2025-12-26 16:19:46.998862
+Align Elapsed Time: 0:09:16.545705
+Calc Anchors Elapsed Time: 2025-12-26 16:19:46.998863
+Greedy Algorithm Elapsed Time: 2025-12-26 16:19:46.998866
+Anchors: [[28, 27]]

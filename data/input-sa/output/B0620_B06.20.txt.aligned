@@ -1,0 +1,14 @@
+B0620 Extraction of natural gas	B06.20 Extraction of natural gas	0.87173253
+This class includes:	This class includes:	0.99999994
+- production of crude gaseous hydrocarbon (natural gas)	- production of crude gaseous hydrocarbon (natural gas)	1.0
+- extraction of natural gas liquids from field facilities	- extraction of condensates	0.5924425
+- draining and separation of liquid hydrocarbon fractions - gas desulphurisation	- draining and separation of liquid hydrocarbon fractions - gas desulphurisation	1.0000001
+- extraction of coal mine methane .	- extraction of coal mine methane	0.9396347
+This class also includes:	This class also includes:	0.99999994
+- mining of hydrocarbon liquids, obtained through liquefaction or pyrolysis	- mining of hydrocarbon liquids obtained through liquefaction or pyrolysis	0.99120736
+- extraction of coal seam gas.	- fracking to extract coal seam gas	0.8345704
+This class excludes:	This class excludes:	1.0
+- support activities for oil and natural gas extraction, see 0910	- support activities for oil and natural gas extraction, see 09.10	0.913523
+- oil and gas exploration, see 0910 production of natural gas liquids from crude petroleum (crude oil), and recovery of liquefied petroleum gases in the refining of petroleum, see 1920	- oil and gas exploration, see 09.10 - production of natural gas liquids from crude petroleum (crude oil), see 19.20 - recovery of liquefied petroleum gases in the refining of petroleum, see 19.20	0.86656964
+- manufacture of industrial gases, see 2011	- manufacture of industrial gases, see 20.11	0.8301945
+- operation of pipelines, see 4930	- operation of pipelines, see 49.50	0.83458066

@@ -1,0 +1,18 @@
+Q8532 Vocational secondary education	Q85.32 Vocational secondary education	0.8838385
+This class includes provision of education typically emphasising subject-matter specialisation and instruction in both theoretical background and practical skills generally associated with present or prospective employment.	This class includes the provision of education typically emphasising subject-matter specialisation and instruction in both a theoretical background and practical skills that are generally associated with present or prospective employment.	0.99705386
+The aim of a programme can vary from preparation for a general field of employment to a very specific job.	The aim of a programme can vary from preparation for a general field of employment to a very specific job.	0.99999994
+This class includes:	This class includes:	0.99999994
+- technical and vocational education below the level of tertiary education (as defined in 854)	- technical and vocational education below the level of post-secondary non-tertiary education as defined in 85.33	0.8395157
+This class also includes programmes corresponding to the definition of formal education and training as for instance in the following fields:	This class also includes programmes corresponding to the definition of formal education and training as, for example, in the following fields:	0.9981963
+- tourist guide instruction	- instruction for tourist guides	0.95193255
+- instruction for chefs, hoteliers and restaurateurs	- instruction for chefs, hoteliers and restaurateurs	1.0
+- cosmetology and barber schools	- cosmetology and hairdresser/barber schools	0.9570943
+- computer repair training	- computer repair training	1.0
+- education activities of driving schools for occupational drivers e.g. of trucks, buses, coaches, schools for professional pilots including instructions for drone pilot or forklift driver	- education activities of driving schools for occupational drivers (e.g. of trucks, buses, coaches) and of schools for forklift drivers and professional pilots (including instructions for drone pilots)	0.93761444
+This class excludes:	This class excludes:	0.99999994
+- technical and vocational post-secondary non-tertiary education, see 8533	- technical and vocational post-secondary non-tertiary education, see 85.33	0.89685184
+- technical and vocational higher education, see 854	- technical and vocational higher education, see 85.40	0.8764614
+- non-formal vocational education and training, see 855	- non-formal vocational education and training, see 85.5	0.88087136
+- performing art instruction for recreation, hobby and self-development purposes, see 8552	- performing arts instruction for recreation, hobby and self-development purposes, see 85.52	0.8979403
+- education activities of driving schools not intended for occupational drivers, see 8553	- education activities of driving schools not intended for occupational drivers, see 85.53	0.9026431
+- job training forming part of social work activities without accommodation, see 8810, 8890	- job training forming part of social work activities without accommodation, see 88.10, 88.99	0.89635444

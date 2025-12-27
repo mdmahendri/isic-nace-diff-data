@@ -1,0 +1,12 @@
+C3315 Repair and maintenance of transport equipment, except motor vehicles	C33.18 Repair and maintenance of military fighting vehicles, ships, boats, air and spacecraft	0.55224216
+This class includes the repair and maintenance of transport equipment of division 30, except motorcycles and bicycles. However, the factory rebuilding or overhaul of ships, locomotives, railroad cars and aircraft is classified in division 30.	This class includes the repair and maintenance of military fighting vehicles, ships, boats, air and spacecraft.	0.5710647
+This class includes:	This class includes:	1.0
+- repair and routine maintenance of ships	- repair and maintenance of military air and spacecraft	0.82094103
+- repair and maintenance of pleasure boats	- repair and maintenance of military fighting vehicles	0.8179134
+- repair and maintenance of aircraft (except factory conversion, factory overhaul, factory rebuilding)	- repair and maintenance of military ships, boats and floating structures	0.7037271
+- repair and maintenance of aircraft engines - repair of animal drawn buggies and wagons	- repair and maintenance of engines for military fighting vehicles, vessels, ships, boats, air and spacecraft	0.77723956
+This class excludes:	This class excludes:	1.0000001
+- factory rebuilding of ships, see 3011	- factory overhaul of military ship and boat engines, see 28.11	0.7172901
+- factory rebuilding of locomotives and railroad cars, see 3020	- factory overhaul and rebuilding of military fighting vehicles, ships, boats, floating structures, air and spacecraft, see 30.13, 30.32, 30.40	0.6616063
+- factory rebuilding of aircraft, see 3030	- factory overhaul and conversion of military aircraft or aircraft engines, see 30.32	0.74919736
+- repair of ship or rail engines, see 3312	- maintenance and repair of civilian boats, ships, aircraft and spacecraft, and other craft, see 33.15, 33.16	0.6282203

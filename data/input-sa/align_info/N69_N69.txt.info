@@ -1,0 +1,10 @@
+File: N69_N69.txt
+File Elapsed Time: 0:00:00.474942
+Source file length: 6
+Target file length: 5
+Nodes: 56
+Gale-Church Elapsed Time: 2025-12-26 16:19:46.998862
+Align Elapsed Time: 0:11:57.981023
+Calc Anchors Elapsed Time: 2025-12-26 16:19:46.998863
+Greedy Algorithm Elapsed Time: 2025-12-26 16:19:46.998866
+Anchors: [[6, 5]]

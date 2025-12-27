@@ -1,0 +1,5 @@
+A014 Animal production	A01.4 Animal production	0.86405385
+This group includes farming (husbandry, raising) and breeding of all animals, except aquatic animals.	This group includes: - farming (husbandry, raising) and breeding of all animals, except aquatic animals	0.9120126
+This group excludes:	This group excludes:	1.0
+- farm animal boarding and care, see 0162	- farm animal boarding and care, see 01.62	0.85142255
+- production of hides and skins from slaughterhouses, see 1010	- production of hides and skins from slaughterhouses, see 10.11	0.8861143

@@ -1,0 +1,19 @@
+C2818 Manufacture of power-driven hand tools	C28.24 Manufacture of power-driven hand tools	0.8553374
+This class includes:	This class includes:	0.99999994
+- manufacture of hand tools, with self-contained electric or non-electric motor, pneumatic or hydraulic drive, such as:	- manufacture of hand tools, with self-contained electric or non-electric motor or pneumatic drive, e.g.:	0.9700639
+circular or reciprocating saws	circular or reciprocating saws	1.0
+chain saws	chainsaws	0.86528736
+drills and hammer drills	drills and hammer drills	1.0
+hand held power sanders	handheld power sanders	0.97082436
+pneumatic nailers	pneumatic nailers	1.0
+buffers	buffers	0.99999994
+grinders	grinders	1.0000001
+staplers	staplers	1.0
+pneumatic rivet guns	pneumatic rivet guns	1.0
+planers	planers	1.0000001
+shears and nibblers	shears and nibblers	1.0
+impact wrenches	impact wrenches	0.99999994
+powder actuated nailers	powder-actuated nailers	0.9847507
+This class excludes:	This class excludes:	1.0000001
+- manufacture of hand tools and interchangeable parts for pneumatic and power tools, see 2593	- manufacture of hand tools and interchangeable parts for pneumatic and power tools, see 25.63	0.8581549
+- manufacture of electrical hand held soldering and welding machines and apparatus equipment, see 2790	- manufacture of electrical handheld soldering and welding machines and apparatus, see 27.90	0.8962658

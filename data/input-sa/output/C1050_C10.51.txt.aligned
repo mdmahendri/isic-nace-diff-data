@@ -1,0 +1,24 @@
+C1050 Manufacture of dairy products	C10.51 Manufacture of dairy products	0.8513845
+This class includes:	This class includes:	0.99999994
+- manufacture of fresh liquid milk, pasteurized, sterilized, homogenized and/or ultra heat treated	- manufacture of fresh liquid milk, pasteurised, sterilised, homogenised and/or ultra-heat treated	0.99723464
+- manufacture of milk-based drinks	- manufacture of milk-based drinks	0.9999999
+- manufacture of cream from fresh liquid milk, pasteurized, sterilized, homogenized	- manufacture of cream from fresh liquid milk, pasteurised, sterilised, homogenised	0.9906262
+- manufacture of dried or concentrated milk whether or not sweetened	- manufacture of dried or concentrated milk, whether or not sweetened	0.99466944
+- manufacture of milk or cream in solid form	- manufacture of milk or cream in solid form	0.99999994
+- manufacture of butter	- manufacture of butter	1.0000001
+- manufacture of yoghurt - manufacture of cheese and curd	- manufacture of yoghurt - manufacture of cheese and curd	1.0000001
+- refining and aging of cheese	- refining and ageing cheese	0.96262777
+- manufacture of whey	- manufacture of whey	1.0
+- manufacture of casein or lactose	- manufacture of casein	0.78237075
+- manufacture of ice cream.	- manufacture of lactose-free dairy products	0.6649806
+This class also includes:	This class also includes:	1.0
+- manufacture of milk kefir	- manufacture of milk kefir	1.0
+- Manufacture of edible ice (such as sorbet) and frozen dessert ices	- manufacture of lactose and lactose syrup	0.6681011
+This class excludes:	This class excludes:	0.9999999
+- production of raw milk (cattle), see 0141	- production of raw milk of cattle, see 01.41	0.8110758
+- production of raw milk (sheep, goats, horses, asses, etc.), see 0144	- production of raw milk of sheep, goats, horses, asses, camels, etc., see 01.43, 01.44, 01.45	0.79251766
+- manufacture of non-dairy milk (e.g. plant based milk) and cheese substitutes, see 1079	- production of milk-based dietary drinks, see 10.86	0.6884136
+- production of milk-based dietary drinks, see 1079	- production of dairy-based infant formulae, see 10.86	0.7857007
+- production of dairy based infant formulae, see 1079	- manufacture of cheese substitutes, see 10.89	0.71164536
+- - manufacture of fruit kefir and water kefir, see 1102	- manufacture of fruit kefir and water kefir, see 11.03	0.83254683
+- activities of ice cream parlours, see 5610	- manufacture of non-dairy milk (e.g. plant-based milk), see 11.07	0.41704667

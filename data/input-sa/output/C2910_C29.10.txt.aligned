@@ -1,0 +1,23 @@
+C2910 Manufacture of motor vehicles	C29.10 Manufacture of motor vehicles	0.8958833
+This class includes the manufacture of electric, combustion and hybrid engine vehicles and of autonomous vehicles It includes	This class includes the manufacture of electric, combustion and hybrid engine vehicles, and of autonomous vehicles. This class includes:	0.97690475
+- manufacture of passenger cars	- manufacture of passenger cars	1.0
+- manufacture of commercial vehicles:	- manufacture of commercial vehicles:	1.0
+vans, lorries, road tractors for semi-trailers etc.	vans, lorries, road tractors for semi-trailers, etc.	0.99757123
+- manufacture of buses, trolleybuses and coaches	- manufacture of buses, trolleybuses and coaches	1.0
+- manufacture of motor vehicle engines, including electric motors	- manufacture of motor vehicle engines, including electric motors	1.0000001
+- manufacture of other motor vehicles e.g.:	- manufacture of other motor vehicles, e.g.:	0.99356306
+snowmobiles, golf carts, amphibious motor vehicles	snowmobiles, golf carts, amphibious motor vehicles	1.0
+This class also includes:	This class also includes:	0.99999994
+- factory rebuilding of motor vehicle engines	- factory rebuilding of motor vehicle engines	1.0000001
+This class excludes:	This class excludes:	0.9999999
+- manufacture of lamps for motor vehicles, see 2740	- manufacture of lamps for motor vehicles, see 27.40	0.87259316
+- manufacture of pistons, piston rings and carburetors, see 2811	- manufacture of pistons, piston rings and carburettors not for motor vehicles or motorcycles, see 28.11	0.7782872
+- manufacture of agricultural and forestry tractors, see 2821	- manufacture of agricultural and forestry tractors, see 28.30	0.84623146
+- manufacture of track laying excavators, see 2824	- manufacture of track-laying tractors, see 28.30	0.76531637
+- manufacture of off-road dumping trucks, see 2824	- manufacture of off-road dumper trucks, see 28.92	0.83695006
+- manufacture of bodies for motor vehicles, e.g. fire engines, travelling libraries, concrete-mixer lorries etc., see 2920	- manufacture of bodies for motor vehicles (e.g. fire engines, travelling libraries, concrete mixer lorries), see 29.20	0.8988633
+- manufacture of armoured vehicles for transport of goods, see 2920	- manufacture of bodies for armoured vehicles, see 29.20	0.81619847
+- manufacture of electrical parts for motor vehicles, see 2930	- manufacture of electrical parts for motor vehicles, see 29.31	0.8243977
+- manufacture of parts and accessories for motor vehicles, see 2930	- manufacture of parts and accessories for motor vehicles, see 29.32	0.85288477
+- manufacture of tanks and other military fighting vehicles, see 3040	- manufacture of tanks and other military fighting vehicles, see 30.40	0.9125492
+- repair and maintenance of motor vehicles, see 9531	- repair and maintenance of motor vehicles, see 95.31	0.84464437

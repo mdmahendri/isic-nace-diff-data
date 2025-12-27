@@ -1,0 +1,8 @@
+H5012 Sea and coastal freight water transport	H50.20 Sea and coastal freight water transport	0.85775954
+This class includes:	This class includes:	1.0
+- transport of freight over seas and coastal waters, whether scheduled or not	- transport of freight over sea and coastal waters	0.8475361
+- transport by towing or pushing of barges, oil rigs etc.	- transport by towing or pushing of barges, oil rigs, etc.	0.99866986
+This class excludes:	This class excludes:	1.0
+- storage of freight, see 5210	- storage of freight, see 52.10	0.8352447
+- harbour operation and other auxiliary activities such as docking, pilotage, lighterage, vessel salvage, see 5222	- harbour operations and other auxiliary activities (e.g. docking, pilotage, lighterage, vessel salvage), see 52.22	0.9401604
+- cargo handling, see 5224	- cargo handling, see 52.24	0.8106343

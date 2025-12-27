@@ -1,0 +1,16 @@
+A0311 Marine fishing	A03.11 Marine fishing	0.8379791
+This class includes:	This class includes:	1.0
+- fishing on a commercial basis in ocean and coastal waters	- fishing on a commercial basis in ocean and coastal waters	0.99999994
+- taking of marine crustaceans and molluscs	- taking of marine crustaceans and molluscs	1.0000001
+- whale catching	- whaling	0.8210552
+- taking of marine aquatic animals, e.g.: turtles, sea squirts, tunicates, sea urchins.	- taking of marine aquatic animals (e.g. turtles, sea squirts, tunicates, sea urchins)	0.9536661
+This class also includes:	This class also includes:	0.9999999
+- gathering of other marine organisms and materials: natural pearls, sponges, coral , seaweed and algae.	- gathering of other marine organisms and materials (e.g. natural pearls, sponges, coral, seaweed, algae)	0.9354311
+This class excludes:	This class excludes:	1.0000001
+- capturing of marine mammals apart from whales, e.g. seals and walruses, see 0170	- capturing of marine mammals apart from whales (e.g. seals, walruses), see 01.70	0.8555205
+- processing of whales on factory ships, see 1010	- processing of whales on factory ships, see 10.11	0.89411205
+- processing of fish, crustaceans and molluscs on factory ships or in factories ashore, see 1020	- processing of fish, crustaceans and molluscs on factory ships or in factories ashore, see 10.20	0.94213784
+- rental of pleasure boats with crew for sea and coastal water transport (e.g. for fishing cruises), see _x000D_5011	- rental of pleasure boats with crew for sea and coastal water transport (e.g. for fishing trips), see 50.10	0.8699844
+- fishing inspection, protection and patrol services, see 8423	- fishing inspection, protection and patrol services, see 84.24	0.88267124
+- fishing practiced for sport or recreation and related services, see 9319	- fishing practiced for sport or recreation and related services, see 93.19	0.90061814
+- operation of sport fishing preserves, see 9319	- operation of sport fishing preserves, see 93.19	0.84942573

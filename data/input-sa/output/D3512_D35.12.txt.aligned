@@ -1,0 +1,6 @@
+D3512 Electric power generation activities from renewable sources	D35.12 Production of electricity from renewable sources	0.8213049
+This class includes:	This class includes:	1.0
+- operation of generation facilities that produce electricity from renewable sources, e.g. gaseous biofuels, hydropower, on-shore and off-shore wind, solar photovoltaic, and thermal, geothermal and tide, wave and ocean energy.	- operation of generation facilities that produce electricity from renewable sources (e.g. gaseous biofuels, hydropower, on-shore and off-shore wind power, photovoltaic solar energy, thermal solar energy, geothermal energy, and tide, wave and ocean energy)	0.9551481
+This class excludes:	This class excludes:	1.0
+- production of electricity from non-renewable sources, see 3511	- production of electricity from non-renewable sources, see 35.11	0.88405484
+- production of electricity through incineration of waste, see 3821	- pretreatment of waste for energy recovery, see 38.22	0.72899723

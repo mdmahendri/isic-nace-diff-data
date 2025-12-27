@@ -1,0 +1,16 @@
+K6219 Other computer programming activities	K62.10 Computer programming activities	0.8214693
+This class includes:	This class includes:	1.0
+- designing the structure and content of, and/or writing, modifying (including updates and patches), customizing, testing and supporting of the computer code necessary to create and implement:	- designing the structure and content of, the writing, modifying (including updates and patches), testing and maintaining of software and applications, including:	0.9027163
+* systems software	systems software	0.8395958
+* business, finance, and other software applications (other than video game applications)	video game software and applications / gaming applications	0.59287375
+* machine learning applications	machine learning applications	0.8634548
+* artificial intelligence/machine vision applications	artificial intelligence / machine vision applications	0.9037103
+* cybersecurity applications	cybersecurity applications	0.85218483
+* distributed ledger applications	distributed ledger applications	0.83452296
+* databases	databases and web pages	0.5395023
+* web pages	- development of applications	0.49044117
+This class excludes:	This class excludes:	1.0000001
+- development of video game applications, see 6211	- publishing of software or gaming on demand services, cloud-based software and gaming applications, see 58.2	0.5354079
+- software publishing, see 582	- development of software associated with publishing, see 58.2	0.7154982
+- planning and designing computer systems that integrate computer hardware, software and communication technologies, even though providing software might be an integral part, see 6220	- planning and designing computer systems that integrate computer hardware, software and communication technologies, even though providing software might be an integral part, see 62.20	0.93295085
+- blockchain/distributed ledger technology (DLT) data processing activities, see 6310	- data processing activities (e.g. by using blockchain / distributed ledger technology (DLT)), see 63.10	0.8768423

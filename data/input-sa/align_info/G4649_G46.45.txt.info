@@ -1,0 +1,10 @@
+File: G4649_G46.45.txt
+File Elapsed Time: 0:00:00.785548
+Source file length: 33
+Target file length: 3
+Nodes: 175
+Gale-Church Elapsed Time: 2025-12-26 16:19:46.998862
+Align Elapsed Time: 0:08:47.149421
+Calc Anchors Elapsed Time: 2025-12-26 16:19:46.998863
+Greedy Algorithm Elapsed Time: 2025-12-26 16:19:46.998866
+Anchors: [[33, 3]]

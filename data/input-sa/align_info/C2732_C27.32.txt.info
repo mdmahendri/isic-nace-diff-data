@@ -1,0 +1,10 @@
+File: C2732_C27.32.txt
+File Elapsed Time: 0:00:00.492949
+Source file length: 8
+Target file length: 7
+Nodes: 90
+Gale-Church Elapsed Time: 2025-12-26 16:19:46.998862
+Align Elapsed Time: 0:11:12.035400
+Calc Anchors Elapsed Time: 2025-12-26 16:19:46.998863
+Greedy Algorithm Elapsed Time: 2025-12-26 16:19:46.998866
+Anchors: [[8, 7]]

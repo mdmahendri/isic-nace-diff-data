@@ -1,0 +1,31 @@
+T9510 Repair and maintenance of computers and communication equipment	T95.10 Repair and maintenance of computers and communication equipment	0.94187987
+This class includes the repair of electronic equipment, such as computers and computing machinery, peripheral and communications equipment.	This class includes the repair and maintenance of electronic equipment (for example, computers and computing machinery, peripheral and communication equipment).	0.85715973
+This class includes the repair and maintenance of:	This class includes the repair and maintenance of:	1.0
+- desktop computers - laptop computers	- desktop computers - laptop computers	1.0
+- magnetic disk drives and flash drives	- magnetic disc drives and flash drives	0.9988291
+- optical disks drives	- optical disc drives	0.99019325
+- printers	- printers	1.0
+- monitors	- monitors	0.99999994
+- keyboards	- keyboards	1.0
+- webcams	- webcams	0.99999994
+- headsets, including in-ear wireless headsets	- headsets, including in-ear wireless headsets	1.0
+- mice, joysticks and trackball accessories	- mice, joysticks and trackball accessories	1.0000001
+- internal and external computer modems	- internal and external computer modems	1.0
+- dedicated computer terminals	- dedicated computer terminals	1.0
+- computer servers	- computer servers	1.0
+- scanners, including bar code scanners	- scanners, including barcode scanners	0.98538625
+- smart card readers	- smart card readers	1.0
+- virtual reality helmets	- virtual reality helmets/headsets	0.8955009
+- computer projectors	- computer projectors	0.99999994
+- cordless telephones	- cordless telephones	1.0
+- smartphones and tablets	- smart telephones and tablets	0.9489059
+- telecommunication carrier equipment	- telecommunication carrier equipment	1.0
+- communications transmission equipment, e.g. routers, bridges, modems	- communication transmission equipment (e.g. routers, bridges, modems)	0.9714742
+- two-way radios	- two-way radios	1.0
+- commercial TV, video cameras and facsimile machines	- commercial television and video cameras	0.8743628
+This class also includes:	This class also includes:	0.9999999
+- the repair and maintenance of computer terminals like automatic teller machines (ATM's) and point-of-sale (POS) terminals, not mechanically operated	- repair and maintenance of computer terminals like automatic teller machines (ATMs) and point-of-sale (POS) terminals, not mechanically operated	0.99870855
+- the repair and maintenance of hand-held computers (PDA's)	- repair and maintenance of handheld computers (personal digital assistants (PDAs))	0.95427024
+This class excludes:	This class excludes:	0.9999999
+- refilling of ink and toner cartridges by retailers, see 4740	- refilling of ink and toner cartridges by retail sellers, see 47.40	0.8851263
+- repair and maintenance of consumer electronics, see 9521	- repair and maintenance of consumer electronics, see 95.21	0.8554794

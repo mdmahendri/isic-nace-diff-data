@@ -1,0 +1,6 @@
+A0141 Raising of cattle and buffaloes	A01.42 Raising of other cattle and buffaloes	0.7587864
+This class includes:	This class includes:	0.99999994
+- raising and breeding of cattle and buffaloes for meat	- raising and breeding of cattle and buffaloes for meat	1.0
+- production of bovine semen.	- production of bovine semen of meat breeds	0.8594011
+This class excludes:	This class also includes:	0.8668906
+- processing of milk, see 1050	- raising and breeding of draft cattle or buffaloes	0.40471205

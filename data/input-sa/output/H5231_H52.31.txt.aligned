@@ -1,0 +1,10 @@
+H5231 Intermediation service activities for freight transportation	H52.31 Intermediation service activities for freight transportation	0.8815984
+This class includes the intermediation of freight transportation, by bringing clients and service providers together for a fee or commission, without the intermediary providing the freight transportation services that are intermediated.	This class includes the intermediation of freight transport, by bringing clients and service providers together for a fee or commission, without the intermediary providing the freight transport services that are intermediated.	0.9995169
+These intermediation activities can be carried out on digital platforms or through non-digital channels (face-to-face including door-to-door, phone, mail, etc.).	These intermediation activities can be carried out on digital platforms or through non-digital channels (including face-to-face, door-to-door, telephone, mail, and so on).	0.99045163
+The fee or commission can be received from either the client or the provider of the freight transportation service.	The fee or commission can be received from either the client or the provider of the freight transport service.	0.99964654
+Revenue for the intermediation activities can include other sources of income, such as revenues from advertising.	Revenue for the intermediation activities can include other sources of income (for example, revenues from the sale of advertising space).	0.84536314
+This class includes:	This class includes:	1.0
+- brokerage of freight transportation in ships and aircraft space	- rail, road, ship and aircraft freight brokerage	0.7660495
+- operation of platforms for intermediation of freight transport services	- operation of platforms for intermediation of freight transport services	1.0
+This class excludes:	This class excludes:	1.0
+- Freight transport, see Divisions 49, 50, 51	- freight transport, see divisions 49, 50 and 51	0.985669

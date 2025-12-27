@@ -1,0 +1,11 @@
+C1061 Manufacture of grain mill products	C10.61 Manufacture of grain mill products	0.86440647
+This class includes:	This class includes:	1.0
+- grain milling: production of flour, groats, meal or pellets of wheat, rye, oats, maize (corn) or other cereal grains	- grain milling: production of flour, semolina, groats, meal or pellets of wheat, rye, oats, maize (corn) or other cereal grains	0.9959159
+- rice milling: production of husked, milled, polished, glazed, parboiled or converted rice; production of rice flour	- rice milling: production of husked, milled, polished, glazed, parboiled or converted rice; production of rice flour	1.0
+- vegetable milling: production of flour or meal of dried leguminous vegetables, of roots or tubers, or of edible nuts	- vegetable milling: production of flour or meal of dried leguminous vegetables, of roots or tubers, or of edible nuts	0.99999994
+- manufacture of cereal breakfast foods	- manufacture of cereal breakfast foods	1.0000001
+- manufacture of flour mixes and prepared blended flour and dough for bread, cakes, biscuits or pancakes.	- manufacture of flour mixes and prepared blended flour and dough for bread, cakes, biscuits, pancakes, etc.	0.93378425
+This class excludes:	This class excludes:	1.0000001
+- preparation of crops for primary markets, e.g. cleaning, trimming, grading etc., see 0163	- preparation of crops for primary markets (e.g. cleaning, trimming, grading etc.), see 01.63	0.91648775
+- manufacture of potato flour and meal, see 1030	- manufacture of potato flour and meal, see 10.31	0.8708104
+- wet corn milling, see 1062	- wet corn milling, see 10.62	0.833066

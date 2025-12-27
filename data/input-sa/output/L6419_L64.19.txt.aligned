@@ -1,0 +1,13 @@
+L6419 Other monetary intermediation	L64.19 Other monetary intermediation	0.9054144
+This class includes the receiving of deposits and/or close substitutes for deposits and extending of credit or other forms of lending funds.	This class includes the receiving of deposits and/or close substitutes for deposits and extending of credit or other forms of lending funds.	1.0
+The granting of credit can take a variety of forms, such as loans mortgages, consumer credit cards etc. These activities are generally carried out by monetary institutions other than central banks, such as:	The granting of credit can take a variety of forms (for example, loans, mortgages, consumer credit cards, and so on). These activities are generally carried out by monetary institutions other than central banks, for example:	0.9006513
+- banks	- banks	1.0
+- savings banks	- savings banks	1.0000001
+- credit cooperatives and unions	- credit cooperatives and unions	0.99999994
+This class also includes:	This class also includes:	1.0
+- postal giro and postal saving banks activities	- activities of postal banks (e.g. for giro (current) and savings accounts)	0.77303946
+- credit granting by specialised deposit-taking institutions, e.g. for house purchases	- credit granting by specialised deposit-taking institutions (e.g. for house purchases, agriculture)	0.92051494
+- money order activities	- money order activities	1.0
+This class excludes:	This class excludes:	1.0
+- credit granting by specialised non-depository institutions, e.g. for house purchases, see 6492	- credit granting by specialised non-depository institutions (e.g. for house purchases), see 64.92	0.9179238
+- credit card transaction processing and settlement activities, see 6619	- credit card transaction processing and settlement activities, see 66.19	0.88591826

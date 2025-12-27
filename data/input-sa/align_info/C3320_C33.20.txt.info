@@ -1,0 +1,10 @@
+File: C3320_C33.20.txt
+File Elapsed Time: 0:00:00.852350
+Source file length: 25
+Target file length: 25
+Nodes: 729
+Gale-Church Elapsed Time: 2025-12-26 16:19:46.998862
+Align Elapsed Time: 0:00:33.525505
+Calc Anchors Elapsed Time: 2025-12-26 16:19:46.998863
+Greedy Algorithm Elapsed Time: 2025-12-26 16:19:46.998866
+Anchors: [[25, 25]]

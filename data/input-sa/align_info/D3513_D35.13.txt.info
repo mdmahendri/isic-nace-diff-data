@@ -1,0 +1,10 @@
+File: D3513_D35.13.txt
+File Elapsed Time: 0:00:00.498109
+Source file length: 16
+Target file length: 3
+Nodes: 90
+Gale-Church Elapsed Time: 2025-12-26 16:19:46.998862
+Align Elapsed Time: 0:06:16.010681
+Calc Anchors Elapsed Time: 2025-12-26 16:19:46.998863
+Greedy Algorithm Elapsed Time: 2025-12-26 16:19:46.998866
+Anchors: [[16, 3]]

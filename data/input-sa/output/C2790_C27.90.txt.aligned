@@ -1,0 +1,39 @@
+C2790 Manufacture of other electrical equipment	C27.90 Manufacture of other electrical equipment	0.89641446
+This class includes the manufacture of miscellaneous electrical equipment other than motors, generators and transformers, batteries and accumulators, wires and wiring devices, lighting equipment or domestic appliances	This class includes the manufacture of miscellaneous electrical equipment other than motors, generators and transformers, batteries and accumulators, wires and wiring devices, lighting equipment or domestic appliances.	0.980376
+This class includes:	This class includes:	0.99999994
+- manufacture of battery chargers, solid-state	- manufacture of battery chargers, solid-state	1.0
+- manufacture of door opening and closing devices, electrical	- manufacture of door opening and closing devices, electrical	1.0
+- manufacture of electric bells	- manufacture of electric bells	1.0
+- manufacture of extension cords made from purchased insulated wire	- manufacture of extension cords made from purchased insulated wire	0.99999994
+- manufacture of ultrasonic cleaning machines (except laboratory and dental)	- manufacture of ultrasonic cleaning machines (except laboratory and dental)	1.0000001
+- manufacture of tanning beds	- manufacture of tanning beds	1.0
+- manufacture of fuel cells (except for motor vehicles), regulated and unregulated power supplies	- manufacture of fuel cells, regulated and unregulated power supplies	0.86588037
+- manufacture of uninterruptible power supplies (UPS)	- manufacture of uninterruptible power supplies (UPS)	1.0
+- manufacture of surge suppressors (except for distribution level voltage)	- manufacture of surge suppressors (except for distribution-level voltage)	0.9988831
+- manufacture of appliance cords, extension cords, and other electrical cord sets with insulated wire and connectors	- manufacture of appliance cords, extension cords, and other electrical cord sets with insulated wire and connectors	1.0
+- manufacture of carbon and graphite electrodes, contacts, and other electrical carbon and graphite products	- manufacture of carbon and graphite electrodes, contacts, and other electrical carbon and graphite products	1.0
+- manufacture of particle accelerators	- manufacture of particle accelerators	1.0
+- manufacture of electrical capacitors, resistors, condensers and similar components	- manufacture of electrical capacitors, resistors, condensers and similar components	1.0
+- manufacture of electromagnets - manufacture of sirens	- manufacture of electromagnets - manufacture of sirens	1.0000001
+- manufacture of electronic scoreboards	- manufacture of electronic scoreboards	1.0
+- manufacture of electrical signs	- manufacture of electrical signs	1.0
+- manufacture of electrical signalling equipment such as traffic lights and pedestrian signalling equipment	- manufacture of electrical signalling equipment (e.g. traffic lights, pedestrian signalling equipment)	0.927876
+- manufacture of electrical insulators (except glass or porcelain)	- manufacture of electrical insulators (except glass or porcelain)	0.9999999
+- manufacture of electrical welding and soldering equipment, including hand-held soldering irons	- manufacture of electrical welding and soldering equipment, including handheld soldering irons	0.99558145
+- manufacture of electroplating machinery	- manufacture of electroplating machinery	1.0
+- manufacture of on-board chargers for motor vehicles	- manufacture of on-board chargers for motor vehicles	0.99999994
+- manufacture of assembled cables, fitted with connectors	- manufacture of assembled cables, fitted with connectors	1.0
+- manufacture of charging stations for cars	- manufacture of charging facilities for cars	0.96682847
+This class excludes:	This class excludes:	0.9999999
+- manufacture of glass electrical insulators, see 2310	- manufacture of glass electrical insulators, see 23.15	0.8250091
+- manufacture of porcelain electrical insulators, see 2393	- manufacture of porcelain electrical insulators, see 23.43	0.8506824
+- manufacture of carbon and graphite fibres and products (except electrodes and electrical applications), see 2399	- manufacture of carbon and graphite fibres and products (except electrodes and electrical applications), see 23.99	0.9321211
+- manufacture of electronic component-type rectifiers, voltage regulating integrated circuits, power converting integrated circuits, electronic capacitors, electronic resistors, and similar devices, see 2619	- manufacture of electronic component-type rectifiers, voltage regulating integrated circuits, power converting integrated circuits, electronic capacitors, electronic resistors, and similar devices, see 26.11	0.9440399
+- manufacture of transformers, motors, generators, switchgear, relays and industrial controls, see 27	- manufacture of transformers, motors, generators, switchgear, relays and industrial controls, see 27.1	0.95309293
+- manufacture of batteries, see 2720	- manufacture of batteries, see 27.20	0.81928504
+- manufacture of communication and energy wire, current-carrying and noncurrent-carrying wiring devices, see 273	- manufacture of communication and energy wire, current-carrying and non-current-carrying wiring devices, see 27.3	0.9289289
+- manufacture of lighting equipment, see 2740	- manufacture of lighting equipment, see 27.40	0.86895275
+- manufacture of household-type appliances, see 275	- manufacture of household appliances, see 27.5	0.8711513
+- manufacture of non-electrical welding and soldering equipment, see 2819	- manufacture of non-electrical welding and soldering equipment, see 28.29	0.88467
+- manufacture of motor vehicle electrical equipment, such as generators, alternators, spark plugs, ignition wiring harnesses, power window and door systems, voltage regulators, see 2930	- manufacture of motor vehicle electrical equipment (e.g. generators, alternators, spark plugs, ignition wiring harnesses, power window and door systems, voltage regulators), see 29.31	0.88262427
+- manufacture of inverter modules and fuel cells for motor vehicle, see 2930	- manufacture of inverter modules and fuel cells for cars, see 29.31	0.85199016

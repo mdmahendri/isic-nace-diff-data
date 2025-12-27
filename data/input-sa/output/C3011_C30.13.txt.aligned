@@ -1,0 +1,12 @@
+C3011 Building of ships and floating structures	C30.13 Building of military ships and vessels	0.7577836
+This class includes the building of civilian and military ships (except vessels for sports or recreation), and the construction of floating structures. This class includes:	This class includes the building of military ships and vessels, such as combat ships equipped with various offensive and defensive weapons and with protective devices against shelling, and the building of military floating structures, for example:	0.7648507
+- building of commercial vessels:	- aircraft carriers	0.5438046
+- building of military ships and vessels	- amphibious warfare and assault ships	0.7503009
+- manufacture of submersible drones	- submarines - landing crafts	0.68485695
+This class also includes:	This class also includes:	0.9999999
+- manufacture of sections for ships and floating structures	- factory conversion of military ships, vessels and floating structures	0.77880627
+This class excludes:	This class excludes:	1.0
+* manufacture of ships' propellers, see 2599 * manufacture of iron or steel anchors, see 2599	- manufacture of weapons and ammunition (e.g. torpedo tubes, torpedoes), see 25.30	0.5081651
+* manufacture of marine engines, see 2811	- factory overhaul of military ship and vessel engines, see 28.11	0.670924
+- manufacture of amphibious motor vehicles, see 2910	- building of civilian ships and floating structures, see 30.11	0.6674371
+- manufacture of inflatable boats or rafts for recreation, see 3012	- manufacture of inflatable boats or rafts for pleasure and sport, see 30.12	0.84677184

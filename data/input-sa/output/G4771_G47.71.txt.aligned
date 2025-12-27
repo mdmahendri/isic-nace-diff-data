@@ -1,0 +1,9 @@
+G4771 Retail sale of clothing, footwear and leather articles	G47.71 Retail sale of clothing	0.75216746
+This class includes:	This class includes:	1.0
+- retail sale of articles of clothing	- retail sale of articles of clothing, including underwear	0.84643805
+- retail sale of articles of fur	- retail sale of fur articles	0.99805343
+- retail sale of clothing accessories such as gloves, ties, braces etc.	- retail sale of clothing accessories, (e.g. gloves, ties, braces)	0.93116295
+- retail sale of umbrellas - retail sale of footwear - retail sale of leather goods	- retail sale of work clothes, uniforms, disguises, carnival costumes, etc.	0.6047597
+This class excludes:	This class excludes:	1.0000001
+- retail sale of textiles, see 4751	- retail sale of textiles, see 47.51	0.8420968
+- retail sale of special footwear for sports e.g. football shoes, ice skates, ski boots, etc., see 4762	- retail sale of special sports equipment clothes for skiing, martial arts, ballet, etc., see 47.63	0.7913456

@@ -1,0 +1,13 @@
+B0610 Extraction of crude petroleum	B06.10 Extraction of crude petroleum	0.8825795
+This class includes:	This class includes:	0.99999994
+- extraction of crude petroleum oils.	- extraction of crude petroleum oils	0.94920063
+This class also includes:	This class also includes:	0.9999999
+- extraction of bituminous or oil shale and tar sand	- extraction of bituminous or oil shale and tar sand	0.9999999
+- production of crude petroleum from bituminous shale and sand	- production of crude petroleum from bituminous shale and sand	1.0
+- processes to obtain crude oils e.g.: decantation, desalting, dehydration, stabilisation.	- processes to obtain crude oils (e.g. decantation, desalting, dehydration, stabilisation)	0.95513904
+This class excludes:	This class excludes:	1.0
+- support activities for oil and natural gas extraction, see 0910	- support activities for oil and natural gas extraction, see 09.10	0.913523
+- oil and gas exploration, see 0910	- oil and gas exploration, see 09.10	0.8824364
+- manufacture of refined petroleum products, see 1920	- manufacture of refined petroleum products, see 19.20	0.879388
+- recovery of liquefied petroleum gases in the refining of petroleum, see 1920	- recovery of liquefied petroleum gases in the refining of petroleum, see 19.20	0.90781623
+- operation of pipelines, see 4930	- operation of pipelines, see 49.50	0.83458066

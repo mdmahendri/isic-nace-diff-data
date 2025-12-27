@@ -1,0 +1,10 @@
+File: O7729_O77.22.txt
+File Elapsed Time: 0:00:01.117099
+Source file length: 24
+Target file length: 21
+Nodes: 598
+Gale-Church Elapsed Time: 2025-12-26 16:19:46.998862
+Align Elapsed Time: 0:06:39.481403
+Calc Anchors Elapsed Time: 2025-12-26 16:19:46.998863
+Greedy Algorithm Elapsed Time: 2025-12-26 16:19:46.998866
+Anchors: [[24, 21]]

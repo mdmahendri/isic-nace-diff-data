@@ -1,0 +1,30 @@
+A0113 Growing of vegetables and melons, roots and tubers	A01.13 Growing of vegetables and melons, roots and tubers	0.90170187
+This class includes:	This class includes:	0.99999994
+- growing of leafy or stem vegetables, such as:	- growing of leafy or stem vegetables, e.g.:	0.98131335
+artichokes asparagus cabbages	artichokes asparagus cabbages	1.0000002
+cauliflower and broccoli	cauliflower and broccoli	1.0
+lettuce and chicory	lettuce and chicory	1.0
+spinach	spinach	1.0
+- growing of fruit bearing vegetables,such as:	- growing of fruit-bearing vegetables, e.g.:	0.98061764
+cucumbers and gherkins	cucumbers and gherkins	0.9999999
+eggplants (aubergines)	eggplants (aubergines)	1.0
+tomatoes	tomatoes	1.0
+melons	watermelons	0.8970945
+- growing of root, bulb or tuberous vegetables, such as.:	- growing of root, bulb or tuberous vegetables, e.g.:	0.98953015
+carrots	carrots	1.0
+turnips	turnips	1.0
+garlic	garlic	1.0
+onions (incl. shallots)	onions (including shallots)	0.9839849
+leeks and other alliaceous vegetables - growing of mushrooms and truffles	leeks and other alliaceous vegetables - growing of mushrooms and truffles	1.0000001
+- growing of vegetable seeds, including sugar beet seeds, excluding other beet seeds	- growing of vegetable seeds, including sugar beet seeds, excluding other beet seeds	1.0
+- growing of sugar beet	- growing of sugar beet	1.0000001
+- growing of chillies, peppers (capsicum spp.)	- growing of chillies, peppers (Capsicum spp.)	0.9920204
+- growing of roots and tubers, such as:	- growing of roots and tubers, e.g.:	0.9797771
+potatoes	potatoes	1.0
+sweet potatoes	sweet potatoes	1.0
+cassava	cassava	0.99999994
+yams	yams	0.9999999
+This class includes also: growing of sweet corn	This class also includes: - growing of sweetcorn	0.9230452
+This class excludes:	This class excludes:	0.9999999
+- spices and aromatic crops, see 0128.	- growing of spices and aromatic, drug and pharmaceutical crops, see 01.28	0.70916176
+- growing of mushroom spawn, see 0130.	- growing of mushroom spawn, see 01.30	0.7766613

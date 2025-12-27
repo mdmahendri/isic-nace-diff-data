@@ -1,0 +1,10 @@
+File: Q8551_Q85.51.txt
+File Elapsed Time: 0:00:01.064140
+Source file length: 22
+Target file length: 23
+Nodes: 600
+Gale-Church Elapsed Time: 2025-12-26 16:19:46.998862
+Align Elapsed Time: 0:06:25.267233
+Calc Anchors Elapsed Time: 2025-12-26 16:19:46.998863
+Greedy Algorithm Elapsed Time: 2025-12-26 16:19:46.998866
+Anchors: [[22, 23]]

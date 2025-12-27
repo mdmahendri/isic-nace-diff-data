@@ -1,0 +1,14 @@
+D3520 Manufacture of gas; distribution of gaseous fuels through mains	D35.21 Manufacture of gas	0.6279495
+- production of gas for the purpose of gas supply by carbonation of coal, from by-products of agriculture or from waste - - gas storage and gas storage service (e.g. sale of storage capacity for natural gas)	- production of gaseous fuels for energy supply through a gas distribution network (e.g. by carbonation of coal, gasification of lignite, electrolysis or methanisation)	0.72608685
+- manufacture of gaseous fuels with a specified calorific value, by purification, blending and other processes from gases of various types including natural gas	- production of gaseous fuels for energy supply with a specified calorific value, by purification, blending and other processes from gases of various types, including natural gas or hydrogen	0.9695971
+- transportation, distribution and supply of gaseous fuels of all kinds through a system of mains	- production of gaseous biofuels for energy supply through a gas distribution network	0.7362095
+- sale of gas to the user through mains	- cleansing of biogas for energy supply through a permanent network	0.62744665
+- commodity and transport capacity exchanges for gaseous fuels	- regasification of natural gas for distribution through mains	0.61747485
+This class excludes:	This class excludes:	1.0
+- extraction of crude natural gas, see 0620	- extraction of crude natural gas, see 06.20	0.8629836
+- operation of coke ovens, see 1910	- production of coke oven gas, see 19.10	0.76523525
+- manufacture of refined petroleum products and liquefied petroleum gas (LPGs), see 1920	- manufacture of refined petroleum products, see 19.20 - production of liquefied petroleum gas (LPG), see 19.20	0.8514383
+- manufacture of industrial gases, see 2011	- manufacture of industrial gases, see 20.11	0.83019453
+- transportation, usually over long-distance, of gas through by pipelines, see 4930	- production of hydrogen, not for energy supply through a network, see 20.11	0.4683133
+- manufacture of basic organic gases, not for energy supply through a network, see 2011	- manufacture of basic organic gases, not for energy supply through a network, see 20.14	0.83505404
+- production of blast furnace gas, see 2410	- production of blast furnace gas, see 24.10	0.8394384

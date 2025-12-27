@@ -1,0 +1,19 @@
+C2824 Manufacture of machinery for mining, quarrying and construction	C28.92 Manufacture of machinery for mining, quarrying and construction	0.8977839
+This class includes:	This class includes:	0.99999994
+- manufacture of continuous-action elevators and conveyors for goods and materials, for underground use	- manufacture of continuous-action elevators and conveyors for goods and materials, for underground use	1.0
+- manufacture of boring, cutting or sinking machinery for boring earth or extracting minerals or ores or of coal or rock cutters and tunnelling machinery	- manufacture of boring, cutting or sinking machinery for boring earth or extracting minerals or ores, or of coal or rock cutters and tunnelling machinery	0.9943486
+- manufacture of machinery for treating minerals by screening, sorting, separating, washing, crushing, grinding, mixing or kneading earth, stone, ores or other mineral substances, in solid (including powder or paste) form	- manufacture of machinery for treating minerals by screening, sorting, separating, washing, crushing, grinding, mixing or kneading earth, stone, ores or other mineral substances, in solid (including powder or paste) form	1.0000001
+- manufacture of concrete and mortar mixers	- manufacture of concrete and mortar mixers	1.0
+- manufacture of earth-moving machinery:	- manufacture of earth-moving machinery:	1.0
+bulldozers, angle-dozers, graders, scrapers, levellers, mechanical shovels, shovel loaders etc.	bulldozers, angledozers, graders, scrapers, levellers, mechanical shovels, shovel loaders, etc.	0.98506457
+- manufacture of pile drivers and pile extractors, mortar spreaders, bitumen spreaders, concrete surfacing machinery etc.	- manufacture of piledrivers and pile extractors, mortar spreaders, bitumen spreaders, concrete surfacing machinery, etc.	0.98863333
+- manufacture of machines for mixing mineral substances with bitumen	- manufacture of machines for mixing mineral substances with bitumen	1.0
+- manufacture of track laying excavators	- manufacture of track-laying excavators	0.9976953
+- manufacture of bulldozer and angle-dozer blades	- manufacture of bulldozer and angledozer blades	0.983598
+- manufacture of off-road dumping trucks	- manufacture of off-road dumper trucks	0.9901202
+- manufacture of snow-ploughs and snow-blowers	- manufacture of snowploughs and snowblowers	0.98794687
+This class excludes:	This class excludes:	0.99999994
+- manufacture of lifting and handling equipment, see 2816	- manufacture of lifting and handling equipment, see 28.22	0.832919
+- manufacture of other tractors, see 2821, 2910	- manufacture of tractors, see 28.30, 29.10	0.7857413
+- manufacture of machine tools for working stone, including machines for splitting or clearing stone, see 2822	- manufacture of machine tools for working stone, including machines for splitting or clearing stone, see 28.42	0.91056865
+- manufacture of concrete-mixer lorries, see 2920	- manufacture of concrete mixer lorries, see 29.20	0.86170274

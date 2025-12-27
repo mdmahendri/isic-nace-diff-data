@@ -1,0 +1,10 @@
+File: R8699_R86.96.txt
+File Elapsed Time: 0:00:01.337159
+Source file length: 22
+Target file length: 15
+Nodes: 408
+Gale-Church Elapsed Time: 2025-12-26 16:19:46.998862
+Align Elapsed Time: 0:09:48.975432
+Calc Anchors Elapsed Time: 2025-12-26 16:19:46.998863
+Greedy Algorithm Elapsed Time: 2025-12-26 16:19:46.998866
+Anchors: [[22, 15]]

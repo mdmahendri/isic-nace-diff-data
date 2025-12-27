@@ -1,0 +1,10 @@
+File: C2399_C23.91.txt
+File Elapsed Time: 0:00:00.712239
+Source file length: 19
+Target file length: 5
+Nodes: 147
+Gale-Church Elapsed Time: 2025-12-26 16:19:46.998862
+Align Elapsed Time: 0:06:28.417521
+Calc Anchors Elapsed Time: 2025-12-26 16:19:46.998863
+Greedy Algorithm Elapsed Time: 2025-12-26 16:19:46.998866
+Anchors: [[19, 5]]

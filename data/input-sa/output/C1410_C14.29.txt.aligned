@@ -1,0 +1,14 @@
+C1410 Manufacture of wearing apparel, except fur apparel	C14.29 Manufacture of other wearing apparel and accessories n.e.c.	0.5815162
+This class includes:	This class includes:	0.99999994
+- manufacture of babies' garments, tracksuits, ski suits, swimwear etc.	- manufacture of sportswear of broad woven fabrics (e.g. tracksuits, ski suits, other technical sportswear)	0.76091516
+- manufacture of hats and caps	- manufacture of hats and caps	1.0
+- manufacture of other clothing accessories: gloves, belts, shawls, ties, cravats, hairnets etc.	- manufacture of other clothing accessories (e.g. gloves, belts, shawls, ties, cravats, hairnets)	0.9500307
+This class also includes:	This class also includes:	1.0
+- manufacture of footwear of textile material without applied soles	- manufacture of footwear of textile material without applied soles, except knitted or crocheted	0.8737626
+This class excludes:	This class excludes:	0.99999994
+- manufacture of wearing apparel of fur skins (except headgear), see 1420	- manufacture of knitted or crocheted footwear without applied soles, see 14.10	0.679566
+- manufacture of knitted or crocheted wearing apparel and other made-up articles directly into shape, see 1430	- manufacture of knitted and crocheted swimwear, see 14.10	0.74209595
+- manufacture of footwear, see 1520	- manufacture of swimwear, see 14.22	0.66093856
+- manufacture of leather sports gloves and sports headgear, see 3230	- manufacture of fur clothing accessories, see 14.24	0.6047394
+- manufacture of safety headgear (except sports headgear), see 3290	- manufacture of plastic headgear excluding safety headgear, see 22.26	0.6873672
+- manufacture of fire-resistant and protective safety clothing, see 3290	- manufacture of safety headgear, see 32.99	0.6868509

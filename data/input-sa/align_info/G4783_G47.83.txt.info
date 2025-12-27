@@ -1,0 +1,10 @@
+File: G4783_G47.83.txt
+File Elapsed Time: 0:00:00.481569
+Source file length: 9
+Target file length: 10
+Nodes: 132
+Gale-Church Elapsed Time: 2025-12-26 16:19:46.998862
+Align Elapsed Time: 0:05:22.144424
+Calc Anchors Elapsed Time: 2025-12-26 16:19:46.998863
+Greedy Algorithm Elapsed Time: 2025-12-26 16:19:46.998866
+Anchors: [[9, 10]]

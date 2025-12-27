@@ -1,0 +1,10 @@
+File: C10_C10.txt
+File Elapsed Time: 0:00:00.821436
+Source file length: 10
+Target file length: 9
+Nodes: 132
+Gale-Church Elapsed Time: 2025-12-26 16:19:46.998862
+Align Elapsed Time: 0:08:19.287438
+Calc Anchors Elapsed Time: 2025-12-26 16:19:46.998863
+Greedy Algorithm Elapsed Time: 2025-12-26 16:19:46.998866
+Anchors: [[10, 9]]

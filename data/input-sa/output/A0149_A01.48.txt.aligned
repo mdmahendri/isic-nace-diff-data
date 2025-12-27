@@ -1,0 +1,14 @@
+A0149 Raising of other animals	A01.48 Raising of other animals	0.8176948
+This class includes:	This class includes:	0.9999999
+- raising and breeding of semi-domesticated or other live animals: ostriches and emus and other birds that are not poultry insects rabbits and other fur animals reindeer	- raising and breeding of semi-domesticated or other live animals, e.g.: birds (except poultry and ostriches) insects rabbits and other fur animals	0.91760135
+- production of fur skins, skins of birds and reptiles from land farms	- production of bird skins from ranching operations or skins from farming reptiles (e.g. snakes and turtles)	0.795223
+- operation of worm farms, land mollusc farms, snail farms etc.	- operation of land worm farms, land mollusc farms, land snail farms, etc.	0.9859581
+- raising of silk worms, production of silk worm cocoons	- raising of silkworms, production of silkworm cocoons	0.99108285
+- bee-keeping, bee propagation for sale, and production of e.g. honey, beeswax, propolis, honeycomb	- beekeeping; production of bees byproducts (e.g. honey, beeswax, propolis, bee venom or honeycomb); bee propagation for sale	0.87515926
+- raising and breeding of pet animals (except fish): cats and dogs pet birds, e.g. parakeets hamsters.	- raising and breeding of pets (except fish), e.g.: cats and dogs birds (e.g. parakeets) hamsters	0.96951437
+This class excludes:	This class excludes:	0.99999994
+- production of hides and skins originating from hunting and trapping, see 0170	- production of hides and skins originating from hunting and trapping, see 01.70	0.8715154
+- operation of frog farms, crocodile farms, marine worm farms, see 0321, 0322	- operation of frog farms, crocodile farms, marine worm farms, see 03.21, 03.22	0.86750764
+- operation of fish farms, see 0321, 0322	- operation of fish farms, see 03.21, 03.22	0.820601
+- boarding and training of pet animals, see 9690	- boarding and training of pets, see 96.99	0.8220521
+- operation of animal shelters for abandoned (pet) animals, see 9690	- operation of shelters for abandoned pets, see 96.99	0.7913258

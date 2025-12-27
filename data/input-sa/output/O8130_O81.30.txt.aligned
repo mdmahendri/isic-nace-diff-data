@@ -1,0 +1,30 @@
+O8130 Landscape service activities	O81.30 Landscape service activities	0.8988677
+This class includes:	This class includes:	0.99999994
+- planting, care and maintenance of: parks and gardens for:	- planting, care and maintenance of parks and gardens for:	0.9866054
+private and public housing	private and public housing	0.9999999
+public and semi-public buildings (schools, hospitals, administrative buildings, church buildings etc.)	public and semi-public buildings (schools, hospitals, administrative buildings, church buildings, etc.)	0.9991203
+municipal grounds (parks, green areas, cemeteries etc.)	municipal grounds (parks, green areas, cemeteries, etc.)	0.9991722
+highway greenery (roads, train lines and tramlines, waterways, ports)	highway greenery (roads, train lines and tramlines, waterways, ports)	1.0
+industrial and commercial buildings	industrial and commercial buildings	0.99999994
+- planting, care and maintenance of greenery for:	- planting, care and maintenance of greenery for:	0.99999994
+buildings (roof gardens, faade greenery, indoor gardens etc.)	buildings (roof gardens, facade greenery, indoor gardens, etc.)	0.98053634
+sports grounds (football fields, golf courses etc.), play grounds, lawns for sunbathing and other recreational parks	sports grounds (football fields, golf courses, etc.), playgrounds, lawns for sunbathing and other recreational parks	0.9976245
+stationary and flowing water (basins, alternating wet areas, ponds, swimming pools, ditches, watercourses, plant sewage systems)	stationary and flowing water (basins, alternating wet areas, ponds, swimming pools, ditches, watercourses, plant sewage systems)	1.0
+- planting of vegetation for protection against noise, wind, erosion, visibility	- planting of vegetation for protection against noise, wind, erosion, visibility	1.0
+- protection and restoring landscape, e.g. for parks, gardens	- protection and restoring landscape (e.g. for parks, gardens)	0.97449285
+- ecological engineering works for the purpose of ecological preservation of sites	- ecological engineering works for the purpose of ecological preservation of sites	1.0
+This class also includes:	This class also includes:	0.9999999
+- activities relating to amenity tree care and arboriculturerestoration of natural environments, e.g. plant engineering, , renaturation of ecosystems etc.	- restoration of natural environments (e.g. plant engineering, renaturation of ecosystems)	0.8538518
+- erosion control activities in mountain environments, spawning grounds, and river banks	- erosion control activities in mountain environments, spawning grounds and riverbanks	0.99525464
+- creation and relocation of species habitats, e.g. nesting boxes, shelters, hibernacula	- creation and relocation of species habitats (e.g. nesting boxes, shelters, hibernacula)	0.97115344
+- prevention, control and response activities against the introduction and spread of invasive species in fauna or flora	- prevention, control and response activities against the introduction and spread of invasive species in fauna or flora	1.0
+- environmental management, e.g. performing protection and maintenance measures for dunes, moors, wetlands or other sensitive areas, eco-grazing etc.	- environmental management (e.g. performing protection and maintenance measures for dunes, moors, wetlands or other sensitive areas; eco-grazing)	0.9535822
+This class excludes:	This class excludes:	0.9999999
+- protection or restoration activities of agricultural and forest land, see divisions 01 and 02	- protection or restoration activities of agricultural and forestry land, see divisions 01 and 02	0.99889886
+- commercial growing and planting for commercial growing of plants, trees, see divisions 01 and 02	- commercial growing and planting for commercial growing of plants, trees, see divisions 01 and 02	1.0000001
+- tree nurseries and forest tree nurseries, see 0130, 0210	- tree nurseries and forest tree nurseries, see 01.30, 02.10	0.8204186
+- keeping the land in good environmental condition for agricultural use, see 0161	- keeping the land in good environmental condition for agricultural use, see 01.61	0.8969976
+- restoration of marine ecosystems, see 0330	- restoration of marine ecosystems, see 03.30	0.892131
+- construction activities for landscaping purposes, see section F	- construction activities for landscaping purposes, see section F	1.0
+- landscape design and architecture activities, see 7110	- landscape design and architectural activities, see 71.11	0.85060966
+- operation of national parks, nature reserves etc., include conservation and maintenance, see 914	- operation of national parks, nature reserves, etc., including conservation and maintenance, see 91.42	0.9058894

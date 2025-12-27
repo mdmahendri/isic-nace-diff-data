@@ -1,0 +1,26 @@
+K6310 Computing infrastructure, data processing, hosting and related activities	K63.10 Computing infrastructure, data processing, hosting and related activities	0.95683396
+This class includes:	This class includes:	0.99999994
+- provision of computing infrastructure including cloud infrastructure and platform provision (IaaS, PaaS)	- provision of computing infrastructure, including cloud infrastructure and platform provision (IaaS, PaaS)	0.99861217
+- cloud computing (except software publishing and computer systems design), whether or not in combination with infrastructure provision	- cloud computing (except software publishing and computer systems design), whether or not in combination with infrastructure provision	0.9999999
+- provision of technical infrastructure related to streaming services - data processing services and related activities:	- provision of technical infrastructure related to streaming services, data processing services and related activities:	0.9749452
+complete processing of data supplied by clients	complete processing of data supplied by clients	0.99999994
+generation of specialized reports from data supplied by clients	generation of specialised reports from data supplied by clients	0.99754155
+blockchain/distributed ledger technology (DLT) data processing activities	blockchain / distributed ledger technology (DLT) data processing activities	1.0
+- specialized hosting activities such as:	- specialised hosting activities, e.g.:	0.97360075
+web hosting	web hosting	0.9999999
+application hosting	application hosting	0.99999994
+- general time-share provision of mainframe facilities to clients	- general time-share provision of mainframe facilities to clients	0.99999994
+- digitalisation of files (for further processing of data)	- digitalisation of files (for further processing of data)	1.0
+- provision of data entry services	- provision of data entry services	1.0
+- data centre colocation activities (i.e., rental of server and networking space in data centres, )	- data centre colocation activities (i.e. rental of server and networking space in data centres, including routine monitoring of servers)	0.9437052
+- computer data storage services	- digital data storage	0.8204084
+- issuing of crypto assets without a corresponding liability (not by a monetary authority)	- issuing of crypto-assets without a corresponding liability (not by a monetary authority)	0.9987842
+This class excludes:	This class excludes:	0.9999999
+- software publishing, see 582	- software publishing, see 58.2	0.78436875
+- postproduction services to convert video content into streaming formats, see 5912	- post-production services to convert video content into streaming formats, see 59.12	0.86457527
+- postproduction services to convert audio content into streaming formats, see 5920	- post-production services to convert audio content into streaming formats, see 59.20	0.8617762
+- third party on-demand audio streaming distribution services, see 6010	- audio streaming and download distribution service activities not associated with publishing, see 60.10	0.6912276
+- third party on-demand video streaming distribution services, see 6020	- video streaming and download distribution service activities not associated with publishing, see 60.20	0.6860327
+- computer systems design, see 6220	- computer systems design, see 62.20	0.8470695
+- issuing of digital currency, see 6411	- electronic storage of archival material for access by the general public, see 91.12	0.47366014
+- repair and maintenance of computers and communications equipment, see 9510	- repair and maintenance of computers and communication equipment, see 95.10	0.9049928

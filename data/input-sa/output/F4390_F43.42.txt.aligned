@@ -1,0 +1,9 @@
+F4390 Other specialized construction activities	F43.42 Other specialised construction activities in construction of buildings	0.8188244
+This class includes:	This class includes:	1.0
+- construction activities specializing in one aspect common to different kind of structures, requiring specialized skill or equipment:	- construction activities specialising in one aspect common to construction of buildings, requiring specialised skills or equipment:	0.95235175
+* construction of foundations, including pile driving	construction of foundations for buildings, including piledriving	0.80723536
+* de-humidification of buildings	de-humidification of buildings	0.89227927
+* erection of non-self-manufactured steel elements	erection of prefabricated, not self-manufactured, structural steel components for buildings	0.73706174
+* erection of chimneys and industrial ovens	erection of chimneys and industrial ovens	0.88305736
+This class excludes:	This class excludes:	0.99999994
+- renting of construction machinery and equipment without operator, see 7730	- construction or installation of masonry heater stoves, see 43.22	0.49266732

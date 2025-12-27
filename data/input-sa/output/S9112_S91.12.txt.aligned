@@ -1,0 +1,15 @@
+S9112 Archive activities	S91.12 Archive activities	0.8958713
+Archive activities include the activities carried out by archival services of all types, with a view to building, storing, classifying, physical or digital archive collections and communicating them to the general public or to a particular category of users	Archive activities include the activities carried out by archival services of all types, with a view to building, storing, classifying, physical or digital archive collections and communicating them to the general public or to a particular category of users.	0.9886635
+This class includes:	This class includes:	0.99999994
+- activities of public archives providing service to the general public or to a special clientele, such as - students, scientists, staff, members as well as operation of government archives	- activities of public archives providing a service to the general public or to a special clientele (e.g. students, scientists, staff members) as well as the operation of government archives	0.94622433
+- activities related to the acquisition or collection of archives - activities related to the identification, stocktaking, description and classification of archives	- activities related to the acquisition or collection of archives - activities related to the identification, stocktaking, description and classification of archives	1.0000001
+- activities related to the safety and maintenance of collections (monitoring of the sanitary status and climatic conditions, safety and security, rehabilitation)	- activities related to the safety and maintenance of archive items (monitoring of the sanitary status and of climatic conditions, safety and security, rehabilitation)	0.973315
+- activities related to communication of archives to the public on site or remotely	- activities related to the communication of archives to the public on site or remotely	0.99930394
+- cultural and pedagogical activities related to the valorisation of archives	- digitisation of archival documents for digital archive collections	0.5894663
+This class also includes:	This class also includes:	0.9999999
+- archiving of all kind of documents (in paper or electronic form)	- archiving of all kinds of documents (in paper or electronic form)	0.9985228
+This class excludes:	This class excludes:	1.0
+- digitisation of files (without any other related activity), see 8210	- retail sale of manuscripts, see 47.69 - storage of data files, see 63.10	0.492052
+- digitisation of files (linked to further processing of data), see 6310	- digitisation of files (linked to further processing of data), see 63.10	0.9414604
+- retail sales of manuscripts, see 4769 - services such as restoration of works of art and museum collection objects and preventive conservation	- digitisation of files (without any other related activity), see 82.10	0.5216052
+- restoration of works of art and museum collection objects and preventive conservation of artworks if not conducted by units classified in 912, see 913	- conservation and restoration of cultural heritage, see 91.30	0.64727443

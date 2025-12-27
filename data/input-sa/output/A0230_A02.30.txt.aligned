@@ -1,0 +1,10 @@
+A0230 Gathering of non-wood forest products	A02.30 Gathering of wild growing non-wood products	0.85802287
+This class includes:	This class includes:	0.9999999
+- gathering of wild growing materials, e.g.: mushrooms, truffles berries nuts balata and other rubber-like gums cork lac and resins balsams acorns, horse chestnuts mosses and lichens vegetable hair/eelgrass.	- gathering of wild growing materials, e.g.: mushrooms, truffles berries nuts	0.74542165
+This class includes also:	This class also includes:	0.9993104
+- harvesting wild herbs and associated natural drying.	- harvesting wild herbs and associated natural drying	0.9627297
+This class excludes:	This class excludes:	0.99999994
+- managed production of any of these products (except growing of cork trees), see division 01	- non-wild growing of any of these products (except growing of cork trees), see division 01	0.93392617
+- growing of mushrooms or truffles, see 0113	- growing of mushrooms or truffles, see 01.13	0.85849273
+- growing of berries or nuts, see 0125	- growing of berries or nuts, see 01.25	0.8231196
+- gathering of fire wood, see 0220	- gathering of firewood, see 02.20	0.83799124

@@ -1,0 +1,10 @@
+File: R8890_R88.91.txt
+File Elapsed Time: 0:00:00.492328
+Source file length: 15
+Target file length: 6
+Nodes: 136
+Gale-Church Elapsed Time: 2025-12-26 16:19:46.998862
+Align Elapsed Time: 0:03:07.784517
+Calc Anchors Elapsed Time: 2025-12-26 16:19:46.998863
+Greedy Algorithm Elapsed Time: 2025-12-26 16:19:46.998866
+Anchors: [[15, 6]]

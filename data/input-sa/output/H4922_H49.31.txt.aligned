@@ -1,0 +1,9 @@
+H4922 Other passenger land transport	H49.31 Scheduled passenger transport by road	0.66381705
+This class includes:	This class includes:	1.0
+- charters, excursions and other occasional coach services - taxi operation - airport shuttles - operation of funiculars, cable cars and ski lifts, if they are not part of urban or suburban transit systems or not in combination with the operation of ski hills	- scheduled urban, suburban or long-distance road transport of passengers by e.g. bus, coach, trolleybus, minibus. Such transport follows a fixed timetable, entailing the picking up and setting down of passengers normally at fixed stops	0.66546136
+This class also includes:	This class also includes:	1.0
+- operation of school buses and buses for transport of employees	- operation of school buses and buses for the transport of employees	0.9992965
+- passenger transport by man- or animal-drawn vehicles	- scheduled passenger transport by road for sightseeing	0.6910607
+This class excludes:	This class excludes:	1.0
+- ambulance transport, see 8699	- passenger rail transport, see 49.1	0.6210282
+- operation of cableways, ski lifts and chairlifts as part of the operation of ski hills, see 9329	- operation of aerial cableways, etc., see 49.34	0.57889587

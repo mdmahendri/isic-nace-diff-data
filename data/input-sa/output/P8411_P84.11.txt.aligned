@@ -1,0 +1,15 @@
+P8411 General public administration activities	P84.11 General public administration activities	0.92535806
+This class includes:	This class includes:	0.99999994
+- executive and legislative administration of central, regional and local bodies	- executive and legislative administration of central, regional and local bodies	1.0
+- public general administration at national and regional level	- activities of ministries at national and regional levels	0.7942635
+- administration and supervision of fiscal affairs:	- administration and supervision of fiscal affairs:	1.0
+operation of taxation schemes	operation of taxation schemes	0.9999999
+duty/tax collection on goods and tax violation investigation	duty/tax collection and tax violation investigation	0.9167176
+customs administration - budget implementation and management of public funds and public debt: raising and receiving of money and control of their disbursement - administration of overall (civil) research and development policy and associated funds	customs administration - budget implementation and management of public funds and public debt: raising and receiving of money and control of their disbursement - administration of overall (civil) research and development policy and associated funds	1.0000001
+- administration and operation of overall economic and social planning and statistical services at the various levels of government	- administration and operation of overall economic and social planning and statistical services at the various levels of government	1.0
+This class excludes:	This class excludes:	1.0
+- central banking, see 6411	- central banking, see 64.11	0.8352004
+- administration of research and development policies intended to increase personal well-being and of associated funds, see 8412	- administration of research and development policies intended to increase personal well-being and of associated funds, see 84.12	0.9316239
+- administration of research and development policies intended to improve economic performance and competitiveness, see 8412	- administration of research and development policies intended to improve economic performance and competitiveness, see 84.13	0.9098871
+- administration of defence-related research and development policies and of associated funds, see 8422	- administration of defence-related research and development policies and of associated funds, see 84.22	0.9416764
+- operation of government archives, see 9112	- operation of government archives, see 91.12	0.8524049

@@ -1,0 +1,15 @@
+C3030 Manufacture of air and spacecraft and related machinery	C30.32 Manufacture of military air and spacecraft and related machinery	0.88058305
+This class includes the manufacture of civilian and military air and spacecraft and related machinery.	This class includes the manufacture of military aircraft and spacecraft and related machinery.	0.958128
+It includes:	The class includes the manufacture of:	0.5767454
+- manufacture of helicopters	- fixed-wing aircraft	0.62593585
+- manufacture of gliders, hang-gliders	- tiltrotor aircraft	0.6064349
+- manufacture of ground flying trainers	- rotary-wing aircraft	0.58361125
+- manufacture of military drones, Unmanned Aerial Vehicles (UAVs)	- drones for military purposes (unmanned aerial vehicles (UAVs))	0.83485633
+This class also includes:	This class also includes:	1.0
+- overhaul and conversion of aircraft or aircraft engines	- factory overhaul and rebuilding military air and spacecraft	0.8016141
+- manufacture of aircraft seats	- manufacture of military aircraft seats	0.9106332
+This class excludes:	This class excludes:	1.0
+- manufacture of military ordinance and ammunition, see 2520	- manufacture of weapons and ammunition, see 25.30	0.8122401
+- manufacture of telecommunication equipment for satellites, see 2630	- manufacture of missiles for military purposes, see 25.30	0.63745433
+- manufacture of aircraft instrumentation and aeronautical instruments, see 2651	- manufacture of civilian air and spacecraft and related machinery, see 30.31	0.76849645
+- manufacture of aircraft launching gear, aircraft carrier catapults and related equipment, see 2829	- repair and maintenance of military air and spacecraft machinery, see 33.18	0.59488165

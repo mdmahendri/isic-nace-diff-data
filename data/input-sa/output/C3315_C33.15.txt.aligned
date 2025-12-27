@@ -1,0 +1,13 @@
+C3315 Repair and maintenance of transport equipment, except motor vehicles	C33.15 Repair and maintenance of civilian ships and boats	0.6529226
+This class includes the repair and maintenance of transport equipment of division 30, except motorcycles and bicycles.	This class includes the repair and maintenance of civilian ships and boats.	0.6014749
+This class includes:	This class includes:	0.9999999
+- repair and routine maintenance of ships	- repair and routine maintenance of civilian ships	0.93181705
+- repair and maintenance of pleasure boats	- repair and maintenance of pleasure boats	1.0
+- repair and maintenance of locomotives and railroad cars (except factory rebuilding or factory conversion)	- repair and maintenance of civilian ship and boat engines, including electric outboard motors	0.7546164
+- repair and maintenance of aircraft engines	- repair and maintenance of floating structures	0.8271198
+This class excludes:	This class excludes:	1.0
+- factory rebuilding of ships, see 3011	- factory overhaul of engines for civilian and sport/recreational ships and boats, see 28.11	0.6368767
+- factory rebuilding of locomotives and railroad cars, see 3020	- factory overhaul and rebuilding of civilian ships and boats, see 30.11	0.7661792
+- factory rebuilding of aircraft, see 3030	- factory overhaul and rebuilding of sport/recreational ships and boats, see 30.12	0.68067425
+- repair of ship or rail engines, see 3312	- repair and maintenance of military ships and boats, see 33.18	0.71912414
+- repair and maintenance of motor vehicles, see 9531	- repair and maintenance of military ship and boat engines, see 33.18	0.65125567

@@ -1,0 +1,10 @@
+F4312 Site preparation	F43.13 Test drilling and boring	0.43088
+This class includes:	This class includes:	0.99999994
+- drilling, boring and core sampling for construction, geophysical, geological or similar purposes	- test drilling, test boring and core sampling for construction, geophysical, geological or similar purposes	0.9749685
+This class excludes:	This class excludes:	0.99999994
+- drilling of production oil or gas wells, see 0610, 0620	- drilling of production oil or gas wells, see 06.10, 06.20	0.9085953
+- test drilling and test hole boring for mining operations (other than oil and gas extraction), see 0990	- test drilling, associated with extraction of petroleum or gas, see 09.10	0.7788863
+- decontamination of soil, see 3900	- test drilling and boring support services (e.g. associated with mining activities), see 09.90	0.5145789
+- water well drilling, see 4220	- water well drilling, see 42.21	0.7784604
+- shaft sinking, see 4390	- shaft sinking, see 43.50	0.72339404
+- oil and gas field exploration, geophysical, geological and seismic surveying, see 7110	- exploration of oilfields and gas fields, geophysical, geological and seismic surveying, see 71.12	0.88403165

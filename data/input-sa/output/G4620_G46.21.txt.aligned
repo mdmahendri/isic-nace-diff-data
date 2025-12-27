@@ -1,0 +1,10 @@
+G4620 Wholesale of agricultural raw materials and live animals	G46.21 Wholesale of grain, unmanufactured tobacco, seeds and animal feeds	0.67978823
+This class includes:	This class includes:	1.0
+- wholesale of grains and seeds and seeds for planting	- wholesale of grains and seeds for planting	0.9748941
+- wholesale of oleaginous fruits	- wholesale of oleaginous fruits	1.0
+- wholesale of unmanufactured tobacco	- wholesale of unmanufactured tobacco	1.0
+- wholesale of agricultural material, waste, residues and by-products used for animal feed	- wholesale of livestock feed and agricultural raw materials	0.7916731
+This class excludes:	This class excludes:	1.0000001
+- activities of wholesalers who do not assume ownership of the goods they trade, see 461	- wholesale of seeds of flowers and plants, see 46.22	0.5013963
+- wholesale of food for pet animals, see 4630	- wholesale of food for pets, see 46.38	0.79440904
+- wholesale of textile fibres, see 4679	- wholesale of textile fibres, see 46.86	0.81208646

@@ -1,0 +1,12 @@
+G4774 Retail sale of second-hand goods	G47.79 Retail sale of second-hand goods	0.8932388
+This class includes:	This class includes:	0.99999994
+- retail sale of second-hand books	- retail sale of second-hand books	1.0
+- retail sale of antiques	- retail sale of antiques	1.0
+- retail sale of second-hand clothes - retail sale of second-hand furniture	- retail sale of second-hand clothes - retail sale of second-hand furniture	1.0000001
+- retail sale of second-hand household appliances	- retail sale of second-hand household appliances	1.0
+- retail sale of other second-hand goods	- retail sale of other second-hand goods	1.0
+This class excludes:	This class excludes:	1.0
+- retail sale of second-hand motor vehicles, motorcycles and related parts and accessories, see 478	- retail sale of second-hand motor vehicles, motorcycles, and related parts and accessories, see 47.8	0.91393137
+- activities of retail auctioneering houses of new and used third party goods, including internet retail auctions, see 479	- activities of retail auctioneering houses for both new and used third-party goods, including internet retail auctions, see 47.9	0.9183314
+- activities of space rental, including staff, for second-hand goods, see 4790	- activities of space rental, including staff, for second-hand goods, see 47.91	0.81920516
+- activities of pawn shops, see 6495	- activities of pawnshops, see 64.92	0.7580061

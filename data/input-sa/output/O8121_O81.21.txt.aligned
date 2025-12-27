@@ -1,0 +1,10 @@
+O8121 General cleaning of buildings	O81.21 General cleaning of buildings	0.91118747
+This class includes:	This class includes:	1.0
+- general (non-specialised) cleaning of all types of buildings, such as:	- general (non-specialised) cleaning of all types of buildings, e.g.:	0.99412036
+offices	offices	1.0
+private dwellings, e.g. houses or apartments	private dwellings (e.g. houses or apartments)	0.9373801
+factories shops institutions	factories shops institutions	1.0000001
+- general (non-specialised) cleaning of other business and professional premises and multiunit residential buildings	- general (non-specialised) cleaning of other business and professional premises and multi-unit residential buildings	0.999056
+These general cleaning activities are mostly interior cleaning although they may include the cleaning of associated exterior areas such as windows or passageways.	These general cleaning activities are mostly interior cleaning although they may include the cleaning of associated exterior areas (for example, windows, passageways).	0.91240406
+This class excludes:	This class excludes:	1.0
+- specialised cleaning activities, e.g. cleaning of windows, chimneys, fireplaces, boilers, exhaust units, see 8129	- specialised cleaning activities (e.g. cleaning of windows, chimneys, fireplaces, boilers, exhaust units), see 81.22	0.9089611

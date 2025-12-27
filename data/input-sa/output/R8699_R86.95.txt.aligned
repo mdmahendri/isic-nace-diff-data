@@ -1,0 +1,11 @@
+R8699 Other human health activities n.e.c	R86.95 Physiotherapy activities	0.54175043
+This class includes: - activities for human health n.e.c.:	This class includes therapies provided by independent professionals to improve mobility, restore function or reduce pain.	0.48317617
+These activities do not involve medical treatment.	The therapies provided include physiotherapy, and so on.	0.42727637
+This class also includes:	This class also includes:	0.9999999
+- activities of dental paramedical personnel such as dental therapists, school dental nurses and dental hygienists, who may work remote from, but are periodically supervised by, the dentist	- activities of medical massage therapists	0.6341693
+- activities of medical laboratories such as:	- activities of ergotherapists	0.6746237
+- activities of blood banks, sperm banks, transplant organ banks etc.	- activities of occupational therapists	0.5432378
+This class excludes:	This class excludes:	1.0
+- hospital activities, see 8610	- activities of osteopaths, see 86.96	0.6340501
+- medical and dental practice activities, see 8620	- activities of chiropractors, see 86.96	0.5552772
+- nursing care facilities, see 8710	- activities of massage salons for non-medical massage, see 96.23	0.48697364

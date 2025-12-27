@@ -1,0 +1,15 @@
+F4312 Site preparation	F43.12 Site preparation	0.8630742
+This class includes:	This class includes:	0.99999994
+- clearing of building sites	- clearing of building sites	1.0
+- earth moving: excavation, landfill, levelling and grading of construction sites, trench digging, rock removal, blasting, etc.	- earth moving (e.g. excavation, landfill, levelling, trench digging, blasting)	0.844272
+This class also includes:	This class also includes:	0.9999999
+- site preparation for mining:	- site preparation for mining, e.g.:	0.87670493
+* overburden removal and other development and preparation of mineral properties and sites, except oil and gas sites	overburden removal and other development and preparation of mineral properties and sites, except oil and gas sites	0.8842447
+- building site drainage	- building site drainage	1.0
+- drainage of agricultural or forestry land	- drainage of agricultural or forestry land	1.0
+This class excludes:	This class excludes:	0.99999994
+- drilling of production oil or gas wells, see 0610, 0620	- drilling of production oil or gas wells, see 06.10, 06.20	0.9085953
+- test drilling and test hole boring for mining operations (other than oil and gas extraction), see 0990	- test drilling, associated with extraction of petroleum or gas, see 09.10 - test drilling and boring support services (e.g. associated with mining activities), see 09.90	0.81495166
+- decontamination of soil, see 3900	- decontamination of soil, see 39.00	0.86296797
+- water well drilling, see 4220	- water well drilling, see 42.21	0.7784604
+- shaft sinking, see 4390	- shaft sinking, see 43.50	0.72339404

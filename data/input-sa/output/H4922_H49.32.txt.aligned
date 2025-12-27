@@ -1,0 +1,8 @@
+H4922 Other passenger land transport	H49.32 Non-scheduled passenger transport by road	0.7029296
+This class includes:	This class includes:	0.99999994
+- other passenger road transport: - scheduled long-distance bus services - charters, excursions and other occasional coach services - taxi operation	- non-scheduled urban, interurban and long-distance road transport of passengers in vehicles of 10 or more persons.	0.643718
+- operation of funiculars, cable cars and ski lifts, if they are not part of urban or suburban transit systems or not in combination with the operation of ski hills	This may include transport by bus, coach, trolleybus or minibus.	0.45854098
+This class also includes:	This class excludes:	0.86689067
+- other renting of private cars with driver	- passenger rail transport, see 49.1	0.45653358
+- operation of school buses and buses for transport of employees	- operation of school buses and buses for the transport of employees, see 49.31	0.76337755
+- ambulance transport, see 8699 - operation of cableways, ski lifts and chairlifts as part of the operation of ski hills, see 9329	- on-demand passenger transport services in vehicles with a driver for a maximum of 9 persons (taxi, etc.), see 49.33	0.5850657

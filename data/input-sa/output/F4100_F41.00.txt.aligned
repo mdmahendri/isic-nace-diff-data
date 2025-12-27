@@ -1,0 +1,23 @@
+F4100 Construction of residential and non-residential buildings	F41.00 Construction of residential and non-residential buildings	0.88779676
+This class includes the construction of complete residential or non-residential buildings, as well as of additions and alterations.	This class includes the construction of complete residential or non-residential buildings, as well as additions and alterations.	0.9989842
+Outsourcing parts or the whole construction process is possible.	Outsourcing parts or the whole construction process is possible.	1.0
+If only specialised parts of the construction process are carried out, the activity is classified in division 43.	If only specialised parts of the construction process are carried out, the activity is classified in division 43.	1.0
+This class includes:	This class includes:	0.99999994
+- construction of all types of buildings:	- construction of all types of buildings:	1.0000001
+buildings for industrial production, e.g. factories and workshops	buildings for industrial production (e.g. factories, workshops)	0.93157446
+hospital, school and office buildings	hospital, school and office buildings	0.99999994
+hotel, store, shopping mall and restaurant buildings	hotel, store, shopping centre and restaurant buildings	0.98945415
+airport buildings	airport buildings	1.0
+indoor sports facilities	indoor sports facilities	0.9999999
+parking garages, including underground parking garages	parking garages, including underground parking garages	1.0
+warehouse buildings	warehouse buildings	0.9999999
+religious buildings	religious buildings	1.0
+- on-site construction of prefabricated buildings that are manufactured by a different unit	- erection of prefabricated buildings requiring on-site assembly	0.8274665
+This class also includes:	This class also includes:	0.9999999
+- complete remodelling or renovating of existing residential or non-residential buildings involving several specialised construction activities	- complete remodelling or renovating of existing residential or non-residential buildings involving several specialised construction activities	0.9999999
+- construction of air-supported buildings, e.g. air domes	- construction of air-supported buildings (e.g. air domes)	0.9715626
+This class excludes:	This class excludes:	0.99999994
+- construction of industrial facilities, except buildings, see 4290	- construction of industrial facilities, except buildings, see 42.99	0.89953065
+- development of building projects, for later sale, see 6810	- development of building projects, for later sale, see 68.12	0.84891
+- architectural and engineering activities, see 711	- architectural and engineering activities, see 71.1	0.89397955
+- project management for construction, see 711	- project management for construction, see 71.1	0.8869694

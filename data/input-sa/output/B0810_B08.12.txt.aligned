@@ -1,0 +1,8 @@
+B0810 Quarrying of stone, sand and clay	B08.12 Operation of gravel and sand pits and mining of clay and kaolin	0.73728347
+This class includes:	This class includes:	1.0
+- extraction and dredging of industrial sand, sand for construction and gravel	- extraction and dredging of industrial sand, sand for construction and gravel	1.0
+- breaking and crushing of stone and gravel	- breaking and crushing of gravel	0.91196865
+- quarrying of sand	- quarrying of sand	1.0
+- mining of clays, refractory clays and kaolin.	- mining of clays, refractory clays and kaolin	0.96193093
+This class excludes:	This class excludes:	0.99999994
+- mining of bituminous sand, see 0610	- mining of bituminous sand, see 06.10	0.86629325
